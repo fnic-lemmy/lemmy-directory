@@ -21,11 +21,11 @@ jobs:
         id: Login
         uses: fjogeleit/http-request-action@v1
         with:
-          url: "${{ env.LEMMY_URL }}"
-          data: '{"username_or_email":"${{ env.LEMMY_USER }}","password":"${{ secrets.LEMMY_PASSWORD }}"}'
+          url: "${{ vars.LEMMY_URL }}"
+          data: '{"username_or_email":"${{ vars.LEMMY_USER }}","password":"${{ secrets.LEMMY_PASSWORD }}"}'
 
       - name: print3
-        run: echo "{'name':'${{ env.POST_TITLE }}','body':'${{ steps.mainReadMe.outputs.content }}','nsfw':false,'post_id':${{ env.POST_ID }},'language_id':0,'auth':'${{ fromJson(steps.Login.outputs.response).jwt }}'}"
+        run: echo "{'name':'${{ vars.POST_TITLE }}','body':'${{ steps.mainReadMe.outputs.content }}','nsfw':false,'post_id':${{ vars.POST_ID }},'language_id':0,'auth':'${{ fromJson(steps.Login.outputs.response).jwt }}'}"
     
       - name: HTTP Request Action
         # You may pin to the exact commit or the version.
@@ -33,12 +33,12 @@ jobs:
         uses: satak/webrequest-action@master
         with:
           # Request URL
-          url: "${{ env.LEMMY_URL }}"
+          url: "${{ vars.LEMMY_URL }}"
           # Request Method
           method: "PUT"
           # Content Type
           contentType: "application/json"
           # Request Body as JSON String
           payload: |
-            {"name":"${{ env.POST_TITLE }}","body":${{ toJson(steps.mainReadMe.outputs.content) }},"nsfw":false,"post_id":${{ env.POST_ID }},"language_id":0,"auth":"${{ fromJson(steps.Login.outputs.response).jwt }}"}
+            {"name":"${{ vars.POST_TITLE }}","body":${{ toJson(steps.mainReadMe.outputs.content) }},"nsfw":false,"post_id":${{ vars.POST_ID }},"language_id":0,"auth":"${{ fromJson(steps.Login.outputs.response).jwt }}"}
           
