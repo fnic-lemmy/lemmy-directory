@@ -37,8 +37,8 @@ jobs:
           # Request Method
           method: "PUT"
           # Content Type
-          headers: '{"Content-Type": "application/json"}'
+          headers: '{"Content-Type": "application/json", "Authorization", "Bearer ${{ fromJson(steps.Login.outputs.response).jwt }}"}'
           # Request Body as JSON String
           payload: |
-            {"name":"${{ vars.POST_TITLE }}","body":${{ toJson(steps.mainReadMe.outputs.content) }},"nsfw":false,"post_id":${{ vars.POST_ID }},"language_id":0,"auth":"${{ fromJson(steps.Login.outputs.response).jwt }}"}
+            {"name":"${{ vars.POST_TITLE }}","body":${{ toJson(steps.mainReadMe.outputs.content) }},"nsfw":false,"post_id":${{ vars.POST_ID }},"language_id":0}
           
