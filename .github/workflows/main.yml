@@ -21,7 +21,7 @@ jobs:
         id: Login
         uses: fjogeleit/http-request-action@v1
         with:
-          url: "${{ vars.LEMMY_URL }}"
+          url: "https://${{ vars.LEMMY_URL }}/api/v3/user/login"
           data: '{"username_or_email":"${{ vars.LEMMY_USER }}","password":"${{ secrets.LEMMY_PASSWORD }}"}'
 
       - name: print3
@@ -33,7 +33,7 @@ jobs:
         uses: satak/webrequest-action@master
         with:
           # Request URL
-          url: "${{ vars.LEMMY_URL }}"
+          url: "https://${{ vars.LEMMY_URL }}/api/v3/post"
           # Request Method
           method: "PUT"
           # Content Type
