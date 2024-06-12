@@ -4,7 +4,7 @@ Directory is in early stages of WIP. Expect a lot of changes.
 ### 1.1. Imaginary Network 💭 (27 communities)
 1. **[Imaginary Fairies](/c/imaginaryfairies@lemmings.world)** | kbin link | direct link | lemmyverse.link? | sub count ![Lemmy](https://img.shields.io/lemmy/imaginaryfairies%40lemmings.world?style=flat-square&label=Subscribers)
 	- A community to post artworks of fairies and other [fae folk](https://teaandrosemary.com/types-of-fairies-types-of-fae/).
-2. **[Imaginary Witches](/c/imaginarywitches@lemmy.dbzer0.com)** ![Lemmy](https://img.shields.io/lemmy/imaginarywitches%lemmy.dbzer0.com?style=flat-square&label=Subscribers)
+2. **[Imaginary Witches](/c/imaginarywitches@lemmy.dbzer0.com)** ![Lemmy](https://img.shields.io/lemmy/imaginarywitches%40lemmy.dbzer0.com?style=flat-square&label=Subscribers)
 	- A community to share images of witches and any other witch adjacent characters like dark summoners, necromancers or mages with a witchy vibe.
 3. **[Imaginary Merfolk](/c/imaginarymerfolk@lemmy.dbzer0.com)** 
 	- A community to share images of mermaids, mermen and other humanoid merfolk.
