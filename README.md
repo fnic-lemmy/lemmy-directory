@@ -36,7 +36,7 @@ Artwork showing urban or societal degradation; run-down, grungy, or ramshackle y
 16. **[Imaginary Warhammer](/c/imaginarywarhammer@lemmy.world)** 🔒 ![Lemmy](https://img.shields.io/lemmy/imaginarywarhammer%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
 	- A community for Warhammer art. Fantasy, 40k, and Age Of Sigmar art is all welcome here!
 17. **[Imaginary Slice of Life](/c/imaginarysliceoflife@lemmy.dbzer0.com)** ![Lemmy](https://img.shields.io/lemmy/imaginarysliceoflife%40lemmy.dbzer0.com?style=flat-square&label=Subscribers&color=pink)
-	- description
+	- description 
 18. **[Imaginary Mechs](/c/imaginarymechs@lemmy.dbzer0.com)** ![Lemmy](https://img.shields.io/lemmy/imaginarymechs%40lemmy.dbzer0.com?style=flat-square&label=Subscribers&color=pink)
 	- description
 19. **[Imaginary Ground Vehicles](/c/imaginarygroundvehicles@lemmy.dbzer0.com)** ![Lemmy](https://img.shields.io/lemmy/imaginarygroundvehicles%40lemmy.dbzer0.com?style=flat-square&label=Subscribers&color=pink)
