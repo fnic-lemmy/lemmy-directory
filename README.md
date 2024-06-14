@@ -4,9 +4,9 @@ Directory is in early stages of WIP. Expect a lot of changes.
 
 🔒 = Locked community where only mods can create posts.
 
-x = Unmoderated community.
+⚠️ = Unmoderated community.
 
-x = Community looking for mods to help with moderation.
+📢 = Community looking for mods to help with moderation.
 
 # Directory (81 communities)
 
@@ -179,7 +179,7 @@ Artwork showing urban or societal degradation; run-down, grungy, or ramshackle y
 	- description
 15. **[ADHD Memes@lemmy.dbzer0.com](/c/adhd@lemmy.dbzer0.com)** ![Lemmy](https://img.shields.io/lemmy/adhd%40lemmy.dbzer0.com?style=flat-square&label=Subscribers&color=pink)
 	- description
-16. **[Itemshop@sh.itjust.works](/c/itemshop@sh.itjust.works)** ![Lemmy](https://img.shields.io/lemmy/itemshop%sh.itjust.works?style=flat-square&label=Subscribers&color=pink)
+16. **[Itemshop@sh.itjust.works](/c/itemshop@sh.itjust.works)** ![Lemmy](https://img.shields.io/lemmy/itemshop%40sh.itjust.works?style=flat-square&label=Subscribers&color=pink)
 	- description
 # 3. Meta 🧵
 # 4. FOSS 🔓
