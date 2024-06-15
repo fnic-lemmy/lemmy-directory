@@ -6,11 +6,11 @@ Directory is in early stages of WIP. Expect a lot of changes.
 
 ⚠️ = Unmoderated community.
 
-📢 = Community looking for mods to help with moderation.
+📢 = Community moderator/s looking for mods to help with moderation.
 
-# Directory (81 communities)
+# Directory (142 communities)
 
-# 1. Artworks (65 communities)
+# 1. Artworks (85 communities)
 ### 1.1. Imaginary Network 💭 (27 communities)
 1. **[Imaginary Fairies](/c/imaginaryfairies@lemmings.world)** | kbin link | direct link | lemmyverse.link? | sub count ![Lemmy](https://img.shields.io/lemmy/imaginaryfairies%40lemmings.world?style=flat-square&label=Subscribers&color=pink)
 	- A community to post artworks of fairies and other [fae folk](https://teaandrosemary.com/types-of-fairies-types-of-fae/).
@@ -67,124 +67,246 @@ Artwork showing urban or societal degradation; run-down, grungy, or ramshackle y
 	- description
 27. **[Imaginary Dolor](/c/imaginarydolor@lemmy.dbzer0.com)** 🔒 ![Lemmy](https://img.shields.io/lemmy/imaginarydolor%40lemmy.dbzer0.com?style=flat-square&label=Subscribers&color=pink)
 	- description
-### 1.2. General Artworks 🎨 (17 communities)
+### 1.2. General Artworks 🎨 (25 communities)
 1. **[Art Share](/c/artshare@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/artshare%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
 	- description
 2. **[Learn Art](/c/learnart@lemmy.dbzer0.com)** ![Lemmy](https://img.shields.io/lemmy/learnart%40lemmy.dbzer0.com?style=flat-square&label=Subscribers&color=pink)
 	- description
 3. **[Apocalyptic Art](/c/apocalypticart@discuss.tchncs.de)** ![Lemmy](https://img.shields.io/lemmy/apocalypticart%40discuss.tchncs.de?style=flat-square&label=Subscribers&color=pink)
 	- description
-4. **[Fancy Aesthetics@lemmy.world](/c/fancyaesthetics@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/fancyaesthetics%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
+4. **[Fancy Aesthetics](/c/fancyaesthetics@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/fancyaesthetics%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
 	- description
-5. **[Art by Kids@lemmy.world](/c/artbykids@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/artbykids%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
+5. **[Art by Kids](/c/artbykids@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/artbykids%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
 	- description
-6. **[Game Art@sopuli.xyz](/c/gameart@sopuli.xyz)** ![Lemmy](https://img.shields.io/lemmy/gameart%40sopuli.xyz?style=flat-square&label=Subscribers&color=pink)
+6. **[Game Art](/c/gameart@sopuli.xyz)** ![Lemmy](https://img.shields.io/lemmy/gameart%40sopuli.xyz?style=flat-square&label=Subscribers&color=pink)
 	- description
-7. **[Drawing@lemmy.world](/c/drawing@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/drawing%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
+7. **[Drawing](/c/drawing@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/drawing%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
 	- description
-8. **[Album Art Porn@lemmy.world](/c/albumartporn@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/albumartporn%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
+8. **[Album Art Porn](/c/albumartporn@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/albumartporn%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
 	- description
-9. **[Digital Art@lemmy.world](/c/digitalart@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/digitalart%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
+9. **[Digital Art](/c/digitalart@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/digitalart%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
 	- description
-10. **[Traditional Art@lemmy.world](/c/traditional_art@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/traditional_art%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
+10. **[Traditional Art](/c/traditional_art@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/traditional_art%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
 	- description
-11. **[Trans Art@lemmy.blahaj.zone](/c/transart@lemmy.blahaj.zone)** ![Lemmy](https://img.shields.io/lemmy/transart%40lemmy.blahaj.zone?style=flat-square&label=Subscribers&color=pink)
+11. **[Trans Art](/c/transart@lemmy.blahaj.zone)** ![Lemmy](https://img.shields.io/lemmy/transart%40lemmy.blahaj.zone?style=flat-square&label=Subscribers&color=pink)
 	- description
-12. **[Sapphic Art@lemmy.blahaj.zone](/c/sapphicart@lemmy.blahaj.zone)** ![Lemmy](https://img.shields.io/lemmy/sapphicart%40lemmy.blahaj.zone?style=flat-square&label=Subscribers&color=pink)
+12. **[Sapphic Art](/c/sapphicart@lemmy.blahaj.zone)** ![Lemmy](https://img.shields.io/lemmy/sapphicart%40lemmy.blahaj.zone?style=flat-square&label=Subscribers&color=pink)
 	- description
-13. **[Art Porn@lemm.ee](/c/artporn@lemm.ee)** ![Lemmy](https://img.shields.io/lemmy/artporn%40lemm.ee?style=flat-square&label=Subscribers&color=pink)
+13. **[Art Porn](/c/artporn@lemm.ee)** ![Lemmy](https://img.shields.io/lemmy/artporn%40lemm.ee?style=flat-square&label=Subscribers&color=pink)
 	- description
-14. **[Floating Is Fun@fedia.io](/m/FloatingIsFun@fedia.io)** ![Lemmy](https://img.shields.io/FloatingIsFun%40fedia.io?style=flat-square&label=Subscribers&color=pink)
+14. **[Floating Is Fun](/m/FloatingIsFun@fedia.io)** ![Lemmy](https://img.shields.io/FloatingIsFun%40fedia.io?style=flat-square&label=Subscribers&color=pink)
 	- description
-15. **[CRT Art@lemmy.world](/c/crtart@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/crtart%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
+15. **[CRT Art](/c/crtart@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/crtart%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
 	- description
-16. **[Propaganda Posters@lemmy.world](/c/propagandaposters@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/propagandaposters%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
+16. **[Propaganda Posters](/c/propagandaposters@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/propagandaposters%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
 	- description
-17. **[Vaporwave@sh.itjust.works](/c/vaporwave@sh.itjust.works)** ![Lemmy](https://img.shields.io/lemmy/vaporwave%40sh.itjust.works?style=flat-square&label=Subscribers&color=pink)
+17. **[Vaporwave](/c/vaporwave@sh.itjust.works)** ![Lemmy](https://img.shields.io/lemmy/vaporwave%40sh.itjust.works?style=flat-square&label=Subscribers&color=pink)
+	- description
+18. **[AI Art](/c/ai_art@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/ai_art%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
+	- description
+19. **[ImageAI](/c/imageai@sh.itjust.works)** ![Lemmy](https://img.shields.io/lemmy/imageai%40sh.itjust.works?style=flat-square&label=Subscribers&color=pink)
+	- description
+20. **[Imaginary](/c/imaginary@reddthat.com)** ![Lemmy](https://img.shields.io/lemmy/imaginary%40reddthat.com?style=flat-square&label=Subscribers&color=pink)
+	- description
+21. **[Hobbit Art](/c/hobbit_art@hobbit.world)** ![Lemmy](https://img.shields.io/lemmy/hobbit_art%40hobbit.world?style=flat-square&label=Subscribers&color=pink)
+	- description
+22. **[Psychedelic Artwork](/c/psychedelic_artwork@psychedelia.ink)** ![Lemmy](https://img.shields.io/lemmy/psychedelic_artwork%40psychedelia.ink?style=flat-square&label=Subscribers&color=pink)
+	- description
+23. **[Streetwear](/c/streetwear@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/streetwear%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
+	- description
+24. **[Wallpapers](/c/wallpapers@lemmy.ca)** ![Lemmy](https://img.shields.io/lemmy/wallpapers%40lemmy.ca?style=flat-square&label=Subscribers&color=pink)
+	- description
+25. **[Wallpapers](/c/wallpapers@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/wallpapers%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
 	- description
 ### 1.3. Anime Artworks 💢 (14 communities)
-1. **[Fang Moe@ani.social](/c/fangmoe@ani.social)** ![Lemmy](https://img.shields.io/lemmy/fangmoe%40ani.social?style=flat-square&label=Subscribers&color=pink)
+1. **[Fang Moe](/c/fangmoe@ani.social)** ![Lemmy](https://img.shields.io/lemmy/fangmoe%40ani.social?style=flat-square&label=Subscribers&color=pink)
 	- description
-2. **[Murder Moe@lemmy.world](/c/murdermoe@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/murdermoe%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
+2. **[Murder Moe](/c/murdermoe@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/murdermoe%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
 	- description
-3. **[Fit Moe@lemmy.world](/c/fitmoe@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/fitmoe%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
+3. **[Fit Moe](/c/fitmoe@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/fitmoe%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
 	- description
-4. **[Kawaii Braids@sh.itjust.works](/c/kawaii_braids@sh.itjust.works)** ![Lemmy](https://img.shields.io/lemmy/kawaii_braids%40sh.itjust.works?style=flat-square&label=Subscribers&color=pink)
+4. **[Kawaii Braids](/c/kawaii_braids@sh.itjust.works)** ![Lemmy](https://img.shields.io/lemmy/kawaii_braids%40sh.itjust.works?style=flat-square&label=Subscribers&color=pink)
 	- description
-5. **[Cyber Moe@ani.social](/c/cybermoe@ani.social)** ![Lemmy](https://img.shields.io/lemmy/cybermoe%40ani.social?style=flat-square&label=Subscribers&color=pink)
+5. **[Cyber Moe](/c/cybermoe@ani.social)** ![Lemmy](https://img.shields.io/lemmy/cybermoe%40ani.social?style=flat-square&label=Subscribers&color=pink)
 	- description
-6. **[Kemono Moe@ani.social](/c/kemonomoe@ani.social)** ![Lemmy](https://img.shields.io/lemmy/kemonomoe%40ani.social?style=flat-square&label=Subscribers&color=pink)
+6. **[Kemono Moe](/c/kemonomoe@ani.social)** ![Lemmy](https://img.shields.io/lemmy/kemonomoe%40ani.social?style=flat-square&label=Subscribers&color=pink)
 	- description
-7. **[Midriff Moe@ani.social](/c/midriffmoe@ani.social)** ![Lemmy](https://img.shields.io/lemmy/midriffmoe%40ani.social?style=flat-square&label=Subscribers&color=pink)
+7. **[Midriff Moe](/c/midriffmoe@ani.social)** ![Lemmy](https://img.shields.io/lemmy/midriffmoe%40ani.social?style=flat-square&label=Subscribers&color=pink)
 	- description
-8. **[Street Moe@ani.social](/c/streetmoe@ani.social)** ![Lemmy](https://img.shields.io/lemmy/streetmoe%40ani.social?style=flat-square&label=Subscribers&color=pink)
+8. **[Street Moe](/c/streetmoe@ani.social)** ![Lemmy](https://img.shields.io/lemmy/streetmoe%40ani.social?style=flat-square&label=Subscribers&color=pink)
 	- description
-9. **[Thicc Moe@ani.social](/c/thiccmoe@ani.social)** ![Lemmy](https://img.shields.io/lemmy/thiccmoe%40ani.social?style=flat-square&label=Subscribers&color=pink)
+9. **[Thicc Moe](/c/thiccmoe@ani.social)** ![Lemmy](https://img.shields.io/lemmy/thiccmoe%40ani.social?style=flat-square&label=Subscribers&color=pink)
 	- description
-10. **[Office Moe@ani.social](/c/officemoe@ani.social)** ![Lemmy](https://img.shields.io/lemmy/officemoe%40ani.social?style=flat-square&label=Subscribers&color=pink)
+10. **[Office Moe](/c/officemoe@ani.social)** ![Lemmy](https://img.shields.io/lemmy/officemoe%40ani.social?style=flat-square&label=Subscribers&color=pink)
 	- description
-11. **[Megane Moe@ani.social](/c/meganemoe@ani.social)** ![Lemmy](https://img.shields.io/lemmy/meganemoe%40ani.social?style=flat-square&label=Subscribers&color=pink)
+11. **[Megane Moe](/c/meganemoe@ani.social)** ![Lemmy](https://img.shields.io/lemmy/meganemoe%40ani.social?style=flat-square&label=Subscribers&color=pink)
 	- description
-12. **[Goth Moe@ani.social](/c/gothmoe@ani.social)** ![Lemmy](https://img.shields.io/lemmy/gothmoe%40ani.social?style=flat-square&label=Subscribers&color=pink)
+12. **[Goth Moe](/c/gothmoe@ani.social)** ![Lemmy](https://img.shields.io/lemmy/gothmoe%40ani.social?style=flat-square&label=Subscribers&color=pink)
 	- description
-13. **[Military Moe@ani.social](/c/militarymoe@ani.social)** ![Lemmy](https://img.shields.io/lemmy/militarymoe%40ani.social?style=flat-square&label=Subscribers&color=pink)
+13. **[Military Moe](/c/militarymoe@ani.social)** ![Lemmy](https://img.shields.io/lemmy/militarymoe%40ani.social?style=flat-square&label=Subscribers&color=pink)
 	- description
-14. **[Morph Moe@ani.social](/c/morphmoe@ani.social)** ![Lemmy](https://img.shields.io/lemmy/morphmoe%40ani.social?style=flat-square&label=Subscribers&color=pink)
+14. **[Morph Moe](/c/morphmoe@ani.social)** ![Lemmy](https://img.shields.io/lemmy/morphmoe%40ani.social?style=flat-square&label=Subscribers&color=pink)
 	- description
-### 1.4. Music 🎵 (1 community)
-1. **[Dubstep@lemmy.world](/c/dubstep@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/dubstep%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
+### 1.4. Music 🎵 (13 communities)
+1. **[Dubstep](/c/dubstep@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/dubstep%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
+	- description
+2. **[80's Music](/c/80smusic@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/80smusic%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
+	- description
+3. **[90's Music](/c/90smusic@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/90smusic%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
+	- description
+4. **[Classic Rock](/c/classicrock@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/classicrock%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
+	- description
+5. **[Dancehall](/c/dancehall@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/dancehall%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
+	- description
+6. **[Guitars](/c/guitars@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/guitars%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
+	- description
+7. **[Guitar Pedals](/c/guitarpedals@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/guitarpedals%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
+	- description
+8. **[HipHopHeads](/c/hiphopheads@sopuli.xyz)** ![Lemmy](https://img.shields.io/lemmy/hiphopheads%40sopuli.xyz?style=flat-square&label=Subscribers&color=pink)
+	- description
+9. **[kpop](/c/kpop@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/kpop%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
+	- description
+10. **[Music](/c/music@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/music%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
+	- description
+11. **[PopHeads](/c/popheads@poptalk.scrubbles.tech)** ![Lemmy](https://img.shields.io/lemmy/popheads%40poptalk.scrubbles.tech?style=flat-square&label=Subscribers&color=pink)
+	- description
+12. **[Ska](/c/ska@lemmy.blahaj.zone)** ![Lemmy](https://img.shields.io/lemmy/ska%40lemmy.blahaj.zone?style=flat-square&label=Subscribers&color=pink)
+	- description
+13. **[The Lyrics Game](/c/thelyricsgame@lemmy.ca)** ![Lemmy](https://img.shields.io/lemmy/thelyricsgame%40lemmy.ca?style=flat-square&label=Subscribers&color=pink)
 	- description
 ### 1.5. Photography 📷 (6 communities)
-1. **[Wildlife Photography@lemmy.world](/c/wildlifephotography@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/wildlifephotography%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
+1. **[Wildlife Photography](/c/wildlifephotography@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/wildlifephotography%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
 	- description
-2. **[Accidental Renaissance@lemmy.blahaj.zone](/c/accidentalrenaissance@lemmy.blahaj.zone)** ![Lemmy](https://img.shields.io/lemmy/accidentalrenaissance%40lemmy.blahaj.zone?style=flat-square&label=Subscribers&color=pink)
+2. **[Accidental Renaissance](/c/accidentalrenaissance@lemmy.blahaj.zone)** ![Lemmy](https://img.shields.io/lemmy/accidentalrenaissance%40lemmy.blahaj.zone?style=flat-square&label=Subscribers&color=pink)
 	- description
-3. **[Japan Pics@lemmy.world](/c/japanpics@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/japanpics%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
+3. **[Japan Pics](/c/japanpics@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/japanpics%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
 	- description
-4. **[Pics@lemmy.world](/c/pics@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/pics%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
+4. **[Pics](/c/pics@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/pics%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
 	- description
-5. **[City Porn@lemmy.world](/c/cityporn@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/cityporn%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
+5. **[City Porn](/c/cityporn@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/cityporn%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
 	- description
-6. **[Earth Porn@lemmy.world](/c/earthporn@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/earthporn%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
+6. **[Earth Porn](/c/earthporn@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/earthporn%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
 	- description
-# 2. Memes/humoristic 🎭 (16 communities)
-### 1. Misc (16 communities)
-1. **[Weird Wheels@lemm.ee](/c/weirdwheels@lemm.ee)** ❓ ![Lemmy](https://img.shields.io/lemmy/weirdwheels%40lemm.ee?style=flat-square&label=Subscribers&color=pink)
+# 2. Memes/humoristic 🎭 (57 communities)
+### 2.1. Misc (57 communities)
+1. **[Weird Wheels](/c/weirdwheels@lemm.ee)** ❓ ![Lemmy](https://img.shields.io/lemmy/weirdwheels%40lemm.ee?style=flat-square&label=Subscribers&color=pink)
 	- description
-2. **[Monkeys Paw@sopuli.xyz](/c/monkeyspaw@sopuli.xyz)** ❓ ![Lemmy](https://img.shields.io/lemmy/monkeyspaw%40sopuli.xyz?style=flat-square&label=Subscribers&color=pink)
+2. **[Monkey's Paw](/c/monkeyspaw@sopuli.xyz)** ❓ ![Lemmy](https://img.shields.io/lemmy/monkeyspaw%40sopuli.xyz?style=flat-square&label=Subscribers&color=pink)
 	- description
-3. **[Surreal Memes@sh.itjust.works](/c/surrealmemes@sh.itjust.works)** ![Lemmy](https://img.shields.io/lemmy/surrealmemes%40sh.itjust.works?style=flat-square&label=Subscribers&color=pink)
+3. **[Surreal Memes](/c/surrealmemes@sh.itjust.works)** ![Lemmy](https://img.shields.io/lemmy/surrealmemes%40sh.itjust.works?style=flat-square&label=Subscribers&color=pink)
 	- description
-4. **[Shitty Car Mods@lemmy.world](/c/shittycarmods@lemmy.world)** ❓ ![Lemmy](https://img.shields.io/lemmy/shittycarmods%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
+4. **[Shitty Car Mods](/c/shittycarmods@lemmy.world)** ❓ ![Lemmy](https://img.shields.io/lemmy/shittycarmods%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
 	- description
-5. **[Reaction Memes@lemmy.dbzer0.com](/c/reactionmemes@lemmy.dbzer0.com)** ![Lemmy](https://img.shields.io/lemmy/reactionmemes%40lemmy.dbzer0.com?style=flat-square&label=Subscribers&color=pink)
+5. **[Reaction Memes](/c/reactionmemes@lemmy.dbzer0.com)** ![Lemmy](https://img.shields.io/lemmy/reactionmemes%40lemmy.dbzer0.com?style=flat-square&label=Subscribers&color=pink)
 	- description
-6. **[Noncredibledefense@sh.itjust.works](/c/noncredibledefense@sh.itjust.works)** ![Lemmy](https://img.shields.io/lemmy/noncredibledefense%40sh.itjust.works?style=flat-square&label=Subscribers&color=pink)
+6. **[NonCredibleDefense](/c/noncredibledefense@sh.itjust.works)** ![Lemmy](https://img.shields.io/lemmy/noncredibledefense%40sh.itjust.works?style=flat-square&label=Subscribers&color=pink)
 	- description
-7. **[Internet Funeral@lemmy.world](/c/internetfuneral@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/internetfuneral%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
+7. **[Internet Funeral](/c/internetfuneral@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/internetfuneral%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
 	- description
-8. **[hmmm@lemmy.world](/c/hmmm@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/hmmm%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
+8. **[hmmm](/c/hmmm@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/hmmm%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
 	- description
-9. **[Femcel Memes@lemmy.blahaj.zone](/c/femcelmemes@lemmy.blahaj.zone)** ![Lemmy](https://img.shields.io/lemmy/femcelmemes%40lemmy.blahaj.zone?style=flat-square&label=Subscribers&color=pink)
+9. **[Femcel Memes](/c/femcelmemes@lemmy.blahaj.zone)** ![Lemmy](https://img.shields.io/lemmy/femcelmemes%40lemmy.blahaj.zone?style=flat-square&label=Subscribers&color=pink)
 	- description
-10. **[Bossfight@lemmy.dbzer0.com](/c/bossfight@lemmy.dbzer0.com)** ![Lemmy](https://img.shields.io/lemmy/bossfight%40lemmy.dbzer0.com?style=flat-square&label=Subscribers&color=pink)
+10. **[Bossfight](/c/bossfight@lemmy.dbzer0.com)** ![Lemmy](https://img.shields.io/lemmy/bossfight%40lemmy.dbzer0.com?style=flat-square&label=Subscribers&color=pink)
 	- description
-11. **[Awesome Car Mods@lemmy.dbzer0.com](/c/awesomecarmods@lemmy.dbzer0.com)** ❓ ![Lemmy](https://img.shields.io/lemmy/awesomecarmods%40lemmy.dbzer0.com?style=flat-square&label=Subscribers&color=pink)
+11. **[Awesome Car Mods](/c/awesomecarmods@lemmy.dbzer0.com)** ❓ ![Lemmy](https://img.shields.io/lemmy/awesomecarmods%40lemmy.dbzer0.com?style=flat-square&label=Subscribers&color=pink)
 	- description
-12. **[Antimeme@lemmy.world](/c/antimeme@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/antimeme%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
+12. **[Antimeme](/c/antimeme@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/antimeme%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
 	- description
-13. **[Animemes@ani.social](/c/animemes@ani.social)** ![Lemmy](https://img.shields.io/lemmy/animemes%40ani.social?style=flat-square&label=Subscribers&color=pink)
+13. **[Animemes](/c/animemes@ani.social)** ![Lemmy](https://img.shields.io/lemmy/animemes%40ani.social?style=flat-square&label=Subscribers&color=pink)
 	- description
-14. **[Aminals@lemmy.best](/c/aminals@lemmy.best)** ![Lemmy](https://img.shields.io/lemmy/aminals%40lemmy.best?style=flat-square&label=Subscribers&color=pink)
+14. **[Aminals](/c/aminals@lemmy.best)** ![Lemmy](https://img.shields.io/lemmy/aminals%40lemmy.best?style=flat-square&label=Subscribers&color=pink)
 	- description
-15. **[ADHD Memes@lemmy.dbzer0.com](/c/adhd@lemmy.dbzer0.com)** ![Lemmy](https://img.shields.io/lemmy/adhd%40lemmy.dbzer0.com?style=flat-square&label=Subscribers&color=pink)
+15. **[ADHD Memes](/c/adhd@lemmy.dbzer0.com)** ![Lemmy](https://img.shields.io/lemmy/adhd%40lemmy.dbzer0.com?style=flat-square&label=Subscribers&color=pink)
 	- description
-16. **[Itemshop@sh.itjust.works](/c/itemshop@sh.itjust.works)** ![Lemmy](https://img.shields.io/lemmy/itemshop%40sh.itjust.works?style=flat-square&label=Subscribers&color=pink)
+16. **[Itemshop](/c/itemshop@sh.itjust.works)** ![Lemmy](https://img.shields.io/lemmy/itemshop%40sh.itjust.works?style=flat-square&label=Subscribers&color=pink)
 	- description
-# 3. Meta 🧵
-# 4. FOSS 🔓
+17. **[196](/c/196@lemmy.blahaj.zone)** ![Lemmy](https://img.shields.io/lemmy/196@lemmy.blahaj.zone?style=flat-square&label=Subscribers&color=pink)
+	- description
+18. **[Animals With Jobs](/c/animalswithjobs@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/animalswithjobs%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
+	- description
+19. **[Anime_irl](/c/anime_irl@ani.social)** ![Lemmy](https://img.shields.io/lemmy/anime_irl@ani.social?style=flat-square&label=Subscribers&color=pink)
+	- description
+20. **[Antique Memes Roadshow](/c/antiquememesroadshow@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/antiquememesroadshow%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
+	- description
+21. **[Best of Mastodon](/c/best_of_mastodon@sh.itjust.works)** ![Lemmy](https://img.shields.io/lemmy/best_of_mastodon@sh.itjust.works?style=flat-square&label=Subscribers&color=pink)
+	- description
+22. **[Bikini Bottom Twitter](/c/bikinibottomtwitter@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/bikinibottomtwitter%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
+	- description
+23. **[Bone Apple Tea](/c/boneappletea@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/boneappletea%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
+	- description
+24. **[Chevron 7](/c/chevron7@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/chevron7%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
+	- description
+25. **[Curated Tumblr](/c/curatedtumblr@sh.itjust.works)** ![Lemmy](https://img.shields.io/lemmy/curatedtumblr%40sh.itjust.works?style=flat-square&label=Subscribers&color=pink)
+	- description
+26. **[DnD Memes](/c/dndmemes@sh.itjust.works)** ![Lemmy](https://img.shields.io/lemmy/dndmemes@sh.itjust.works?style=flat-square&label=Subscribers&color=pink)
+	- description
+27. **[Fake History Porn](/c/fakehistoryporn@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/fakehistoryporn%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
+	- description
+28. **[Found Satan](/c/foundsatan@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/foundsatan%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
+	- description
+29. **[Funny](/c/funny@sh.itjust.works)** ![Lemmy](https://img.shields.io/lemmy/funny@sh.itjust.works?style=flat-square&label=Subscribers&color=pink)
+	- description
+30. **[Funny](/c/funny@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/funny%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
+	- description
+31. **[Greentext](/c/greentext@sh.itjust.works)** ![Lemmy](https://img.shields.io/lemmy/greentext@sh.itjust.works?style=flat-square&label=Subscribers&color=pink)
+	- description
+32. **[Grimdank](/c/grimdank@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/grimdank%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
+	- description
+33. **[Lemmy Be Wholesome](/c/lemmybewholesome@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/lemmybewholesome%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
+	- description
+34. **[Lord of the memes](/c/lotrmemes@midwest.social)** ![Lemmy](https://img.shields.io/lemmy/lotrmemes@midwest.social?style=flat-square&label=Subscribers&color=pink)
+	- description
+35. **[me_irl](/c/me_irl@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/me_irl%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
+	- description
+36. **[Memes](/c/memes@lemmy.ml)** ![Lemmy](https://img.shields.io/lemmy/memes@lemmy.ml?style=flat-square&label=Subscribers&color=pink)
+	- description
+37. **[Linux Memes](/c/linuxmemes@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/linuxmemes%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
+	- description
+38. **[Memes](/c/memes@sopuli.xyz)** ![Lemmy](https://img.shields.io/lemmy/memes@sopuli.xyz?style=flat-square&label=Subscribers&color=pink)
+	- description
+39. **[meow_irl](/c/meow_irl@sopuli.xyz)** ![Lemmy](https://img.shields.io/lemmy/meow_irl@sopuli.xyz?style=flat-square&label=Subscribers&color=pink)
+	- description
+40. **[Metal Memes](/c/metalmemes@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/metalmemes%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
+	- description
+41. **[Microblog Memes](/c/microblogmemes@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/microblogmemes%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
+	- description
+42. **[Programmer Humor](/c/programmer_humor@programming.dev)** ![Lemmy](https://img.shields.io/lemmy/programmer_humor@programming.dev?style=flat-square&label=Subscribers&color=pink)
+	- description
+43. **[History Memes](/m/HistoryMemes@kbin.social)** ![Lemmy](https://img.shields.io/lemmy/HistoryMemes@kbin.social?style=flat-square&label=Subscribers&color=pink)
+	- description
+44. **[Raccoons](/c/raccoons@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/raccoons%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
+	- description
+45. **[Relationship Memes](/c/relationshipmemes@lemmyis.fun)** ![Lemmy](https://img.shields.io/lemmy/relationshipmemes@lemmyis.fun?style=flat-square&label=Subscribers&color=pink)
+	- description
+46. **[Risa](/c/risa@startrek.website)** ![Lemmy](https://img.shields.io/lemmy/risa@startrek.website?style=flat-square&label=Subscribers&color=pink)
+	- description
+47. **[RPGMemes](/c/rpgmemes@ttrpg.network)** ![Lemmy](https://img.shields.io/rpgmemes@ttrpg.network?style=flat-square&label=Subscribers&color=pink)
+	- description
+48. **[Science Memes](/c/science_memes@mander.xyz)** ![Lemmy](https://img.shields.io/lemmy/science_memes@mander.xyz?style=flat-square&label=Subscribers&color=pink)
+	- description
+49. **[simpsonsshitposting](/c/simpsonsshitposting@sh.itjust.works)** ![Lemmy](https://img.shields.io/lemmy/simpsonsshitposting@sh.itjust.works?style=flat-square&label=Subscribers&color=pink)
+	- description
+50. **[Star Wars Memes](/c/starwarsmemes@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/starwarsmemes%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
+	- description
+51. **[TenForward](/c/tenforward@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/tenforward%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
+	- description
+52. **[Tumblr](/c/tumblr@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/tumblr%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
+	- description
+53. **[Trippin' Through Time](/c/trippinthroughtime@lemmy.ca)** ![Lemmy](https://img.shields.io/lemmy/trippinthroughtime@lemmy.ca?style=flat-square&label=Subscribers&color=pink)
+	- description
+54. **[Witchy Memes](/c/witchymemes@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/witchymemes%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
+	- description
+55. **[Terrible Estate Agent Photos](/c/badrealestate@feddit.uk)** ![Lemmy](https://img.shields.io/lemmy/badrealestate@feddit.uk?style=flat-square&label=Subscribers&color=pink)
+	- description
+56. **[Memes](/c/memes@feddit.uk)** ![Lemmy](https://img.shields.io/lemmy/memes@feddit.uk?style=flat-square&label=Subscribers&color=pink)
+	- description
+57. **[Lemmy Shitpost](/c/lemmyshitpost@lemmy.world)** ![Lemmy](https://img.shields.io/lemmy/lemmyshitpost%40lemmy.world?style=flat-square&label=Subscribers&color=pink)
+	- description
 # 0. Sections below are just placeholders for stuff I'm not sure about yet.
 # 0.1. Gaming 🕹️
 # 0.2. Discussions 💬 
 # 0.3. AI 🤖
 # 0.4. Movies/TV Series/Animations/Cartoons etc.
+# 0.5. Meta 🧵
+# 0.6. FOSS 🔓
