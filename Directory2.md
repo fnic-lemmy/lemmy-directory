@@ -51,47 +51,47 @@
 25. **[Bone Apple Tea](/c/boneappletea@lemmy.world)** | lemmy.world | [Kbin](/m/boneappletea@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/boneappletea@lemmy.world) | ![](https://img.shields.io/lemmy/boneappletea@lemmy.world?style=flat&label=Subs&color=pink)
 	- A community for funny phonetic misspellings of words or phrases. Bonus points if this misspelling comprises actual words, like this community’s namesake: Bon appétit —> Bone apple tea.
 26. **[Curated Tumblr](/c/curatedtumblr@sh.itjust.works)** | sh.itjust.works | [Kbin](/m/curatedtumblr@sh.itjust.works) | [lemmyverse.link](https://lemmyverse.link/c/curatedtumblr@sh.itjust.works) | ![](https://img.shields.io/lemmy/curatedtumblr@sh.itjust.works?style=flat&label=Subs&color=pink)
-	- description
+	- For preserving the least toxic and most culturally relevant Tumblr heritage posts.
 27. **[Witchy Memes](/c/witchymemes@lemmy.world)** | lemmy.world | [Kbin](/m/witchymemes@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/witchymemes@lemmy.world) | ![](https://img.shields.io/lemmy/witchymemes@lemmy.world?style=flat&label=Subs&color=pink)
-	- description
+	- Be cool to each other. We’ll welcome most occult themes, it’s okay if you stray from witchcraft a bit.
 28. **[Animals With Jobs](/c/animalswithjobs@lemmy.world)** | lemmy.world | [Kbin](/m/animalswithjobs@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/animalswithjobs@lemmy.world) | ![](https://img.shields.io/lemmy/animalswithjobs@lemmy.world?style=flat&label=Subs&color=pink)
-	- description
-29. **[meow_irl](/c/meow_irl@sopuli.xyz)** | sopuli.xyz | [Kbin](/m/meow_irl@sopuli.xyz) | [lemmyverse.link](https://lemmyverse.link/c/meow_irl@sopuli.xyz) | ![](https://img.shields.io/lemmy/meow_irl@sopuli.xyz?style=flat&label=Subs&color=pink)
-	- description
+	- Is it an animal? Does it have a job? Then it belongs here!
+29. **[MEOW_IRL](/c/meow_irl@sopuli.xyz)** | sopuli.xyz | [Kbin](/m/meow_irl@sopuli.xyz) | [lemmyverse.link](https://lemmyverse.link/c/meow_irl@sopuli.xyz) | ![](https://img.shields.io/lemmy/meow_irl@sopuli.xyz?style=flat&label=Subs&color=pink)
+	- Memes for “cats of the soul”. Post relatable, weird, funny cats.
 30. **[Bikini Bottom Twitter](/c/bikinibottomtwitter@lemmy.world)** | lemmy.world | [Kbin](/m/bikinibottomtwitter@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/bikinibottomtwitter@lemmy.world) | ![](https://img.shields.io/lemmy/bikinibottomtwitter@lemmy.world?style=flat&label=Subs&color=pink)
-	- description
+	- Are ya ready kids?!
 31. **[Trippin' Through Time](/c/trippinthroughtime@lemmy.ca)** | lemmy.ca | [Kbin](/m/trippinthroughtime@lemmy.ca) | [lemmyverse.link](https://lemmyverse.link/c/trippinthroughtime@lemmy.ca) | ![](https://img.shields.io/lemmy/trippinthroughtime@lemmy.ca?style=flat&label=Subs&color=pink)
-	- description
+	- A lemmy replacement for the r/trippinthroughtime sub.
 32. **[Greentext](/c/greentext@sh.itjust.works)** | sh.itjust.works | [Kbin](/m/greentext@sh.itjust.works) | [lemmyverse.link](https://lemmyverse.link/c/greentext@sh.itjust.works) | ![](https://img.shields.io/lemmy/greentext@sh.itjust.works?style=flat&label=Subs&color=pink)
-	- description
+	- This is a place to share greentexts and witness the confounding life of Anon. If you’re new to the _Greentext_ community, think of it as a sort of zoo with Anon as the main attraction.
 33. **[Tumblr](/c/tumblr@lemmy.world)** | lemmy.world | [Kbin](/m/tumblr@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/tumblr@lemmy.world) | ![](https://img.shields.io/lemmy/tumblr@lemmy.world?style=flat&label=Subs&color=pink)
-	- description
+	- Welcome to /c/tumblr, a place for all your tumblr screenshots and news.
 34. **[TenForward](/c/tenforward@lemmy.world)** | lemmy.world | [Kbin](/m/tenforward@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/tenforward@lemmy.world) | ![](https://img.shields.io/lemmy/tenforward@lemmy.world?style=flat&label=Subs&color=pink)
-	- description
+	- _/c/TenFoward: Your home-away-from-home for all things Star Trek!_
 35. **[simpsonsshitposting](/c/simpsonsshitposting@sh.itjust.works)** | sh.itjust.works | [Kbin](/m/simpsonsshitposting@sh.itjust.works) | [lemmyverse.link](https://lemmyverse.link/c/simpsonsshitposting@sh.itjust.works) | ![](https://img.shields.io/lemmy/simpsonsshitposting@sh.itjust.works?style=flat&label=Subs&color=pink)
-	- description
+	- I just think they’re neat!
 36. **[Grimdank](/c/grimdank@lemmy.world)** | lemmy.world | [Kbin](/m/grimdank@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/grimdank@lemmy.world) | ![](https://img.shields.io/lemmy/grimdank@lemmy.world?style=flat&label=Subs&color=pink)
-	- description
+	- Da stompin’ ground fer da dankest memes from da 41st millennium an’ da Mortal Realms, right 'ere at yer central Waaagh! hub!
 37. **[Best of Mastodon](/c/best_of_mastodon@sh.itjust.works)** | sh.itjust.works | [Kbin](/m/best_of_mastodon@sh.itjust.works) | [lemmyverse.link](https://lemmyverse.link/c/best_of_mastodon@sh.itjust.works) | ![](https://img.shields.io/lemmy/best_of_mastodon@sh.itjust.works?style=flat&label=Subs&color=pink)
-	- description
+	- Share the best posts you find on mastodon. Add a link to the original toot.
 38. **[Metal Memes](/c/metalmemes@lemmy.world)** | lemmy.world | [Kbin](/m/metalmemes@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/metalmemes@lemmy.world) | ![](https://img.shields.io/lemmy/metalmemes@lemmy.world?style=flat&label=Subs&color=pink)
-	- description
+	- Memes. For metal music.
 39. **[Raccoons](/c/raccoons@lemmy.world)** | lemmy.world | [Kbin](/m/raccoons@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/raccoons@lemmy.world) | ![](https://img.shields.io/lemmy/raccoons@lemmy.world?style=flat&label=Subs&color=pink)
-	- description
+	- A place for raccoons migrating from reddit.
 40. **[Found Satan](/c/foundsatan@lemmy.world)** | lemmy.world | [Kbin](/m/foundsatan@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/foundsatan@lemmy.world) | ![](https://img.shields.io/lemmy/foundsatan@lemmy.world?style=flat&label=Subs&color=pink)
-	- description
+	- Individuals displaying mischievous, spiteful, or teasing behavior in a playful manner, rather than engaging in genuinely cruel actions.
 41. **[Shitty Car Mods](/c/shittycarmods@lemmy.world)** ❓ | lemmy.world | [Kbin](/m/shittycarmods@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/shittycarmods@lemmy.world) | ![](https://img.shields.io/lemmy/shittycarmods@lemmy.world?style=flat&label=Subs&color=pink)
-	- description
-42. **[Anime_irl](/c/anime_irl@ani.social)** | ani.social | [Kbin](/m/anime_irl@ani.social) | [lemmyverse.link](https://lemmyverse.link/c/anime_irl@ani.social) | ![](https://img.shields.io/lemmy/anime_irl@ani.social?style=flat&label=Subs&color=pink)
-	- description
+	- You know what it is.
+42. **[anime_irl](/c/anime_irl@ani.social)** | ani.social | [Kbin](/m/anime_irl@ani.social) | [lemmyverse.link](https://lemmyverse.link/c/anime_irl@ani.social) | ![](https://img.shields.io/lemmy/anime_irl@ani.social?style=flat&label=Subs&color=pink)
+	- A community for sharing relatable real-life situations depicted in anime.
 43. **[Animemes](/c/animemes@ani.social)** | ani.social | [Kbin](/m/animemes@ani.social) | [lemmyverse.link](https://lemmyverse.link/c/animemes@ani.social) | ![](https://img.shields.io/lemmy/animemes@ani.social?style=flat&label=Subs&color=pink)
-	- description
+	- Memes related to anime. Animemes.
 44. **[Chevron 7](/c/chevron7@lemmy.world)** | lemmy.world | [Kbin](/m/chevron7@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/chevron7@lemmy.world) | ![](https://img.shields.io/lemmy/chevron7@lemmy.world?style=flat&label=Subs&color=pink)
-	- description
+	- A community for sharing humor about Stargate in all its iterations.
 45. **[Surreal Memes](/c/surrealmemes@sh.itjust.works)** | sh.itjust.works | [Kbin](/m/surrealmemes@sh.itjust.works) | [lemmyverse.link](https://lemmyverse.link/c/surrealmemes@sh.itjust.works) | ![](https://img.shields.io/lemmy/surrealmemes@sh.itjust.works?style=flat&label=Subs&color=pink)
 	- description
 46. **[Femcel Memes](/c/femcelmemes@lemmy.blahaj.zone)** | lemmy.blahaj.zone | [Kbin](/m/femcelmemes@lemmy.blahaj.zone) | [lemmyverse.link](https://lemmyverse.link/c/femcelmemes@lemmy.blahaj.zone) | ![](https://img.shields.io/lemmy/femcelmemes@lemmy.blahaj.zone?style=flat&label=Subs&color=pink)
-	- description
+	- Welcome to femcel memes. A place where anybody can post memes that fit the vibe.
 47. **[Memes](/c/memes@feddit.uk)** | feddit.uk | [Kbin](/m/memes@feddit.uk) | [lemmyverse.link](https://lemmyverse.link/c/memes@feddit.uk) | ![](https://img.shields.io/lemmy/memes@feddit.uk?style=flat&label=Subs&color=pink)
 	- description
 48. **[Relationship Memes](/c/relationshipmemes@lemmyis.fun)** | lemmyis.fun | [Kbin](/m/relationshipmemes@lemmyis.fun) | [lemmyverse.link](https://lemmyverse.link/c/relationshipmemes@lemmyis.fun) | ![](https://img.shields.io/lemmy/relationshipmemes@lemmyis.fun?style=flat&label=Subs&color=pink)
