@@ -21,6 +21,13 @@ jobs:
           branch: main
           path: Directory2.md
 
+      - name: Read Directory3.md
+        id: lemmyDirectory3
+        uses: jaywcjlove/github-action-read-file@main
+        with:
+          branch: main
+          path: Directory3.md
+
       - name: Echo README.md(gh-pages)
         run: echo "${{ steps.mainReadMe.outputs.content }}"
   
@@ -66,3 +73,19 @@ jobs:
           payload: |
             {"name":"${{ vars.POST2_TITLE }}","body":${{ toJson(steps.lemmyDirectory2.outputs.content) }},"nsfw":false,"post_id":${{ vars.POST2_ID }},"language_id":0}
           
+      # Update post 3
+      - name: Update post 3
+        # You may pin to the exact commit or the version.
+        # uses: fjogeleit/http-request-action@eab8015483ccea148feff7b1c65f320805ddc2bf
+        uses: satak/webrequest-action@master
+        with:
+          # Request URL
+          url: "https://${{ vars.LEMMY_URL }}/api/v3/post"
+          # Request Method
+          method: "PUT"
+          # Content Type
+          headers: '{"Content-Type": "application/json", "Authorization": "Bearer ${{ fromJson(steps.Login.outputs.response).jwt }}"}'
+          # Request Body as JSON String
+          payload: |
+            {"name":"${{ vars.POST3_TITLE }}","body":${{ toJson(steps.lemmyDirectory3.outputs.content) }},"nsfw":false,"post_id":${{ vars.POST3_ID }},"language_id":0}
+
