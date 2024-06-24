@@ -10,7 +10,6 @@ jobs:
      - uses: actions/checkout@v4
        with:
          repository: 'fnic-lemmy/bestofbot'
-         token: ${{ secrets.TOKEN }}
          fetch-depth: 0
          path: './bestofbot/'
 
@@ -28,6 +27,7 @@ jobs:
      - name: Create PR
        uses: peter-evans/create-pull-request@v6
        with:
+         git-token: ${{ secrets.TOKEN }}
          path: './bestofbot'
          branch: 'community-updates'
          base: 'main'
