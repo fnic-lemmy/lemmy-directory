@@ -10,7 +10,7 @@ jobs:
      - uses: actions/checkout@v4
        with:
          repository: 'fnic-lemmy/bestofbot'
-         token: ${{ secrets.TOKEN }}
+         fetch-depth: 0
          path: './bestofbot/'
 
      - uses: actions/checkout@v4
@@ -24,26 +24,15 @@ jobs:
          cp ./_fnic_comms.json ../bestofbot/
          cp ./_anime_comms.json ../bestofbot/
 
-     - uses: EndBug/add-and-commit@v9
-       with:
-         message: 'Auto update communities'
-         new_branch: 'community-updates'
-         push: 'origin community-updates --set-upstream --force'
-         default_author: 'github_actions'
-         cwd: './bestofbot/'
-
      - name: Create PR
-       uses: actions/checkout@v4 # checkout again because path
-       with:
-         repository: 'fnic-lemmy/bestofbot'
-         fetch-depth: 0
-       
-     - uses: devops-infra/action-pull-request@v0.5.5
-       with:
-         github_token: ${{ secrets.TOKEN }}
-         source_branch: community-updates
-         target_branch: main
-         title: Update community lists
-         body: "**Automated pull request**"
-         get_diff: true
-         allow_no_diff: false
+       uses: peter-evans/create-pull-request@v6
+         with:
+           path: './bestofbot'
+           branch: 'community-updates'
+           base: 'main'
+           commit-message: '[automated] Update community lists'
+           title: '[automated] Update community lists'
+           body: 'Update community lists generated automatically'
+           reviewers: 'chris-y,M4rtineski'
+           delete-branch: true
+           
