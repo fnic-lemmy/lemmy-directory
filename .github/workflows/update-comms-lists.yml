@@ -26,13 +26,13 @@ jobs:
 
      - name: Create PR
        uses: peter-evans/create-pull-request@v6
-         with:
-           path: './bestofbot'
-           branch: 'community-updates'
-           base: 'main'
-           commit-message: '[automated] Update community lists'
-           title: '[automated] Update community lists'
-           body: 'Update community lists generated automatically'
-           reviewers: 'chris-y,M4rtineski'
-           delete-branch: true
+       with:
+         path: './bestofbot'
+         branch: 'community-updates'
+         base: 'main'
+         commit-message: '[automated] Update community lists'
+         title: '[automated] Update community lists'
+         body: 'Update community lists generated automatically'
+         reviewers: 'chris-y,M4rtineski'
+         delete-branch: true
            
