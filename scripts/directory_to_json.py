@@ -27,13 +27,13 @@ for file in files:
 
 # Export FNIC to file
 with open('_fnic_comms.json', 'w') as json_file:
-  json.dump(communities['Art']['Imaginary Network 💭'], json_file)
+  json.dump(communities['Art']['Imaginary Network 💭'], json_file, indent=2)
 
 # Export Anime to file
 with open('_anime_comms.json', 'w') as json_file:
-  json.dump(communities['Art']['Anime Artworks 💢'], json_file)
+  json.dump(communities['Art']['Anime Artworks 💢'], json_file, indent=2)
 
 # Export a complete dump of the directory to a JSON file
 with open('__directory.json', 'w') as json_file:
-  json.dump(communities, json_file)
+  json.dump(communities, json_file, indent=2)
 
