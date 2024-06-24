@@ -27,7 +27,7 @@ jobs:
      - name: Create PR
        uses: peter-evans/create-pull-request@v6
        with:
-         git-token: ${{ secrets.TOKEN }}
+         token: ${{ secrets.TOKEN }}
          path: './bestofbot'
          branch: 'community-updates'
          base: 'main'
