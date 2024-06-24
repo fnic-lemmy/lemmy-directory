@@ -1,0 +1,49 @@
+name: Update communities
+on: push
+
+jobs:
+  run:
+    name: Update communities
+    runs-on: ubuntu-latest
+
+    steps:
+     - uses: actions/checkout@v4
+       with:
+         repository: 'fnic-lemmy/bestofbot'
+         token: ${{ secrets.TOKEN }}
+         path: './bestofbot/'
+
+     - uses: actions/checkout@v4
+       with:
+         repository: 'fnic-lemmy/lemmy-directory'
+         path: './directory/'
+            
+     - run: |
+         cd ./directory
+         ./scripts/directory_to_json.py
+         cp ./_fnic_comms.json ../bestofbot/
+         cp ./_anime_comms.json ../bestofbot/
+
+     - uses: EndBug/add-and-commit@v9
+       with:
+         message: 'Auto update communities'
+         new_branch: 'community-updates'
+         push: 'origin community-updates --set-upstream --force'
+         default_author: 'github_actions'
+         cwd: './bestofbot/'
+
+     - name: Create PR
+       uses: actions/checkout@v4 # checkout again because path
+       with:
+         repository: 'fnic-lemmy/bestofbot'
+         fetch-depth: 0
+       
+     - uses: devops-infra/action-pull-request@v0.5.5
+       with:
+         github_token: ${{ secrets.TOKEN }}
+         source_branch: community-updates
+         target_branch: main
+         title: Update community lists
+         body: "**Automated pull request**"
+         get_diff: true
+         allow_no_diff: false
