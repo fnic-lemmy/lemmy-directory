@@ -34,6 +34,5 @@ jobs:
          commit-message: '[automated] Update community lists'
          title: '[automated] Update community lists'
          body: 'Update community lists generated automatically'
-         reviewers: 'chris-y,M4rtineski'
          delete-branch: true
            
