@@ -24,10 +24,7 @@ jobs:
      - run: |
          cd ./directory
          ./scripts/directory_to_json.py
-         cp ./_fnic_comms.json ../bestofbot/
-         cp ./_anime_comms.json ../bestofbot/
-         cp ./_generalart_comms.json ../bestofbot/
-         cp ./_photography_comms.json ../bestofbot/
+         cp ./_*.json ../bestofbot/
 
      - name: Create PR
        uses: peter-evans/create-pull-request@v6

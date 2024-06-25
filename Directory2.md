@@ -68,7 +68,7 @@
 	- Share your vaporwave music, videos, and aesthetic art. All in one place!
 8. **[Fancy Aesthetics](/c/fancyaesthetics@lemmy.world)** | lemmy.world | [Kbin](/m/fancyaesthetics@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/fancyaesthetics@lemmy.world) | ![](https://img.shields.io/lemmy/fancyaesthetics@lemmy.world?style=flat&label=Subs&color=pink)
 	- Suits/dresses, medieval finery, beautiful landscapes – All things _fancy_ and _elegant_. Be they art or photographs.
-## 1.7. Comics  (16 communities)
+## 1.7. Comics (16 communities)
 1. **[Comic Strips](/c/comicstrips@lemmy.world)** | lemmy.world | [Kbin](/m/comicstrips@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/comicstrips@lemmy.world) | ![](https://img.shields.io/lemmy/comicstrips@lemmy.world?style=flat&label=Subs&color=pink)
 	- Comic Strips is a community for those who love comic stories.
 2. **[xkcd](/c/xkcd@lemmy.world)** | lemmy.world | [Kbin](/m/xkcd@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/xkcd@lemmy.world) | ![](https://img.shields.io/lemmy/xkcd@lemmy.world?style=flat&label=Subs&color=pink)
