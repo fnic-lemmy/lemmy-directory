@@ -1,5 +1,5 @@
 # 5. Gaming (150 communities)
-### 5.1. Platforms (18 communities)
+## 5.1. Platforms (18 communities)
 1. **[Steam Deck](/c/steamdeck@sopuli.xyz)** | sopuli.xyz | [Kbin](/m/steamdeck@sopuli.xyz) | [lemmyverse.link](https://lemmyverse.link/c/steamdeck@sopuli.xyz) | ![](https://img.shields.io/lemmy/steamdeck@sopuli.xyz?style=flat&label=Subs&color=pink)
 	- A place to discuss and support all things Steam Deck.
 2. **[PC Gaming](/c/pcgaming@lemmy.ca)** | lemmy.ca | [Kbin](/m/pcgaming@lemmy.ca) | [lemmyverse.link](https://lemmyverse.link/c/pcgaming@lemmy.ca) | ![](https://img.shields.io/lemmy/pcgaming@lemmy.ca?style=flat&label=Subs&color=pink)
@@ -36,7 +36,7 @@
 	- Community covering everything Atari 8bit.
 18. **[Commodore Plus/4](/c/plus4@retrolemmy.com)** | retrolemmy.com | [Kbin](/m/plus4@retrolemmy.com) | [lemmyverse.link](https://lemmyverse.link/c/plus4@retrolemmy.com) | ![](https://img.shields.io/lemmy/plus4@retrolemmy.com?style=flat&label=Subs&color=pink)
 	- Commodore 16 and Plus/4 community.
-### 5.2. Games (74 communities)
+## 5.2. Games (74 communities)
 1. **[Baldur's Gate 3](/c/baldurs_gate_3@lemmy.world)** | lemmy.world | [Kbin](/m/baldurs_gate_3@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/baldurs_gate_3@lemmy.world) | ![](https://img.shields.io/lemmy/baldurs_gate_3@lemmy.world?style=flat&label=Subs&color=pink)
 	- Baldur’s Gate 3 is a story-rich, party-based RPG set in the universe of Dungeons & Dragons, where your choices shape a tale of fellowship and betrayal, survival and sacrifice, and the lure of absolute power.
 2. **[Minecraft](/c/minecraft@lemmy.world)** | lemmy.world | [Kbin](/m/minecraft@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/minecraft@lemmy.world) | ![](https://img.shields.io/lemmy/minecraft@lemmy.world?style=flat&label=Subs&color=pink)
