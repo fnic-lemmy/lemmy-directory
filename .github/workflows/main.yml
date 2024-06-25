@@ -7,6 +7,13 @@ jobs:
   UpdatePost:
     runs-on: ubuntu-latest
     steps:
+      - name: Read ABOUT.md
+        id: aboutDirectory
+        uses: jaywcjlove/github-action-read-file@main
+        with:
+          branch: main
+          path: ABOUT.md
+          
       - name: Read README.md
         id: mainReadMe
         uses: jaywcjlove/github-action-read-file@main
@@ -54,6 +61,22 @@ jobs:
 
       - name: print3
         run: echo "{'name':'${{ vars.POST_TITLE }}','body':'${{ steps.mainReadMe.outputs.content }}','nsfw':false,'post_id':${{ vars.POST_ID }},'language_id':0,'auth':'${{ fromJson(steps.Login.outputs.response).jwt }}'}"
+
+      # update about post
+      - name: Update about post
+        # You may pin to the exact commit or the version.
+        # uses: fjogeleit/http-request-action@eab8015483ccea148feff7b1c65f320805ddc2bf
+        uses: satak/webrequest-action@master
+        with:
+          # Request URL
+          url: "https://${{ vars.LEMMY_URL }}/api/v3/post"
+          # Request Method
+          method: "PUT"
+          # Content Type
+          headers: '{"Content-Type": "application/json", "Authorization": "Bearer ${{ fromJson(steps.Login.outputs.response).jwt }}"}'
+          # Request Body as JSON String
+          payload: |
+            {"name":"${{ vars.ABOUT_TITLE }}","body":${{ toJson(steps.aboutDirectory.outputs.content) }},"nsfw":false,"post_id":${{ vars.ABOUT_ID }},"language_id":0}
 
       # update main post
       - name: Update post 1
@@ -119,8 +142,8 @@ jobs:
           payload: |
             {"name":"${{ vars.POST4_TITLE }}","body":${{ toJson(steps.lemmyDirectory4.outputs.content) }},"nsfw":false,"post_id":${{ vars.POST4_ID }},"language_id":0}
 
-      # Update post 4
-      - name: Update post 4
+      # Update post 5
+      - name: Update post 5
         # You may pin to the exact commit or the version.
         # uses: fjogeleit/http-request-action@eab8015483ccea148feff7b1c65f320805ddc2bf
         uses: satak/webrequest-action@master
