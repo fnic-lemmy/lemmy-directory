@@ -1,5 +1,5 @@
 # 4. Memes/humoristic 🎭 (112 communities)
-### 4.1. Misc (112 communities)
+## 4.1. Misc (112 communities)
 1. **[Memes](/c/memes@lemmy.ml)** | lemmy.ml | [Kbin](/m/memes@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/memes@lemmy.ml) | ![](https://img.shields.io/lemmy/memes@lemmy.ml?style=flat&label=Subs&color=pink)
 	- description
 2. **[Lemmy Shitpost](/c/lemmyshitpost@lemmy.world)** | lemmy.world | [Kbin](/m/lemmyshitpost@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/lemmyshitpost@lemmy.world) | ![](https://img.shields.io/lemmy/lemmyshitpost@lemmy.world?style=flat&label=Subs&color=pink)
