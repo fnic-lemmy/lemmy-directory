@@ -14,24 +14,36 @@ for file in files:
         print(match.group(1))
         current_section = match.group(1)
         communities[current_section] = {}
-      match = re.search("^### ([0-9]+\.)+ (.*) \(", line)
+        # reset the subsections
+        current_subsection = "None"
+        current_subsubsection = "None"
+        communities[current_section][current_subsection] = {}
+        communities[current_section][current_subsection][current_subsubsection] = []
+      match = re.search("^## ([0-9]+\.)+ (.*) \(", line)
       if match is not None:
         print(f'  {match.group(2)}')
         current_subsection = match.group(2)
-        communities[current_section][current_subsection] = []
+        communities[current_section][current_subsection] = {}
+        communities[current_section][current_subsection][current_subsubsection] = []
+      match = re.search("^### ([0-9]+\.)+ (.*) \(", line)
+      if match is not None:
+        print(f'  {match.group(2)}')
+        current_subsubsection = match.group(2)
+        communities[current_section][current_subsection][current_subsubsection] = []
+
       match = re.search("^[0-9]+\. \*\*\[.*\]\(/c/(.*)\)\*\*", line)
       if match is not None:
-        communities[current_section][current_subsection].append(match.group(1))
+        communities[current_section][current_subsection][current_subsubsection].append(match.group(1))
         print(f'    {match.group(1)}')
 
 
 # Export FNIC to file
 with open('_fnic_comms.json', 'w') as json_file:
-  json.dump(communities['Art']['Imaginary Network 💭'], json_file, indent=2)
+  json.dump(communities['Art']['Imaginary Network 💭']['None'], json_file, indent=2)
 
 # Export Anime to file
 with open('_anime_comms.json', 'w') as json_file:
-  json.dump(communities['Art']['Anime Artworks 💢'], json_file, indent=2)
+  json.dump(communities['Art']['Anime Artworks 💢']['None'], json_file, indent=2)
 
 # Export a complete dump of the directory to a JSON file
 with open('__directory.json', 'w') as json_file:
