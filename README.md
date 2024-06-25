@@ -8,10 +8,10 @@ Directory is in early stages of WIP. Expect a lot of changes.
 
 📢 = Community moderator/s looking for mods to help with moderation.
 
-# Directory (641 communities)
+# Directory (xxx communities)
 
 # 1. Art (xxx communities)
-### 1.1. Imaginary Network 💭 (28 communities)
+## 1.1. Imaginary Network 💭 (28 communities)
 1. **[Imaginary Starships](/c/imaginarystarships@lemmy.world)** | lemmy.world | [Kbin](/m/imaginarystarships@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/imaginarystarships@lemmy.world) | ![](https://img.shields.io/lemmy/imaginarystarships@lemmy.world?style=flat&label=Subs&color=pink)
 	- A place to post pictures of imaginary starships, a la r/ImaginaryStarships
 2. **[Imaginary Witches](/c/imaginarywitches@lemmy.dbzer0.com)** | lemmy.dbzer0.com | [Kbin](/m/imaginarywitches@lemmy.dbzer0.com) | [lemmyverse.link](https://lemmyverse.link/c/imaginarywitches@lemmy.dbzer0.com) | ![](https://img.shields.io/lemmy/imaginarywitches@lemmy.dbzer0.com?style=flat&label=Subs&color=pink)
@@ -70,7 +70,7 @@ Artwork showing urban or societal degradation; run-down, grungy, or ramshackle y
 28. **[Imaginary Dolor](/c/imaginarydolor@lemmy.dbzer0.com)** 🔒 | lemmy.dbzer0.com | [Kbin](/m/imaginarydolor@lemmy.dbzer0.com) | [lemmyverse.link](https://lemmyverse.link/c/imaginarydolor@lemmy.dbzer0.com) | ![](https://img.shields.io/lemmy/imaginarydolor@lemmy.dbzer0.com?style=flat&label=Subs&color=pink)
 	- description
 
-### 1.2. General Artworks 🎨 (28 communities)
+## 1.2. General Artworks 🎨 (28 communities)
 1. **[Digital Art](/c/digitalart@lemmy.world)** | lemmy.world | [Kbin](/m/digitalart@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/digitalart@lemmy.world) | ![](https://img.shields.io/lemmy/digitalart@lemmy.world?style=flat&label=Subs&color=pink)
 	- description
 2. **[Art Share](/c/artshare@lemmy.world)** | lemmy.world | [Kbin](/m/artshare@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/artshare@lemmy.world) | ![](https://img.shields.io/lemmy/artshare@lemmy.world?style=flat&label=Subs&color=pink)
@@ -127,7 +127,7 @@ Artwork showing urban or societal degradation; run-down, grungy, or ramshackle y
 	- This magazine is for sharing artwork of historical events, places, personages, etc. Scale models and the like also welcome!
 28. **[Psychedelic Artwork](/c/psychedelic_artwork@psychedelia.ink)** | psychedelia.ink | [Kbin](/m/psychedelic_artwork@psychedelia.ink) | [lemmyverse.link](https://lemmyverse.link/c/psychedelic_artwork@psychedelia.ink) | ![](https://img.shields.io/lemmy/psychedelic_artwork@psychedelia.ink?style=flat&label=Subs&color=pink)
 	- A place to share psychedelic art, art that inspires a sense of spirituality or mysticism, or just trippy stuff; whether you made it, or someone else did.
-### 1.3. Anime Artworks 💢 (19 communities)
+## 1.3. Anime Artworks 💢 (19 communities)
 1. **[Anime and Pics](/c/animepics@reddthat.com)** | reddthat.com | [Kbin](/m/animepics@reddthat.com) | [lemmyverse.link](https://lemmyverse.link/c/animepics@reddthat.com) | ![](https://img.shields.io/lemmy/animepics@reddthat.com?style=flat&label=Subs&color=pink)
 	- A community dedicated to the discussion of anything surrounding: Anime, Manga/Manhwa, Light/Graphic Novels, and Visual Novels.
 2. **[Midriff Moe](/c/midriffmoe@ani.social)** | ani.social | [Kbin](/m/midriffmoe@ani.social) | [lemmyverse.link](https://lemmyverse.link/c/midriffmoe@ani.social) | ![](https://img.shields.io/lemmy/midriffmoe@ani.social?style=flat&label=Subs&color=pink)
@@ -166,7 +166,7 @@ Artwork showing urban or societal degradation; run-down, grungy, or ramshackle y
 	- Anime characters serving their country, or otherwise displaying competence for the art of modern warfare.
 19. **[Hidamari Sketch (ひだまりスケッチ)](/c/hidamarisketch@lemmy.world)** | lemmy.world | [Kbin](/m/hidamarisketch@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/hidamarisketch@lemmy.world) | ![](https://img.shields.io/lemmy/hidamarisketch@lemmy.world?style=flat&label=Subs&color=pink)
 	- description
-### 1.4. Music 🎵 (54 communities)
+## 1.4. Music 🎵 (54 communities)
 ### 1.4.1. General discussion (14 communities)
 1. **[Music](/c/music@lemmy.world)** | lemmy.world | [Kbin](/m/music@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/music@lemmy.world) | ![](https://img.shields.io/lemmy/music@lemmy.world?style=flat&label=Subs&color=pink)
 	- description
