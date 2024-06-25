@@ -1,116 +1,309 @@
-# 2. Memes/humoristic 🎭 (57 communities)
-### 2.1. Misc (57 communities)
-1. **[Memes](/c/memes@lemmy.ml)** | lemmy.ml | [Kbin](/m/memes@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/memes@lemmy.ml) | ![](https://img.shields.io/lemmy/memes@lemmy.ml?style=flat&label=Subs&color=pink)
+### 1.5. Photography 📷 (26 communities)
+1. **[Pics](/c/pics@lemmy.world)** | lemmy.world | [Kbin](/m/pics@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/pics@lemmy.world) | ![](https://img.shields.io/lemmy/pics@lemmy.world?style=flat&label=Subs&color=pink)
 	- description
-2. **[Lemmy Shitpost](/c/lemmyshitpost@lemmy.world)** | lemmy.world | [Kbin](/m/lemmyshitpost@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/lemmyshitpost@lemmy.world) | ![](https://img.shields.io/lemmy/lemmyshitpost@lemmy.world?style=flat&label=Subs&color=pink)
-	- Welcome to Lemmy Shitpost. Here you can shitpost to your hearts content.
-3. **[Linux Memes](/c/linuxmemes@lemmy.world)** | lemmy.world | [Kbin](/m/linuxmemes@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/linuxmemes@lemmy.world) | ![](https://img.shields.io/lemmy/linuxmemes@lemmy.world?style=flat&label=Subs&color=pink)
-	- I use Arch btw.
-4. **[Programmer Humor](/c/programmer_humor@programming.dev)** | programming.dev | [Kbin](/m/programmer_humor@programming.dev) | [lemmyverse.link](https://lemmyverse.link/c/programmer_humor@programming.dev) | ![](https://img.shields.io/lemmy/programmer_humor@programming.dev?style=flat&label=Subs&color=pink)
-	- Welcome to Programmer Humor! This is a place where you can post jokes, memes, humor, etc. related to programming!
-5. **[196](/c/196@lemmy.blahaj.zone)** | lemmy.blahaj.zone | [Kbin](/m/196@lemmy.blahaj.zone) | [lemmyverse.link](https://lemmyverse.link/c/196@lemmy.blahaj.zone) | ![](https://img.shields.io/lemmy/196@lemmy.blahaj.zone?style=flat&label=Subs&color=pink)
-	- Be sure to follow the rule before you head out. Rule: You must post before you leave.
-6. **[Star Wars Memes](/c/starwarsmemes@lemmy.world)** | lemmy.world | [Kbin](/m/starwarsmemes@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/starwarsmemes@lemmy.world) | ![](https://img.shields.io/lemmy/starwarsmemes@lemmy.world?style=flat&label=Subs&color=pink)
-	- Hello there. Somehow, Star Wars memes have returned. It’s not a trap, this is where the fun begins.
-7. **[RPGMemes](/c/rpgmemes@ttrpg.network)** | ttrpg.network | [Kbin](/m/rpgmemes@ttrpg.network) | [lemmyverse.link](https://lemmyverse.link/c/rpgmemes@ttrpg.network) | ![](https://img.shields.io/lemmy/rpgmemes@ttrpg.network?style=flat&label=Subs&color=pink)
-	- Humor, jokes, memes about TTRPGs.
-8. **[Science Memes](/c/science_memes@mander.xyz)** | mander.xyz | [Kbin](/m/science_memes@mander.xyz) | [lemmyverse.link](https://lemmyverse.link/c/science_memes@mander.xyz) | ![](https://img.shields.io/lemmy/science_memes@mander.xyz?style=flat&label=Subs&color=pink)
-	- A place for majestic STEMLORD peacocking, as well as memes about the realities of working in a lab.
-9. **[Memes](/c/memes@sopuli.xyz)** | sopuli.xyz | [Kbin](/m/memes@sopuli.xyz) | [lemmyverse.link](https://lemmyverse.link/c/memes@sopuli.xyz) | ![](https://img.shields.io/lemmy/memes@sopuli.xyz?style=flat&label=Subs&color=pink)
-	- Post memes here.
-10. **[ADHD Memes](/c/adhd@lemmy.dbzer0.com)** | lemmy.dbzer0.com | [Kbin](/m/adhd@lemmy.dbzer0.com) | [lemmyverse.link](https://lemmyverse.link/c/adhd@lemmy.dbzer0.com) | ![](https://img.shields.io/lemmy/adhd@lemmy.dbzer0.com?style=flat&label=Subs&color=pink)
-	- The lighter side of ADHD.
-11. **[Lord of the memes](/c/lotrmemes@midwest.social)** | midwest.social | [Kbin](/m/lotrmemes@midwest.social) | [lemmyverse.link](https://lemmyverse.link/c/lotrmemes@midwest.social) | ![](https://img.shields.io/lemmy/lotrmemes@midwest.social?style=flat&label=Subs&color=pink)
-	- The Lord of the rings memes communitiy on Lemmy. Share memes about Lord of the rings and be respectful.
-12. **[Risa](/c/risa@startrek.website)** | startrek.website | [Kbin](/m/risa@startrek.website) | [lemmyverse.link](https://lemmyverse.link/c/risa@startrek.website) | ![](https://img.shields.io/lemmy/risa@startrek.website?style=flat&label=Subs&color=pink)
-	- Star Trek memes and shitposts
-13. **[Internet Funeral](/c/internetfuneral@lemmy.world)** | lemmy.world | [Kbin](/m/internetfuneral@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/internetfuneral@lemmy.world) | ![](https://img.shields.io/lemmy/internetfuneral@lemmy.world?style=flat&label=Subs&color=pink)
-	- _art of the internet_
-14. **[Terrible Estate Agent Photos](/c/badrealestate@feddit.uk)** | feddit.uk | [Kbin](/m/badrealestate@feddit.uk) | [lemmyverse.link](https://lemmyverse.link/c/badrealestate@feddit.uk) | ![](https://img.shields.io/lemmy/badrealestate@feddit.uk?style=flat&label=Subs&color=pink)
-	- Terrible photos listed by estate agents/realtors that are so bad they’re funny.
-15. **[Funny](/c/funny@sh.itjust.works)** | sh.itjust.works | [Kbin](/m/funny@sh.itjust.works) | [lemmyverse.link](https://lemmyverse.link/c/funny@sh.itjust.works) | ![](https://img.shields.io/lemmy/funny@sh.itjust.works?style=flat&label=Subs&color=pink)
+2. **[Accidental Renaissance](/c/accidentalrenaissance@lemmy.blahaj.zone)** | lemmy.blahaj.zone | [Kbin](/m/accidentalrenaissance@lemmy.blahaj.zone) | [lemmyverse.link](https://lemmyverse.link/c/accidentalrenaissance@lemmy.blahaj.zone) | ![](https://img.shields.io/lemmy/accidentalrenaissance@lemmy.blahaj.zone?style=flat&label=Subs&color=pink)
+	- AccidentalRenaissance is for photos that look like Renaissance paintings.
+3. **[EarthPorn](/c/earthporn@lemmy.ml)** | lemmy.ml | [Kbin](/m/earthporn@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/earthporn@lemmy.ml) | ![](https://img.shields.io/lemmy/earthporn@lemmy.ml?style=flat&label=Subs&color=pink)
 	- description
-16. **[NonCredibleDefense](/c/noncredibledefense@sh.itjust.works)** | sh.itjust.works | [Kbin](/m/noncredibledefense@sh.itjust.works) | [lemmyverse.link](https://lemmyverse.link/c/noncredibledefense@sh.itjust.works) | ![](https://img.shields.io/lemmy/noncredibledefense@sh.itjust.works?style=flat&label=Subs&color=pink)
-	- A community for your defence shitposting needs.
-17. **[Lemmy Be Wholesome](/c/lemmybewholesome@lemmy.world)** | lemmy.world | [Kbin](/m/lemmybewholesome@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/lemmybewholesome@lemmy.world) | ![](https://img.shields.io/lemmy/lemmybewholesome@lemmy.world?style=flat&label=Subs&color=pink)
-	- Welcome to Lemmy Be Wholesome. This is the polar opposite of LemmeShitpost. Here you can post wholesome memes, palate cleanser and good vibes.
-18. **[Antique Memes Roadshow](/c/antiquememesroadshow@lemmy.world)** | lemmy.world | [Kbin](/m/antiquememesroadshow@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/antiquememesroadshow@lemmy.world) | ![](https://img.shields.io/lemmy/antiquememesroadshow@lemmy.world?style=flat&label=Subs&color=pink)
-	- Giving you the backstory and appraisals of vintage memes!
-19. **[Funny](/c/funny@lemmy.world)** | lemmy.world | [Kbin](/m/funny@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/funny@lemmy.world) | ![](https://img.shields.io/lemmy/funny@lemmy.world?style=flat&label=Subs&color=pink)
-	- Welcome to /c/funny, a place for all your humorous and amusing content.
-20. **[Microblog Memes](/c/microblogmemes@lemmy.world)** | lemmy.world | [Kbin](/m/microblogmemes@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/microblogmemes@lemmy.world) | ![](https://img.shields.io/lemmy/microblogmemes@lemmy.world?style=flat&label=Subs&color=pink)
-	- A place to share screenshots of Microblog posts, whether from Mastodon, tumblr, ~~Twitter~~ X, KBin, Threads or elsewhere.
-21. **[DnD Memes](/c/dndmemes@sh.itjust.works)** | sh.itjust.works | [Kbin](/m/dndmemes@sh.itjust.works) | [lemmyverse.link](https://lemmyverse.link/c/dndmemes@sh.itjust.works) | ![](https://img.shields.io/lemmy/dndmemes@sh.itjust.works?style=flat&label=Subs&color=pink)
+4. **[Photography](/c/photography@lemmy.ml)** | lemmy.ml | [Kbin](/m/photography@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/photography@lemmy.ml) | ![](https://img.shields.io/lemmy/photography@lemmy.ml?style=flat&label=Subs&color=pink)
 	- description
-22. **[Fake History Porn](/c/fakehistoryporn@lemmy.world)** | lemmy.world | [Kbin](/m/fakehistoryporn@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/fakehistoryporn@lemmy.world) | ![](https://img.shields.io/lemmy/fakehistoryporn@lemmy.world?style=flat&label=Subs&color=pink)
-	- Welcome to [/c/fakehistoryporn@lemmy.world](https://lemmy.dbzer0.com/c/fakehistoryporn@lemmy.world) , where fake history is made. Find a historically significant photo, come up with a fake history title, post it, laugh.
-23. **[hmmm](/c/hmmm@lemmy.world)** | lemmy.world | [Kbin](/m/hmmm@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/hmmm@lemmy.world) | ![](https://img.shields.io/lemmy/hmmm@lemmy.world?style=flat&label=Subs&color=pink)
-	- Internet as an art.
-24. **[me_irl](/c/me_irl@lemmy.world)** | lemmy.world | [Kbin](/m/me_irl@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/me_irl@lemmy.world) | ![](https://img.shields.io/lemmy/me_irl@lemmy.world?style=flat&label=Subs&color=pink)
-	- All posts need to have the same title: "me_irl" it is allowed to use an emoji instead of the underscore "_".
-25. **[Bone Apple Tea](/c/boneappletea@lemmy.world)** | lemmy.world | [Kbin](/m/boneappletea@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/boneappletea@lemmy.world) | ![](https://img.shields.io/lemmy/boneappletea@lemmy.world?style=flat&label=Subs&color=pink)
-	- A community for funny phonetic misspellings of words or phrases. Bonus points if this misspelling comprises actual words, like this community’s namesake: Bon appétit —> Bone apple tea.
-26. **[Curated Tumblr](/c/curatedtumblr@sh.itjust.works)** | sh.itjust.works | [Kbin](/m/curatedtumblr@sh.itjust.works) | [lemmyverse.link](https://lemmyverse.link/c/curatedtumblr@sh.itjust.works) | ![](https://img.shields.io/lemmy/curatedtumblr@sh.itjust.works?style=flat&label=Subs&color=pink)
-	- For preserving the least toxic and most culturally relevant Tumblr heritage posts.
-27. **[Witchy Memes](/c/witchymemes@lemmy.world)** | lemmy.world | [Kbin](/m/witchymemes@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/witchymemes@lemmy.world) | ![](https://img.shields.io/lemmy/witchymemes@lemmy.world?style=flat&label=Subs&color=pink)
-	- Be cool to each other. We’ll welcome most occult themes, it’s okay if you stray from witchcraft a bit.
-28. **[Animals With Jobs](/c/animalswithjobs@lemmy.world)** | lemmy.world | [Kbin](/m/animalswithjobs@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/animalswithjobs@lemmy.world) | ![](https://img.shields.io/lemmy/animalswithjobs@lemmy.world?style=flat&label=Subs&color=pink)
-	- Is it an animal? Does it have a job? Then it belongs here!
-29. **[MEOW_IRL](/c/meow_irl@sopuli.xyz)** | sopuli.xyz | [Kbin](/m/meow_irl@sopuli.xyz) | [lemmyverse.link](https://lemmyverse.link/c/meow_irl@sopuli.xyz) | ![](https://img.shields.io/lemmy/meow_irl@sopuli.xyz?style=flat&label=Subs&color=pink)
-	- Memes for “cats of the soul”. Post relatable, weird, funny cats.
-30. **[Bikini Bottom Twitter](/c/bikinibottomtwitter@lemmy.world)** | lemmy.world | [Kbin](/m/bikinibottomtwitter@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/bikinibottomtwitter@lemmy.world) | ![](https://img.shields.io/lemmy/bikinibottomtwitter@lemmy.world?style=flat&label=Subs&color=pink)
-	- Are ya ready kids?!
-31. **[Trippin' Through Time](/c/trippinthroughtime@lemmy.ca)** | lemmy.ca | [Kbin](/m/trippinthroughtime@lemmy.ca) | [lemmyverse.link](https://lemmyverse.link/c/trippinthroughtime@lemmy.ca) | ![](https://img.shields.io/lemmy/trippinthroughtime@lemmy.ca?style=flat&label=Subs&color=pink)
-	- A lemmy replacement for the r/trippinthroughtime sub.
-32. **[Greentext](/c/greentext@sh.itjust.works)** | sh.itjust.works | [Kbin](/m/greentext@sh.itjust.works) | [lemmyverse.link](https://lemmyverse.link/c/greentext@sh.itjust.works) | ![](https://img.shields.io/lemmy/greentext@sh.itjust.works?style=flat&label=Subs&color=pink)
-	- This is a place to share greentexts and witness the confounding life of Anon. If you’re new to the _Greentext_ community, think of it as a sort of zoo with Anon as the main attraction.
-33. **[Tumblr](/c/tumblr@lemmy.world)** | lemmy.world | [Kbin](/m/tumblr@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/tumblr@lemmy.world) | ![](https://img.shields.io/lemmy/tumblr@lemmy.world?style=flat&label=Subs&color=pink)
-	- Welcome to /c/tumblr, a place for all your tumblr screenshots and news.
-34. **[TenForward](/c/tenforward@lemmy.world)** | lemmy.world | [Kbin](/m/tenforward@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/tenforward@lemmy.world) | ![](https://img.shields.io/lemmy/tenforward@lemmy.world?style=flat&label=Subs&color=pink)
-	- _/c/TenFoward: Your home-away-from-home for all things Star Trek!_
-35. **[simpsonsshitposting](/c/simpsonsshitposting@sh.itjust.works)** | sh.itjust.works | [Kbin](/m/simpsonsshitposting@sh.itjust.works) | [lemmyverse.link](https://lemmyverse.link/c/simpsonsshitposting@sh.itjust.works) | ![](https://img.shields.io/lemmy/simpsonsshitposting@sh.itjust.works?style=flat&label=Subs&color=pink)
-	- I just think they’re neat!
-36. **[Grimdank](/c/grimdank@lemmy.world)** | lemmy.world | [Kbin](/m/grimdank@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/grimdank@lemmy.world) | ![](https://img.shields.io/lemmy/grimdank@lemmy.world?style=flat&label=Subs&color=pink)
-	- Da stompin’ ground fer da dankest memes from da 41st millennium an’ da Mortal Realms, right 'ere at yer central Waaagh! hub!
-37. **[Best of Mastodon](/c/best_of_mastodon@sh.itjust.works)** | sh.itjust.works | [Kbin](/m/best_of_mastodon@sh.itjust.works) | [lemmyverse.link](https://lemmyverse.link/c/best_of_mastodon@sh.itjust.works) | ![](https://img.shields.io/lemmy/best_of_mastodon@sh.itjust.works?style=flat&label=Subs&color=pink)
-	- Share the best posts you find on mastodon. Add a link to the original toot.
-38. **[Metal Memes](/c/metalmemes@lemmy.world)** | lemmy.world | [Kbin](/m/metalmemes@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/metalmemes@lemmy.world) | ![](https://img.shields.io/lemmy/metalmemes@lemmy.world?style=flat&label=Subs&color=pink)
-	- Memes. For metal music.
-39. **[Raccoons](/c/raccoons@lemmy.world)** | lemmy.world | [Kbin](/m/raccoons@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/raccoons@lemmy.world) | ![](https://img.shields.io/lemmy/raccoons@lemmy.world?style=flat&label=Subs&color=pink)
-	- A place for raccoons migrating from reddit.
-40. **[Found Satan](/c/foundsatan@lemmy.world)** | lemmy.world | [Kbin](/m/foundsatan@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/foundsatan@lemmy.world) | ![](https://img.shields.io/lemmy/foundsatan@lemmy.world?style=flat&label=Subs&color=pink)
-	- Individuals displaying mischievous, spiteful, or teasing behavior in a playful manner, rather than engaging in genuinely cruel actions.
-41. **[Shitty Car Mods](/c/shittycarmods@lemmy.world)** ❓ | lemmy.world | [Kbin](/m/shittycarmods@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/shittycarmods@lemmy.world) | ![](https://img.shields.io/lemmy/shittycarmods@lemmy.world?style=flat&label=Subs&color=pink)
-	- You know what it is.
-42. **[anime_irl](/c/anime_irl@ani.social)** | ani.social | [Kbin](/m/anime_irl@ani.social) | [lemmyverse.link](https://lemmyverse.link/c/anime_irl@ani.social) | ![](https://img.shields.io/lemmy/anime_irl@ani.social?style=flat&label=Subs&color=pink)
-	- A community for sharing relatable real-life situations depicted in anime.
-43. **[Animemes](/c/animemes@ani.social)** | ani.social | [Kbin](/m/animemes@ani.social) | [lemmyverse.link](https://lemmyverse.link/c/animemes@ani.social) | ![](https://img.shields.io/lemmy/animemes@ani.social?style=flat&label=Subs&color=pink)
-	- Memes related to anime. Animemes.
-44. **[Chevron 7](/c/chevron7@lemmy.world)** | lemmy.world | [Kbin](/m/chevron7@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/chevron7@lemmy.world) | ![](https://img.shields.io/lemmy/chevron7@lemmy.world?style=flat&label=Subs&color=pink)
-	- A community for sharing humor about Stargate in all its iterations.
-45. **[Surreal Memes](/c/surrealmemes@sh.itjust.works)** | sh.itjust.works | [Kbin](/m/surrealmemes@sh.itjust.works) | [lemmyverse.link](https://lemmyverse.link/c/surrealmemes@sh.itjust.works) | ![](https://img.shields.io/lemmy/surrealmemes@sh.itjust.works?style=flat&label=Subs&color=pink)
+5. **[Photography](/c/photography@lemmy.world)** | lemmy.world | [Kbin](/m/photography@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/photography@lemmy.world) | ![](https://img.shields.io/lemmy/photography@lemmy.world?style=flat&label=Subs&color=pink)
 	- description
-46. **[Femcel Memes](/c/femcelmemes@lemmy.blahaj.zone)** | lemmy.blahaj.zone | [Kbin](/m/femcelmemes@lemmy.blahaj.zone) | [lemmyverse.link](https://lemmyverse.link/c/femcelmemes@lemmy.blahaj.zone) | ![](https://img.shields.io/lemmy/femcelmemes@lemmy.blahaj.zone?style=flat&label=Subs&color=pink)
-	- Welcome to femcel memes. A place where anybody can post memes that fit the vibe.
-47. **[Memes](/c/memes@feddit.uk)** | feddit.uk | [Kbin](/m/memes@feddit.uk) | [lemmyverse.link](https://lemmyverse.link/c/memes@feddit.uk) | ![](https://img.shields.io/lemmy/memes@feddit.uk?style=flat&label=Subs&color=pink)
+6. **[AbandonedPorn](/c/abandonedporn@reddthat.com)** | reddthat.com | [Kbin](/m/abandonedporn@reddthat.com) | [lemmyverse.link](https://lemmyverse.link/c/abandonedporn@reddthat.com) | ![](https://img.shields.io/lemmy/abandonedporn@reddthat.com?style=flat&label=Subs&color=pink)
 	- description
-48. **[Relationship Memes](/c/relationshipmemes@lemmyis.fun)** | lemmyis.fun | [Kbin](/m/relationshipmemes@lemmyis.fun) | [lemmyverse.link](https://lemmyverse.link/c/relationshipmemes@lemmyis.fun) | ![](https://img.shields.io/lemmy/relationshipmemes@lemmyis.fun?style=flat&label=Subs&color=pink)
-	- the place for relationship memes. Whether you’re loved up or single, showing off or sulking, all your relationship memes are welcome here where it’s actually all quite wholesome. We actually think the more sickly-romantic the better here 😂 Have fun all!
-49. **[Monkey's Paw](/c/monkeyspaw@sopuli.xyz)** | sopuli.xyz | [Kbin](/m/monkeyspaw@sopuli.xyz) | [lemmyverse.link](https://lemmyverse.link/c/monkeyspaw@sopuli.xyz) | ![](https://img.shields.io/lemmy/monkeyspaw@sopuli.xyz?style=flat&label=Subs&color=pink)
-	- Want to make a wish? Just ask the Monkey’s Paw! No strings attached.*
-50. **[Aminals](/c/aminals@lemmy.best)** | lemmy.best | [Kbin](/m/aminals@lemmy.best) | [lemmyverse.link](https://lemmyverse.link/c/aminals@lemmy.best) | ![](https://img.shields.io/lemmy/aminals@lemmy.best?style=flat&label=Subs&color=pink)
-	- Look at the Aminals.
-51. **[Weird Wheels](/c/weirdwheels@lemm.ee)** ❓ | lemm.ee | [Kbin](/m/weirdwheels@lemm.ee) | [lemmyverse.link](https://lemmyverse.link/c/weirdwheels@lemm.ee) | ![](https://img.shields.io/lemmy/weirdwheels@lemm.ee?style=flat&label=Subs&color=pink)
-	- We focus on unusual vehicles, auto tech and art.
-52. **[Itemshop](/c/itemshop@sh.itjust.works)** | sh.itjust.works | [Kbin](/m/itemshop@sh.itjust.works) | [lemmyverse.link](https://lemmyverse.link/c/itemshop@sh.itjust.works) | ![](https://img.shields.io/lemmy/itemshop@sh.itjust.works?style=flat&label=Subs&color=pink)
-	- Things that look like items from RPGs and other video games. Weapons, armor, accessories, etc. Include stats!
-53. **[Bossfight](/c/bossfight@lemmy.dbzer0.com)** | lemmy.dbzer0.com | [Kbin](/m/bossfight@lemmy.dbzer0.com) | [lemmyverse.link](https://lemmyverse.link/c/bossfight@lemmy.dbzer0.com) | ![](https://img.shields.io/lemmy/bossfight@lemmy.dbzer0.com?style=flat&label=Subs&color=pink)
-	- Pictures of things that could be boss fights, any kind of picture, gif, or video may be used. Come up with a boss name for the title, and if desired add some stats and or back story in the comments.
-54. **[Antimeme](/c/antimeme@lemmy.world)** | lemmy.world | [Kbin](/m/antimeme@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/antimeme@lemmy.world) | ![](https://img.shields.io/lemmy/antimeme@lemmy.world?style=flat&label=Subs&color=pink)
-	- [Antimemes](https://knowyourmeme.com/memes/anti-memes) are image macros which are typically captioned with anti-jokes and meta humor mocking or mimicking other memes. Antimemes often depict situations that are very literal, obvious, or intentionally “not funny” in contrast to the memes they originate from.
-55. **[Reaction Memes](/c/reactionmemes@lemmy.dbzer0.com)** | lemmy.dbzer0.com | [Kbin](/m/reactionmemes@lemmy.dbzer0.com) | [lemmyverse.link](https://lemmyverse.link/c/reactionmemes@lemmy.dbzer0.com) | ![](https://img.shields.io/lemmy/reactionmemes@lemmy.dbzer0.com?style=flat&label=Subs&color=pink)
+7. **[Reclaimed By Nature](/c/reclaimedbynature@lemmy.world)** | lemmy.world | [Kbin](/m/reclaimedbynature@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/reclaimedbynature@lemmy.world) | ![](https://img.shields.io/lemmy/reclaimedbynature@lemmy.world?style=flat&label=Subs&color=pink)
 	- description
-56. **[Awesome Car Mods](/c/awesomecarmods@lemmy.dbzer0.com)** ❓ | lemmy.dbzer0.com | [Kbin](/m/awesomecarmods@lemmy.dbzer0.com) | [lemmyverse.link](https://lemmyverse.link/c/awesomecarmods@lemmy.dbzer0.com) | ![](https://img.shields.io/lemmy/awesomecarmods@lemmy.dbzer0.com?style=flat&label=Subs&color=pink)
-	- A subreddit devoted to car modifications that are awesome.
-57. **[History Memes](/c/HistoryMemes@kbin.social)** | kbin.social | [Kbin](/m/HistoryMemes@kbin.social) | [lemmyverse.link](https://lemmyverse.link/c/HistoryMemes@kbin.social) | ![](https://img.shields.io/lemmy/HistoryMemes@kbin.social?style=flat&label=Subs&color=pink)
-	- Memes about history.
+8. **[Film Photography](/c/analog@lemmy.world)** | lemmy.world | [Kbin](/m/analog@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/analog@lemmy.world) | ![](https://img.shields.io/lemmy/analog@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+9. **[Travel Photography](/c/travelphotography@lemmy.world)** | lemmy.world | [Kbin](/m/travelphotography@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/travelphotography@lemmy.world) | ![](https://img.shields.io/lemmy/travelphotography@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+10. **[Astrophotography](/c/astrophotography@lemmy.world)** | lemmy.world | [Kbin](/m/astrophotography@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/astrophotography@lemmy.world) | ![](https://img.shields.io/lemmy/astrophotography@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+11. **[cozyplaces](/c/cozy_places@lemmy.world)** | lemmy.world | [Kbin](/m/cozy_places@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/cozy_places@lemmy.world) | ![](https://img.shields.io/lemmy/cozy_places@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+12. **[Wildlife Photography](/c/wildlifephotography@lemmy.world)** | lemmy.world | [Kbin](/m/wildlifephotography@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/wildlifephotography@lemmy.world) | ![](https://img.shields.io/lemmy/wildlifephotography@lemmy.world?style=flat&label=Subs&color=pink)
+	- c/WildlifePhotography is community dedicated to all wildlife photographers and enthusiasts who have an unwavering appreciation for the mesmerizing art of capturing nature’s wonders.
+13. **[Macro Photography](/c/macrophotography@lemmy.world)** | lemmy.world | [Kbin](/m/macrophotography@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/macrophotography@lemmy.world) | ![](https://img.shields.io/lemmy/macrophotography@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+14. **[Earth Porn](/c/earthporn@lemmy.world)** | lemmy.world | [Kbin](/m/earthporn@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/earthporn@lemmy.world) | ![](https://img.shields.io/lemmy/earthporn@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+15. **[Nature's Patterns](/c/natures_patterns@lemmy.world)** | lemmy.world | [Kbin](/m/natures_patterns@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/natures_patterns@lemmy.world) | ![](https://img.shields.io/lemmy/natures_patterns@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+16. **[Abstract Photography](/c/abstractphotography@lemmy.ml)** | lemmy.ml | [Kbin](/m/abstractphotography@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/abstractphotography@lemmy.ml) | ![](https://img.shields.io/lemmy/abstractphotography@lemmy.ml?style=flat&label=Subs&color=pink)
+	- description
+17. **[Japan Pics](/c/japanpics@lemmy.world)** | lemmy.world | [Kbin](/m/japanpics@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/japanpics@lemmy.world) | ![](https://img.shields.io/lemmy/japanpics@lemmy.world?style=flat&label=Subs&color=pink)
+	- This is a community dedicated to Japanese photos. Feel free to post pictures of architecture, nature, or Japanese culture.
+18. **[OldPhotosInRealLife](/c/oldphotosinreallife@lemmy.world)** | lemmy.world | [Kbin](/m/oldphotosinreallife@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/oldphotosinreallife@lemmy.world) | ![](https://img.shields.io/lemmy/oldphotosinreallife@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+19. **[Top View](/c/topview@lemmy.world)** | lemmy.world | [Kbin](/m/topview@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/topview@lemmy.world) | ![](https://img.shields.io/lemmy/topview@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+20. **[Street photography](/c/streetphotography@lemmy.world)** | lemmy.world | [Kbin](/m/streetphotography@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/streetphotography@lemmy.world) | ![](https://img.shields.io/lemmy/streetphotography@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+21. **[Photos](/c/photos@lemmy.world)** | lemmy.world | [Kbin](/m/photos@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/photos@lemmy.world) | ![](https://img.shields.io/lemmy/photos@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+22. **[Photo Critique](/c/photocritique@lemmy.world)** | lemmy.world | [Kbin](/m/photocritique@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/photocritique@lemmy.world) | ![](https://img.shields.io/lemmy/photocritique@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+23. **[City Porn](/c/cityporn@lemmy.world)** | lemmy.world | [Kbin](/m/cityporn@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/cityporn@lemmy.world) | ![](https://img.shields.io/lemmy/cityporn@lemmy.world?style=flat&label=Subs&color=pink)
+	- Good looking cities (no NSFW).
+24. **[room porn](/c/roomporn@lemmy.world)** | lemmy.world | [Kbin](/m/roomporn@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/roomporn@lemmy.world) | ![](https://img.shields.io/lemmy/roomporn@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+25. **[Photos of ruins and structures from past eras](/c/HistoryRuins@kbin.social)** | kbin.social | [Kbin](/m/HistoryRuins@kbin.social) | [lemmyverse.link](https://lemmyverse.link/c/HistoryRuins@kbin.social) | ![](https://img.shields.io/mbin/HistoryRuins@kbin.social?style=flat&label=Subs&color=pink)
+	- description
+26. **[Photos of beautiful, still](/c/InhabitedBeauty@kbin.social)** | kbin.social | [Kbin](/m/InhabitedBeauty@kbin.social) | [lemmyverse.link](https://lemmyverse.link/c/InhabitedBeauty@kbin.social) | ![](https://img.shields.io/mbin/InhabitedBeauty@kbin.social?style=flat&label=Subs&color=pink)
+	- description
+### 1.6. Themes 🖼️ (8 communities)
+1. **[Goblincore](/c/goblincore@lemmy.blahaj.zone)** | lemmy.blahaj.zone | [Kbin](/m/goblincore@lemmy.blahaj.zone) | [lemmyverse.link](https://lemmyverse.link/c/goblincore@lemmy.blahaj.zone) | ![](https://img.shields.io/lemmy/goblincore@lemmy.blahaj.zone?style=flat&label=Subs&color=pink)
+	- description
+2. **[Cyberpunk](/c/cyberpunk@lemmy.ml)** | lemmy.ml | [Kbin](/m/cyberpunk@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/cyberpunk@lemmy.ml) | ![](https://img.shields.io/lemmy/cyberpunk@lemmy.ml?style=flat&label=Subs&color=pink)
+	- description
+3. **[Raining](/c/raining@sh.itjust.works)** | sh.itjust.works | [Kbin](/m/raining@sh.itjust.works) | [lemmyverse.link](https://lemmyverse.link/c/raining@sh.itjust.works) | ![](https://img.shields.io/lemmy/raining@sh.itjust.works?style=flat&label=Subs&color=pink)
+	- description
+4. **[Cyberpunk](/c/cyberpunk@lemmy.zip)** | lemmy.zip | [Kbin](/m/cyberpunk@lemmy.zip) | [lemmyverse.link](https://lemmyverse.link/c/cyberpunk@lemmy.zip) | ![](https://img.shields.io/lemmy/cyberpunk@lemmy.zip?style=flat&label=Subs&color=pink)
+	- description
+5. **[Wizards](/c/wizards@lemmy.world)** | lemmy.world | [Kbin](/m/wizards@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/wizards@lemmy.world) | ![](https://img.shields.io/lemmy/wizards@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+6. **[Synthwave](/c/synthwave@lemmy.world)** | lemmy.world | [Kbin](/m/synthwave@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/synthwave@lemmy.world) | ![](https://img.shields.io/lemmy/synthwave@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+7. **[Vaporwave](/c/vaporwave@sh.itjust.works)** | sh.itjust.works | [Kbin](/m/vaporwave@sh.itjust.works) | [lemmyverse.link](https://lemmyverse.link/c/vaporwave@sh.itjust.works) | ![](https://img.shields.io/lemmy/vaporwave@sh.itjust.works?style=flat&label=Subs&color=pink)
+	- Share your vaporwave music, videos, and aesthetic art. All in one place!
+8. **[Fancy Aesthetics](/c/fancyaesthetics@lemmy.world)** | lemmy.world | [Kbin](/m/fancyaesthetics@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/fancyaesthetics@lemmy.world) | ![](https://img.shields.io/lemmy/fancyaesthetics@lemmy.world?style=flat&label=Subs&color=pink)
+	- Suits/dresses, medieval finery, beautiful landscapes – All things _fancy_ and _elegant_. Be they art or photographs.
+### 1.7. Comics  (16 communities)
+1. **[Comic Strips](/c/comicstrips@lemmy.world)** | lemmy.world | [Kbin](/m/comicstrips@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/comicstrips@lemmy.world) | ![](https://img.shields.io/lemmy/comicstrips@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+2. **[xkcd](/c/xkcd@lemmy.world)** | lemmy.world | [Kbin](/m/xkcd@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/xkcd@lemmy.world) | ![](https://img.shields.io/lemmy/xkcd@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+3. **[Strange Planet by Nathan W. Pyle](/c/nathanwpyle@lemmy.world)** | lemmy.world | [Kbin](/m/nathanwpyle@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/nathanwpyle@lemmy.world) | ![](https://img.shields.io/lemmy/nathanwpyle@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+4. **[Calvin and Hobbes](/c/calvinandhobbes@lemmy.world)** | lemmy.world | [Kbin](/m/calvinandhobbes@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/calvinandhobbes@lemmy.world) | ![](https://img.shields.io/lemmy/calvinandhobbes@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+5. **[Comics](/c/comics@lemmy.ml)** | lemmy.ml | [Kbin](/m/comics@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/comics@lemmy.ml) | ![](https://img.shields.io/lemmy/comics@lemmy.ml?style=flat&label=Subs&color=pink)
+	- description
+6. **[The Far Side](/c/thefarside@sh.itjust.works)** | sh.itjust.works | [Kbin](/m/thefarside@sh.itjust.works) | [lemmyverse.link](https://lemmyverse.link/c/thefarside@sh.itjust.works) | ![](https://img.shields.io/lemmy/thefarside@sh.itjust.works?style=flat&label=Subs&color=pink)
+	- description
+7. **[Cyanide and Happiness](/c/cyanideandhappiness@lemm.ee)** | lemm.ee | [Kbin](/m/cyanideandhappiness@lemm.ee) | [lemmyverse.link](https://lemmyverse.link/c/cyanideandhappiness@lemm.ee) | ![](https://img.shields.io/lemmy/cyanideandhappiness@lemm.ee?style=flat&label=Subs&color=pink)
+	- description
+8. **[unix_surrealism](/c/unix_surrealism@lemmy.sdf.org)** | lemmy.sdf.org | [Kbin](/m/unix_surrealism@lemmy.sdf.org) | [lemmyverse.link](https://lemmyverse.link/c/unix_surrealism@lemmy.sdf.org) | ![](https://img.shields.io/lemmy/unix_surrealism@lemmy.sdf.org?style=flat&label=Subs&color=pink)
+	- description
+9. **[Loading Artist comics](/c/loadingartist@lemmy.world)** | lemmy.world | [Kbin](/m/loadingartist@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/loadingartist@lemmy.world) | ![](https://img.shields.io/lemmy/loadingartist@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+10. **[Garfield](/c/garfield@lemmy.world)** | lemmy.world | [Kbin](/m/garfield@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/garfield@lemmy.world) | ![](https://img.shields.io/lemmy/garfield@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+11. **[Extra Ordinary Comics](/c/exocomics@lemmy.world)** | lemmy.world | [Kbin](/m/exocomics@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/exocomics@lemmy.world) | ![](https://img.shields.io/lemmy/exocomics@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+12. **[Bloom County](/c/bloomcounty@lemm.ee)** | lemm.ee | [Kbin](/m/bloomcounty@lemm.ee) | [lemmyverse.link](https://lemmyverse.link/c/bloomcounty@lemm.ee) | ![](https://img.shields.io/lemmy/bloomcounty@lemm.ee?style=flat&label=Subs&color=pink)
+	- description
+13. **[Comics](/c/comics@lemmy.blahaj.zone)** | lemmy.blahaj.zone | [Kbin](/m/comics@lemmy.blahaj.zone) | [lemmyverse.link](https://lemmyverse.link/c/comics@lemmy.blahaj.zone) | ![](https://img.shields.io/lemmy/comics@lemmy.blahaj.zone?style=flat&label=Subs&color=pink)
+	- description
+14. **[CustardFist](/c/custardfist@feddit.nl)** | feddit.nl | [Kbin](/m/custardfist@feddit.nl) | [lemmyverse.link](https://lemmyverse.link/c/custardfist@feddit.nl) | ![](https://img.shields.io/lemmy/custardfist@feddit.nl?style=flat&label=Subs&color=pink)
+	- description
+15. **[Litterbox Comics](/c/litterboxcomics@lemmy.world)** | lemmy.world | [Kbin](/m/litterboxcomics@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/litterboxcomics@lemmy.world) | ![](https://img.shields.io/lemmy/litterboxcomics@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+16. **[Heathcliff](/c/heathcliff@lemmy.world)** | lemmy.world | [Kbin](/m/heathcliff@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/heathcliff@lemmy.world) | ![](https://img.shields.io/lemmy/heathcliff@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+### 1.8. Writing/reading (4 communities)
+1. **[Poetry](/c/poetry@lemmy.world)** | lemmy.world | [Kbin](/m/poetry@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/poetry@lemmy.world) | ![](https://img.shields.io/lemmy/poetry@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+2. **[Keep Writing](/c/keepwriting@lemmy.world)** | lemmy.world | [Kbin](/m/keepwriting@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/keepwriting@lemmy.world) | ![](https://img.shields.io/lemmy/keepwriting@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+3. **[Writing Prompts](/c/writingprompts@lemmy.world)** | lemmy.world | [Kbin](/m/writingprompts@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/writingprompts@lemmy.world) | ![](https://img.shields.io/lemmy/writingprompts@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+4. **[Short Stories](/c/shortstories@literature.cafe)** | literature.cafe | [Kbin](/m/shortstories@literature.cafe) | [lemmyverse.link](https://lemmyverse.link/c/shortstories@literature.cafe) | ![](https://img.shields.io/lemmy/shortstories@literature.cafe?style=flat&label=Subs&color=pink)
+	- description
+### 1.9. AI (6 communities)
+1. **[ImageAI](/c/imageai@sh.itjust.works)** | sh.itjust.works | [Kbin](/m/imageai@sh.itjust.works) | [lemmyverse.link](https://lemmyverse.link/c/imageai@sh.itjust.works) | ![](https://img.shields.io/lemmy/imageai@sh.itjust.works?style=flat&label=Subs&color=pink)
+	- Community for AI image generation. Any models are allowed. **Creativity is valuable!** It is recommended to post the model used for reference, but not a rule.
+2. **[AI Art](/c/ai_art@lemmy.world)** | lemmy.world | [Kbin](/m/ai_art@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/ai_art@lemmy.world) | ![](https://img.shields.io/lemmy/ai_art@lemmy.world?style=flat&label=Subs&color=pink)
+	- A place to share images and art generated by artificial intelligence and similar tools.
+3. **[Stable Diffusion Art](/c/stable_diffusion_art@lemmy.dbzer0.com)** | lemmy.dbzer0.com | [Kbin](/m/stable_diffusion_art@lemmy.dbzer0.com) | [lemmyverse.link](https://lemmyverse.link/c/stable_diffusion_art@lemmy.dbzer0.com) | ![](https://img.shields.io/lemmy/stable_diffusion_art@lemmy.dbzer0.com?style=flat&label=Subs&color=pink)
+	- description
+4. **[Stable Diffusion Anime](/c/share_anime_art@lemmy.dbzer0.com)** | lemmy.dbzer0.com | [Kbin](/m/share_anime_art@lemmy.dbzer0.com) | [lemmyverse.link](https://lemmyverse.link/c/share_anime_art@lemmy.dbzer0.com) | ![](https://img.shields.io/lemmy/share_anime_art@lemmy.dbzer0.com?style=flat&label=Subs&color=pink)
+	- description
+5. **[AI Videos](/c/ai_videos@lemmy.world)** | lemmy.world | [Kbin](/m/ai_videos@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/ai_videos@lemmy.world) | ![](https://img.shields.io/lemmy/ai_videos@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+6. **[AI Generated Music](/c/aimusic@sopuli.xyz)** | sopuli.xyz | [Kbin](/m/aimusic@sopuli.xyz) | [lemmyverse.link](https://lemmyverse.link/c/aimusic@sopuli.xyz) | ![](https://img.shields.io/lemmy/aimusic@sopuli.xyz?style=flat&label=Subs&color=pink)
+	- description
+### 1.10. Wallpapers (8 communities)
+1. **[Mobile Wallpaper](/c/mobilewallpaper@lemmy.world)** | lemmy.world | [Kbin](/m/mobilewallpaper@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/mobilewallpaper@lemmy.world) | ![](https://img.shields.io/lemmy/mobilewallpaper@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+2. **[Wallpapers](/c/wallpapers@lemmy.ca)** | lemmy.ca | [Kbin](/m/wallpapers@lemmy.ca) | [lemmyverse.link](https://lemmyverse.link/c/wallpapers@lemmy.ca) | ![](https://img.shields.io/lemmy/wallpapers@lemmy.ca?style=flat&label=Subs&color=pink)
+	- A community for posting wallpapers.
+3. **[Ultrawide Wallpapers](/c/ultrawide_wallpapers@lemmy.world)** | lemmy.world | [Kbin](/m/ultrawide_wallpapers@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/ultrawide_wallpapers@lemmy.world) | ![](https://img.shields.io/lemmy/ultrawide_wallpapers@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+4. **[Wallpapers](/c/wallpapers@lemmy.world)** | lemmy.world | [Kbin](/m/wallpapers@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/wallpapers@lemmy.world) | ![](https://img.shields.io/lemmy/wallpapers@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+5. **[Anime Wallpapers](/c/animewallpapers@ani.social)** | ani.social | [Kbin](/m/animewallpapers@ani.social) | [lemmyverse.link](https://lemmyverse.link/c/animewallpapers@ani.social) | ![](https://img.shields.io/lemmy/animewallpapers@ani.social?style=flat&label=Subs&color=pink)
+	- description
+6. **[AMOLED Wallpapers](/c/amoledwallpapers@lemmy.ml)** | lemmy.ml | [Kbin](/m/amoledwallpapers@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/amoledwallpapers@lemmy.ml) | ![](https://img.shields.io/lemmy/amoledwallpapers@lemmy.ml?style=flat&label=Subs&color=pink)
+	- description
+7. **[Nature Wallpapers](/c/naturewallpapers@lemmy.world)** | lemmy.world | [Kbin](/m/naturewallpapers@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/naturewallpapers@lemmy.world) | ![](https://img.shields.io/lemmy/naturewallpapers@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+8. **[MinimalWallpaper](/c/minimalwallpaper@lemmy.ml)** | lemmy.ml | [Kbin](/m/minimalwallpaper@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/minimalwallpaper@lemmy.ml) | ![](https://img.shields.io/lemmy/minimalwallpaper@lemmy.ml?style=flat&label=Subs&color=pink)
+	- description
+
+
+# 2. Animals (25 communities)
+1. **[aww](/c/aww@lemmy.world)** | lemmy.world | [Kbin](/m/aww@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/aww@lemmy.world) | ![](https://img.shields.io/lemmy/aww@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+2. **[cats](/c/cat@lemmy.world)** | lemmy.world | [Kbin](/m/cat@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/cat@lemmy.world) | ![](https://img.shields.io/lemmy/cat@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+3. **[cute dogs, cats, and other animals](/c/aww@lemmy.ml)** | lemmy.ml | [Kbin](/m/aww@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/aww@lemmy.ml) | ![](https://img.shields.io/lemmy/aww@lemmy.ml?style=flat&label=Subs&color=pink)
+	- description
+4. **[IllegallySmolCats](/c/illegallysmolcats@lemmy.world)** | lemmy.world | [Kbin](/m/illegallysmolcats@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/illegallysmolcats@lemmy.world) | ![](https://img.shields.io/lemmy/illegallysmolcats@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+5. **[Dogs](/c/dogs@lemmy.world)** | lemmy.world | [Kbin](/m/dogs@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/dogs@lemmy.world) | ![](https://img.shields.io/lemmy/dogs@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+6. **[birding](/c/birding@lemmy.world)** | lemmy.world | [Kbin](/m/birding@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/birding@lemmy.world) | ![](https://img.shields.io/lemmy/birding@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+7. **[Superbowl](/c/superbowl@lemmy.world)** | lemmy.world | [Kbin](/m/superbowl@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/superbowl@lemmy.world) | ![](https://img.shields.io/lemmy/superbowl@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+8. **[All Orange Cats Share One Brain Cell](/c/oneorangebraincell@lemmy.world)** | lemmy.world | [Kbin](/m/oneorangebraincell@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/oneorangebraincell@lemmy.world) | ![](https://img.shields.io/lemmy/oneorangebraincell@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+9. **[Opossums](/c/opossums@lemmy.world)** | lemmy.world | [Kbin](/m/opossums@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/opossums@lemmy.world) | ![](https://img.shields.io/lemmy/opossums@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+10. **[Cats](/c/cats@midwest.social)** | midwest.social | [Kbin](/m/cats@midwest.social) | [lemmyverse.link](https://lemmyverse.link/c/cats@midwest.social) | ![](https://img.shields.io/lemmy/cats@midwest.social?style=flat&label=Subs&color=pink)
+	- description
+11. **[ducks](/c/quackers@lemmy.world)** | lemmy.world | [Kbin](/m/quackers@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/quackers@lemmy.world) | ![](https://img.shields.io/lemmy/quackers@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+12. **[Bats](/c/bats@lemmy.world)** | lemmy.world | [Kbin](/m/bats@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/bats@lemmy.world) | ![](https://img.shields.io/lemmy/bats@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+13. **[Fox pics](/c/foxes@lemmy.world)** | lemmy.world | [Kbin](/m/foxes@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/foxes@lemmy.world) | ![](https://img.shields.io/lemmy/foxes@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+14. **[BeeButts](/c/beebutts@lemmy.world)** | lemmy.world | [Kbin](/m/beebutts@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/beebutts@lemmy.world) | ![](https://img.shields.io/lemmy/beebutts@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+15. **[Awwnverts](/c/awwnverts@lemmy.world)** | lemmy.world | [Kbin](/m/awwnverts@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/awwnverts@lemmy.world) | ![](https://img.shields.io/lemmy/awwnverts@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+16. **[Crows](/c/crows@lemmy.ml)** | lemmy.ml | [Kbin](/m/crows@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/crows@lemmy.ml) | ![](https://img.shields.io/lemmy/crows@lemmy.ml?style=flat&label=Subs&color=pink)
+	- description
+17. **[Squirrels](/c/squirrels@lemmy.ca)** | lemmy.ca | [Kbin](/m/squirrels@lemmy.ca) | [lemmyverse.link](https://lemmyverse.link/c/squirrels@lemmy.ca) | ![](https://img.shields.io/lemmy/squirrels@lemmy.ca?style=flat&label=Subs&color=pink)
+	- description
+18. **[The Bug Menagerie](/c/bugmenagerie@possumpat.io)** | possumpat.io | [Kbin](/m/bugmenagerie@possumpat.io) | [lemmyverse.link](https://lemmyverse.link/c/bugmenagerie@possumpat.io) | ![](https://img.shields.io/lemmy/bugmenagerie@possumpat.io?style=flat&label=Subs&color=pink)
+	- description
+19. **[Entomology](/c/entomology@mander.xyz)** | mander.xyz | [Kbin](/m/entomology@mander.xyz) | [lemmyverse.link](https://lemmyverse.link/c/entomology@mander.xyz) | ![](https://img.shields.io/lemmy/entomology@mander.xyz?style=flat&label=Subs&color=pink)
+	- description
+20. **[Spiders](/c/spiders@lemmy.world)** | lemmy.world | [Kbin](/m/spiders@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/spiders@lemmy.world) | ![](https://img.shields.io/lemmy/spiders@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+21. **[What's this Bug?](/c/whatsthisbug@lemmy.ml)** | lemmy.ml | [Kbin](/m/whatsthisbug@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/whatsthisbug@lemmy.ml) | ![](https://img.shields.io/lemmy/whatsthisbug@lemmy.ml?style=flat&label=Subs&color=pink)
+	- description
+22. **[bugs](/c/bugs@lemmy.world)** | lemmy.world | [Kbin](/m/bugs@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/bugs@lemmy.world) | ![](https://img.shields.io/lemmy/bugs@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+23. **[guinea pigs](/c/guineapigs@lemmy.world)** | lemmy.world | [Kbin](/m/guineapigs@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/guineapigs@lemmy.world) | ![](https://img.shields.io/lemmy/guineapigs@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+24. **[DogTraining](/c/dogtraining@lemmy.world)** | lemmy.world | [Kbin](/m/dogtraining@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/dogtraining@lemmy.world) | ![](https://img.shields.io/lemmy/dogtraining@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+25. **[Animals](/c/animals@lemmy.world)** | lemmy.world | [Kbin](/m/animals@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/animals@lemmy.world) | ![](https://img.shields.io/lemmy/animals@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+
+# 3. Professions/hobbies (24 communities) ((Will be split later))
+### 3.1. Misc (24 communities)
+1. **[3DPrinting](/c/3dprinting@lemmy.world)** | lemmy.world | [Kbin](/m/3dprinting@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/3dprinting@lemmy.world) | ![](https://img.shields.io/lemmy/3dprinting@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+2. **[Nature and Gardening](/c/greenspace@beehaw.org)** | beehaw.org | [Kbin](/m/greenspace@beehaw.org) | [lemmyverse.link](https://lemmyverse.link/c/greenspace@beehaw.org) | ![](https://img.shields.io/lemmy/greenspace@beehaw.org?style=flat&label=Subs&color=pink)
+	- description
+3. **[Woodworking](/c/woodworking@lemmy.ca)** | lemmy.ca | [Kbin](/m/woodworking@lemmy.ca) | [lemmyverse.link](https://lemmyverse.link/c/woodworking@lemmy.ca) | ![](https://img.shields.io/lemmy/woodworking@lemmy.ca?style=flat&label=Subs&color=pink)
+	- description
+4. **[Houseplants](/c/houseplants@mander.xyz)** | mander.xyz | [Kbin](/m/houseplants@mander.xyz) | [lemmyverse.link](https://lemmyverse.link/c/houseplants@mander.xyz) | ![](https://img.shields.io/lemmy/houseplants@mander.xyz?style=flat&label=Subs&color=pink)
+	- description
+5. **[LEGO](/c/lego@lemmy.world)** | lemmy.world | [Kbin](/m/lego@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/lego@lemmy.world) | ![](https://img.shields.io/lemmy/lego@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+6. **[Gardening](/c/gardening@lemmy.world)** | lemmy.world | [Kbin](/m/gardening@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/gardening@lemmy.world) | ![](https://img.shields.io/lemmy/gardening@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+7. **[Mycology](/c/mycology@mander.xyz)** | mander.xyz | [Kbin](/m/mycology@mander.xyz) | [lemmyverse.link](https://lemmyverse.link/c/mycology@mander.xyz) | ![](https://img.shields.io/lemmy/mycology@mander.xyz?style=flat&label=Subs&color=pink)
+	- description
+8. **[flashlight](/c/flashlight@lemmy.world)** | lemmy.world | [Kbin](/m/flashlight@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/flashlight@lemmy.world) | ![](https://img.shields.io/lemmy/flashlight@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+9. **[I Made This](/c/imadethis@lemm.ee)** | lemm.ee | [Kbin](/m/imadethis@lemm.ee) | [lemmyverse.link](https://lemmyverse.link/c/imadethis@lemm.ee) | ![](https://img.shields.io/lemmy/imadethis@lemm.ee?style=flat&label=Subs&color=pink)
+	- description
+10. **[Mushrooms](/c/mushrooms@lemmy.world)** | lemmy.world | [Kbin](/m/mushrooms@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/mushrooms@lemmy.world) | ![](https://img.shields.io/lemmy/mushrooms@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+11. **[Medicine](/c/medicine@mander.xyz)** | mander.xyz | [Kbin](/m/medicine@mander.xyz) | [lemmyverse.link](https://lemmyverse.link/c/medicine@mander.xyz) | ![](https://img.shields.io/lemmy/medicine@mander.xyz?style=flat&label=Subs&color=pink)
+	- description
+12. **[PocketKNIFE](/c/pocketknife@lemmy.world)** | lemmy.world | [Kbin](/m/pocketknife@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/pocketknife@lemmy.world) | ![](https://img.shields.io/lemmy/pocketknife@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+13. **[Succulents](/c/succulents@midwest.social)** | midwest.social | [Kbin](/m/succulents@midwest.social) | [lemmyverse.link](https://lemmyverse.link/c/succulents@midwest.social) | ![](https://img.shields.io/lemmy/succulents@midwest.social?style=flat&label=Subs&color=pink)
+	- description
+14. **[Amateur Radio](/c/amateur_radio@lemmy.radio)** | lemmy.radio | [Kbin](/m/amateur_radio@lemmy.radio) | [lemmyverse.link](https://lemmyverse.link/c/amateur_radio@lemmy.radio) | ![](https://img.shields.io/lemmy/amateur_radio@lemmy.radio?style=flat&label=Subs&color=pink)
+	- description
+15. **[Native Plant Gardening](/c/nativeplantgardening@mander.xyz)** | mander.xyz | [Kbin](/m/nativeplantgardening@mander.xyz) | [lemmyverse.link](https://lemmyverse.link/c/nativeplantgardening@mander.xyz) | ![](https://img.shields.io/lemmy/nativeplantgardening@mander.xyz?style=flat&label=Subs&color=pink)
+	- description
+16. **[Machinist](/c/machinist@sh.itjust.works)** | sh.itjust.works | [Kbin](/m/machinist@sh.itjust.works) | [lemmyverse.link](https://lemmyverse.link/c/machinist@sh.itjust.works) | ![](https://img.shields.io/lemmy/machinist@sh.itjust.works?style=flat&label=Subs&color=pink)
+	- description
+17. **[Balcony Gardening](/c/balconygardening@slrpnk.net)** | slrpnk.net | [Kbin](/m/balconygardening@slrpnk.net) | [lemmyverse.link](https://lemmyverse.link/c/balconygardening@slrpnk.net) | ![](https://img.shields.io/lemmy/balconygardening@slrpnk.net?style=flat&label=Subs&color=pink)
+	- description
+18. **[Bonsai](/c/bonsai@discuss.tchncs.de)** | discuss.tchncs.de | [Kbin](/m/bonsai@discuss.tchncs.de) | [lemmyverse.link](https://lemmyverse.link/c/bonsai@discuss.tchncs.de) | ![](https://img.shields.io/lemmy/bonsai@discuss.tchncs.de?style=flat&label=Subs&color=pink)
+	- description
+19. **[Gunpla Building Community](/c/gunpla@lemmy.world)** | lemmy.world | [Kbin](/m/gunpla@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/gunpla@lemmy.world) | ![](https://img.shields.io/lemmy/gunpla@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+20. **[Faceting](/c/faceting@lemmy.world)** | lemmy.world | [Kbin](/m/faceting@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/faceting@lemmy.world) | ![](https://img.shields.io/lemmy/faceting@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+21. **[Architecture](/c/architecture@lemmy.world)** | lemmy.world | [Kbin](/m/architecture@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/architecture@lemmy.world) | ![](https://img.shields.io/lemmy/architecture@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+22. **[Cosplay](/c/cosplay@lemmy.blahaj.zone)** | lemmy.blahaj.zone | [Kbin](/m/cosplay@lemmy.blahaj.zone) | [lemmyverse.link](https://lemmyverse.link/c/cosplay@lemmy.blahaj.zone) | ![](https://img.shields.io/lemmy/cosplay@lemmy.blahaj.zone?style=flat&label=Subs&color=pink)
+	- description
+23. **[Pokemon Cards](/c/pokemoncards@lemmy.world)** | lemmy.world | [Kbin](/m/pokemoncards@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/pokemoncards@lemmy.world) | ![](https://img.shields.io/lemmy/pokemoncards@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+24. **[Voice Acting Pit](/c/voiceacting@lemmy.world)** | lemmy.world | [Kbin](/m/voiceacting@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/voiceacting@lemmy.world) | ![](https://img.shields.io/lemmy/voiceacting@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+
+# 4. Meta 🧵 (30 communities)
+### 4.1. Misc (30 communities)
+1. **[Fediverse](/c/fediverse@lemmy.world)** | lemmy.world | [Kbin](/m/fediverse@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/fediverse@lemmy.world) | ![](https://img.shields.io/lemmy/fediverse@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+2. **[Fediverse](/c/fediverse@lemmy.ml)** | lemmy.ml | [Kbin](/m/fediverse@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/fediverse@lemmy.ml) | ![](https://img.shields.io/lemmy/fediverse@lemmy.ml?style=flat&label=Subs&color=pink)
+	- description
+3. **[New Communities](/c/newcommunities@lemmy.world)** | lemmy.world | [Kbin](/m/newcommunities@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/newcommunities@lemmy.world) | ![](https://img.shields.io/lemmy/newcommunities@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+4. **[Sync for Lemmy](/c/syncforlemmy@lemmy.world)** | lemmy.world | [Kbin](/m/syncforlemmy@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/syncforlemmy@lemmy.world) | ![](https://img.shields.io/lemmy/syncforlemmy@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+5. **[Boost For Lemmy](/c/boostforlemmy@lemmy.world)** | lemmy.world | [Kbin](/m/boostforlemmy@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/boostforlemmy@lemmy.world) | ![](https://img.shields.io/lemmy/boostforlemmy@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+6. **[Lemmy Apps](/c/lemmyapps@lemmy.world)** | lemmy.world | [Kbin](/m/lemmyapps@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/lemmyapps@lemmy.world) | ![](https://img.shields.io/lemmy/lemmyapps@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+7. **[Lemmy Support](/c/lemmy_support@lemmy.ml)** | lemmy.ml | [Kbin](/m/lemmy_support@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/lemmy_support@lemmy.ml) | ![](https://img.shields.io/lemmy/lemmy_support@lemmy.ml?style=flat&label=Subs&color=pink)
+	- description
+8. **[Trending Communities](/c/trendingcommunities@feddit.nl)** | feddit.nl | [Kbin](/m/trendingcommunities@feddit.nl) | [lemmyverse.link](https://lemmyverse.link/c/trendingcommunities@feddit.nl) | ![](https://img.shields.io/lemmy/trendingcommunities@feddit.nl?style=flat&label=Subs&color=pink)
+	- description
+9. **[Lemmy.world Support](/c/support@lemmy.world)** | lemmy.world | [Kbin](/m/support@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/support@lemmy.world) | ![](https://img.shields.io/lemmy/support@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+10. **[Matrix](/c/matrix@lemmy.ml)** | lemmy.ml | [Kbin](/m/matrix@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/matrix@lemmy.ml) | ![](https://img.shields.io/lemmy/matrix@lemmy.ml?style=flat&label=Subs&color=pink)
+	- description
+11. **[Connect for Lemmy App](/c/lemmyconnect@lemmy.ca)** | lemmy.ca | [Kbin](/m/lemmyconnect@lemmy.ca) | [lemmyverse.link](https://lemmyverse.link/c/lemmyconnect@lemmy.ca) | ![](https://img.shields.io/lemmy/lemmyconnect@lemmy.ca?style=flat&label=Subs&color=pink)
+	- description
+12. **[Community Promo](/c/communitypromo@lemmy.ca)** | lemmy.ca | [Kbin](/m/communitypromo@lemmy.ca) | [lemmyverse.link](https://lemmyverse.link/c/communitypromo@lemmy.ca) | ![](https://img.shields.io/lemmy/communitypromo@lemmy.ca?style=flat&label=Subs&color=pink)
+	- description
+13. **[MeanwhileOnGrad](/c/meanwhileongrad@sh.itjust.works)** | sh.itjust.works | [Kbin](/m/meanwhileongrad@sh.itjust.works) | [lemmyverse.link](https://lemmyverse.link/c/meanwhileongrad@sh.itjust.works) | ![](https://img.shields.io/lemmy/meanwhileongrad@sh.itjust.works?style=flat&label=Subs&color=pink)
+	- description
+14. **[Nowhere Else To Share](/c/nowhereelsetoshare@sh.itjust.works)** | sh.itjust.works | [Kbin](/m/nowhereelsetoshare@sh.itjust.works) | [lemmyverse.link](https://lemmyverse.link/c/nowhereelsetoshare@sh.itjust.works) | ![](https://img.shields.io/lemmy/nowhereelsetoshare@sh.itjust.works?style=flat&label=Subs&color=pink)
+	- description
+15. **[Press coverage of the Fediverse](/c/fediverse_press@lemmy.world)** | lemmy.world | [Kbin](/m/fediverse_press@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/fediverse_press@lemmy.world) | ![](https://img.shields.io/lemmy/fediverse_press@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+16. **[Arctic](/c/arctic@lemmy.world)** | lemmy.world | [Kbin](/m/arctic@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/arctic@lemmy.world) | ![](https://img.shields.io/lemmy/arctic@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+17. **[Lemmy Moderation Tools](/c/lemmy_mod_tools@discuss.online)** | discuss.online | [Kbin](/m/lemmy_mod_tools@discuss.online) | [lemmyverse.link](https://lemmyverse.link/c/lemmy_mod_tools@discuss.online) | ![](https://img.shields.io/lemmy/lemmy_mod_tools@discuss.online?style=flat&label=Subs&color=pink)
+	- description
+18. **[Sublinks](/c/sublinks@discuss.online)** | discuss.online | [Kbin](/m/sublinks@discuss.online) | [lemmyverse.link](https://lemmyverse.link/c/sublinks@discuss.online) | ![](https://img.shields.io/lemmy/sublinks@discuss.online?style=flat&label=Subs&color=pink)
+	- description
+19. **[Lost Lemmings](/c/lostlemmys@lemmy.world)** | lemmy.world | [Kbin](/m/lostlemmys@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/lostlemmys@lemmy.world) | ![](https://img.shields.io/lemmy/lostlemmys@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+20. **[Announcements](/c/announcements@discuss.online)** | discuss.online | [Kbin](/m/announcements@discuss.online) | [lemmyverse.link](https://lemmyverse.link/c/announcements@discuss.online) | ![](https://img.shields.io/lemmy/announcements@discuss.online?style=flat&label=Subs&color=pink)
+	- description
+21. **[Discover new communities](/c/newcommunities@discuss.online)** | discuss.online | [Kbin](/m/newcommunities@discuss.online) | [lemmyverse.link](https://lemmyverse.link/c/newcommunities@discuss.online) | ![](https://img.shields.io/lemmy/newcommunities@discuss.online?style=flat&label=Subs&color=pink)
+	- description
+22. **[To The Fediverse](/c/fediverse@discuss.online)** | discuss.online | [Kbin](/m/fediverse@discuss.online) | [lemmyverse.link](https://lemmyverse.link/c/fediverse@discuss.online) | ![](https://img.shields.io/lemmy/fediverse@discuss.online?style=flat&label=Subs&color=pink)
+	- description
+23. **[raccoonforlemmy](/c/raccoonforlemmy@lemmy.world)** | lemmy.world | [Kbin](/m/raccoonforlemmy@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/raccoonforlemmy@lemmy.world) | ![](https://img.shields.io/lemmy/raccoonforlemmy@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
+24. **[New Here](/c/new_here@discuss.online)** | discuss.online | [Kbin](/m/new_here@discuss.online) | [lemmyverse.link](https://lemmyverse.link/c/new_here@discuss.online) | ![](https://img.shields.io/lemmy/new_here@discuss.online?style=flat&label=Subs&color=pink)
+	- description
+25. **[Test](/c/test@discuss.tchncs.de)** | discuss.tchncs.de | [Kbin](/m/test@discuss.tchncs.de) | [lemmyverse.link](https://lemmyverse.link/c/test@discuss.tchncs.de) | ![](https://img.shields.io/lemmy/test@discuss.tchncs.de?style=flat&label=Subs&color=pink)
+	- description
+26. **[Leminal Space](/c/leminalspace@leminal.space)** | leminal.space | [Kbin](/m/leminalspace@leminal.space) | [lemmyverse.link](https://lemmyverse.link/c/leminalspace@leminal.space) | ![](https://img.shields.io/lemmy/leminalspace@leminal.space?style=flat&label=Subs&color=pink)
+	- description
+27. **[Sublinks Support](/c/sublinks_support@discuss.online)** | discuss.online | [Kbin](/m/sublinks_support@discuss.online) | [lemmyverse.link](https://lemmyverse.link/c/sublinks_support@discuss.online) | ![](https://img.shields.io/lemmy/sublinks_support@discuss.online?style=flat&label=Subs&color=pink)
+	- description
+28. **[Tesseract for Sublinks/Lemmy](/c/tesseract@dubvee.org)** | dubvee.org | [Kbin](/m/tesseract@dubvee.org) | [lemmyverse.link](https://lemmyverse.link/c/tesseract@dubvee.org) | ![](https://img.shields.io/lemmy/tesseract@dubvee.org?style=flat&label=Subs&color=pink)
+	- description
+29. **[Lemmy Directory](/c/lemmydirectory@lemmy.dbzer0.com)** | lemmy.dbzer0.com | [Kbin](/m/lemmydirectory@lemmy.dbzer0.com) | [lemmyverse.link](https://lemmyverse.link/c/lemmydirectory@lemmy.dbzer0.com) | ![](https://img.shields.io/lemmy/lemmydirectory@lemmy.dbzer0.com?style=flat&label=Subs&color=pink)
+	- description
+30. **[Save The Echo Bunker!](/c/savetheechobunker@lemmy.world)** | lemmy.world | [Kbin](/m/savetheechobunker@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/savetheechobunker@lemmy.world) | ![](https://img.shields.io/lemmy/savetheechobunker@lemmy.world?style=flat&label=Subs&color=pink)
+	- description
