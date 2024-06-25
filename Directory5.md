@@ -1,4 +1,4 @@
-### 5.3. Engines (4 communities)
+## 5.3. Engines (4 communities)
 1. **[Godot](/c/godot@programming.dev)** | programming.dev | [Kbin](/m/godot@programming.dev) | [lemmyverse.link](https://lemmyverse.link/c/godot@programming.dev) | ![](https://img.shields.io/lemmy/godot@programming.dev?style=flat&label=Subs&color=pink)
 	- This is a place where you can discuss about anything relating to the Godot game engine. Feel free to ask questions, post tutorials, show off your godot game, etc.
 2. **[Unity](/c/unity@programming.dev)** | programming.dev | [Kbin](/m/unity@programming.dev) | [lemmyverse.link](https://lemmyverse.link/c/unity@programming.dev) | ![](https://img.shields.io/lemmy/unity@programming.dev?style=flat&label=Subs&color=pink)
@@ -7,7 +7,7 @@
 	- description
 4. **[Bevy](/c/bevy@programming.dev)** | programming.dev | [Kbin](/m/bevy@programming.dev) | [lemmyverse.link](https://lemmyverse.link/c/bevy@programming.dev) | ![](https://img.shields.io/lemmy/bevy@programming.dev?style=flat&label=Subs&color=pink)
 	- A community for discussion around the bevy game engine! [https://bevyengine.org/](https://bevyengine.org/)
-### 5.4 Genres (21 communities)
+## 5.4. Genres (21 communities)
 1. **[Automation and Factory Builder Games](/c/automation_games@feddit.de)** | feddit.de | [Kbin](/m/automation_games@feddit.de) | [lemmyverse.link](https://lemmyverse.link/c/automation_games@feddit.de) | ![](https://img.shields.io/lemmy/automation_games@feddit.de?style=flat&label=Subs&color=pink)
 	- A place to talk and share content about automation and factory builder games.
 2. **[Adventure / Point-and-Click / Narrative Games](/c/adventuregames@lemm.ee)** | lemm.ee | [Kbin](/m/adventuregames@lemm.ee) | [lemmyverse.link](https://lemmyverse.link/c/adventuregames@lemm.ee) | ![](https://img.shields.io/lemmy/adventuregames@lemm.ee?style=flat&label=Subs&color=pink)
@@ -50,7 +50,7 @@
 	- All things “Tycoon” games. Park building, zoo building, business building simulation etc, with a focus on the gameplay revolving around financial growth.
 21. **[Incremental Games](/c/incremental_games@incremental.social)** | incremental.social | [Kbin](/m/incremental_games@incremental.social) | [lemmyverse.link](https://lemmyverse.link/c/incremental_games@incremental.social) | ![](https://img.shields.io/mbin/incremental_games@incremental.social?style=flat&label=Subs&color=pink)
 	- A community for lovers of games that feature an incremental mechanism, such as unlocking progressively more powerful upgrades, or discovering new ways to play the game.
-### 5.5. Dev (5 communities)
+## 5.5. Dev (5 communities)
 1. **[Game Development](/c/gamedev@programming.dev)** | programming.dev | [Kbin](/m/gamedev@programming.dev) | [lemmyverse.link](https://lemmyverse.link/c/gamedev@programming.dev) | ![](https://img.shields.io/lemmy/gamedev@programming.dev?style=flat&label=Subs&color=pink)
 	- Welcome to the game development community! This is a place to talk about and post anything related to the field of game development.
 2. **[Play My Game](/c/play_my_game@programming.dev)** | programming.dev | [Kbin](/m/play_my_game@programming.dev) | [lemmyverse.link](https://lemmyverse.link/c/play_my_game@programming.dev) | ![](https://img.shields.io/lemmy/play_my_game@programming.dev?style=flat&label=Subs&color=pink)
@@ -61,7 +61,7 @@
 	- description
 5. **[Voxel Game Development](/c/voxelgamedev@lemmy.world)** | lemmy.world | [Kbin](/m/voxelgamedev@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/voxelgamedev@lemmy.world) | ![](https://img.shields.io/lemmy/voxelgamedev@lemmy.world?style=flat&label=Subs&color=pink)
 	- A game development sublemmy for discussing the creation of voxel games, and voxel engines.
-### 5.6. Deals (5 communities)
+## 5.6. Deals (5 communities)
 1. **[GameDeals](/c/gamedeals@lemmy.world)** | lemmy.world | [Kbin](/m/gamedeals@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/gamedeals@lemmy.world) | ![](https://img.shields.io/lemmy/gamedeals@lemmy.world?style=flat&label=Subs&color=pink)
 	- description
 2. **[Free Video Game Giveaways](/c/freegames@feddit.uk)** | feddit.uk | [Kbin](/m/freegames@feddit.uk) | [lemmyverse.link](https://lemmyverse.link/c/freegames@feddit.uk) | ![](https://img.shields.io/lemmy/freegames@feddit.uk?style=flat&label=Subs&color=pink)
@@ -72,12 +72,12 @@
 	- A Lemmy community dedicated to host video game giveaways.
 5. **[Humble Bundle](/c/humblebundle@lemmy.world)** | lemmy.world | [Kbin](/m/humblebundle@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/humblebundle@lemmy.world) | ![](https://img.shields.io/lemmy/humblebundle@lemmy.world?style=flat&label=Subs&color=pink)
 	- Unofficial community for the Humble Bundle website!
-### 5.7. Stores (2 communities)
+## 5.7. Stores (2 communities)
 1. **[Steam](/c/steam@lemmy.ml)** | lemmy.ml | [Kbin](/m/steam@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/steam@lemmy.ml) | ![](https://img.shields.io/lemmy/steam@lemmy.ml?style=flat&label=Subs&color=pink)
 	- description
 2. **[GOG](/c/gog@lemmy.world)** | lemmy.world | [Kbin](/m/gog@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/gog@lemmy.world) | ![](https://img.shields.io/lemmy/gog@lemmy.world?style=flat&label=Subs&color=pink)
 	- description
-### 5.8. General (15 communities)
+## 5.8. General (15 communities)
 1. **[Games](/c/games@lemmy.world)** | lemmy.world | [Kbin](/m/games@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/games@lemmy.world) | ![](https://img.shields.io/lemmy/games@lemmy.world?style=flat&label=Subs&color=pink)
 	- Welcome to the largest gaming community on Lemmy! Discussion for all kinds of games. Video games, tabletop games, card games etc.
 2. **[Gaming](/c/gaming@lemmy.ml)** | lemmy.ml | [Kbin](/m/gaming@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/gaming@lemmy.ml) | ![](https://img.shields.io/lemmy/gaming@lemmy.ml?style=flat&label=Subs&color=pink)
