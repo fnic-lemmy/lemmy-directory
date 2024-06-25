@@ -1,7 +1,7 @@
 Directory is in early stages of WIP. Expect a lot of changes.
 
 ❓ = Community I'm not sure if fits the section.
-
+ 
 🔒 = Locked community where only mods can create posts.
 
 ⚠️ = Unmoderated community.
