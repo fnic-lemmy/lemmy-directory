@@ -27,7 +27,7 @@ for file in files:
         communities[current_section][current_subsection][current_subsubsection] = []
       match = re.search("^### ([0-9]+\.)+ (.*) \(", line)
       if match is not None:
-        print(f'  {match.group(2)}')
+        print(f'    {match.group(2)}')
         current_subsubsection = match.group(2)
         communities[current_section][current_subsection][current_subsubsection] = []
 
