@@ -50,6 +50,10 @@ with open('_generalart_comms.json', 'w') as json_file:
 with open('_anime_comms.json', 'w') as json_file:
   json.dump(communities['Art']['Anime Artworks 💢']['None'], json_file, indent=2)
 
+# Export Photography to file
+with open('_photography_comms.json', 'w') as json_file:
+  json.dump(communities['Art']['Photography 📷']['None'], json_file, indent=2)
+
 # Export a complete dump of the directory to a JSON file
 with open('__directory.json', 'w') as json_file:
   json.dump(communities, json_file, indent=2)
