@@ -141,8 +141,8 @@
 8. **[MinimalWallpaper](/c/minimalwallpaper@lemmy.ml)** | lemmy.ml | [Kbin](/m/minimalwallpaper@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/minimalwallpaper@lemmy.ml) | ![](https://img.shields.io/lemmy/minimalwallpaper@lemmy.ml?style=flat&label=Subs&color=pink)
 	- Wallpapers that have a simple and minimalist design.
 
-
 # 2. Animals (25 communities)
+### 2.1 Misc
 1. **[aww](/c/aww@lemmy.world)** | lemmy.world | [Kbin](/m/aww@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/aww@lemmy.world) | ![](https://img.shields.io/lemmy/aww@lemmy.world?style=flat&label=Subs&color=pink)
 	- A place with minimal rules for stuff that makes you go awww!
 2. **[cats](/c/cat@lemmy.world)** | lemmy.world | [Kbin](/m/cat@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/cat@lemmy.world) | ![](https://img.shields.io/lemmy/cat@lemmy.world?style=flat&label=Subs&color=pink)
@@ -240,6 +240,10 @@
 	- A place for professionals, students, and enthusiasts to share and discuss.
 22. **[Cosplay](/c/cosplay@lemmy.blahaj.zone)** | lemmy.blahaj.zone | [Kbin](/m/cosplay@lemmy.blahaj.zone) | [lemmyverse.link](https://lemmyverse.link/c/cosplay@lemmy.blahaj.zone) | ![](https://img.shields.io/lemmy/cosplay@lemmy.blahaj.zone?style=flat&label=Subs&color=pink)
 	- For people to share cosplays of theirs. Cosplays of all skill levels are welcome and encouraged.
+23. **[Pokemon Cards](/c/pokemoncards@lemmy.world)** | lemmy.world | [Kbin](/m/pokemoncards@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/pokemoncards@lemmy.world) | ![](https://img.shields.io/lemmy/pokemoncards@lemmy.world?style=flat&label=Subs&color=pink)
+	- Reddit’s replacement for r/pokemoncards. Happy collecting!
+24. **[Voice Acting Pit](/c/voiceacting@lemmy.world)** | lemmy.world | [Kbin](/m/voiceacting@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/voiceacting@lemmy.world) | ![](https://img.shields.io/lemmy/voiceacting@lemmy.world?style=flat&label=Subs&color=pink)
+	- A place for people who are messing around in voice acting to chat, ask questions, and get info. This is not a place to get jobs, post jobs, or promote yourself to get jobs, but please feel free to post stuff you want to show off or get critique on.
 23. **[Pokemon Cards](/c/pokemoncards@lemmy.world)** | lemmy.world | [Kbin](/m/pokemoncards@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/pokemoncards@lemmy.world) | ![](https://img.shields.io/lemmy/pokemoncards@lemmy.world?style=flat&label=Subs&color=pink)
 	- Reddit’s replacement for r/pokemoncards. Happy collecting!
 24. **[Voice Acting Pit](/c/voiceacting@lemmy.world)** | lemmy.world | [Kbin](/m/voiceacting@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/voiceacting@lemmy.world) | ![](https://img.shields.io/lemmy/voiceacting@lemmy.world?style=flat&label=Subs&color=pink)
