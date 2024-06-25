@@ -41,6 +41,10 @@ for file in files:
 with open('_fnic_comms.json', 'w') as json_file:
   json.dump(communities['Art']['Imaginary Network 💭']['None'], json_file, indent=2)
 
+# Export General Artworks to file
+with open('_generalart_comms.json', 'w') as json_file:
+  json.dump(communities['Art']['General Artworks 🎨']['None'], json_file, indent=2)
+
 # Export Anime to file
 with open('_anime_comms.json', 'w') as json_file:
   json.dump(communities['Art']['Anime Artworks 💢']['None'], json_file, indent=2)
@@ -48,4 +52,3 @@ with open('_anime_comms.json', 'w') as json_file:
 # Export a complete dump of the directory to a JSON file
 with open('__directory.json', 'w') as json_file:
   json.dump(communities, json_file, indent=2)
-
