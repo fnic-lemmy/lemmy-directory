@@ -23,6 +23,7 @@ for file in files:
       if match is not None:
         print(f'  {match.group(2)}')
         current_subsection = match.group(2)
+        current_subsubsection = "None"
         communities[current_section][current_subsection] = {}
         communities[current_section][current_subsection][current_subsubsection] = []
       match = re.search("^### ([0-9]+\.)+ (.*) \(", line)
