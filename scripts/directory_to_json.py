@@ -34,7 +34,7 @@ for file in files:
       match = re.search("^[0-9]+\. \*\*\[.*\]\(/c/(.*)\)\*\*", line)
       if match is not None:
         communities[current_section][current_subsection][current_subsubsection].append(match.group(1))
-        print(f'    {match.group(1)}')
+        print(f'      {match.group(1)}')
 
 
 # Export FNIC to file
