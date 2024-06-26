@@ -62,6 +62,10 @@ with open('_themes_comms.json', 'w') as json_file:
 with open('_comics_comms.json', 'w') as json_file:
   json.dump(communities['Art']['Comics']['None'], json_file, indent=2)
 
+# Export AI to file
+with open('_ai_comms.json', 'w') as json_file:
+  json.dump(communities['Art']['AI']['None'], json_file, indent=2)
+
 # Export a complete dump of the directory to a JSON file
 with open('directory.json', 'w') as json_file:
   json.dump(communities, json_file, indent=2)
