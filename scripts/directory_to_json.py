@@ -63,8 +63,8 @@ with open('_comics_comms.json', 'w') as json_file:
   json.dump(communities['Art']['Comics']['None'], json_file, indent=2)
 
 # Export AI to file
-#with open('_ai_comms.json', 'w') as json_file:
-#  json.dump(communities['Art']['AI']['None'], json_file, indent=2)
+with open('_ai_comms.json', 'w') as json_file:
+  json.dump(communities['Art']['AI']['None'], json_file, indent=2)
 
 # Export Wallpapers to file
 with open('_wallpaper_comms.json', 'w') as json_file:
