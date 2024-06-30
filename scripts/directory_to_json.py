@@ -51,7 +51,7 @@ with open('_anime_comms.json', 'w') as json_file:
   json.dump(communities['Art']['Anime Artworks 💢']['None'], json_file, indent=2)
 
 # Export Photography to file
-with open('_photography_comms.json', 'w') as json_file:
+with open('_photo_comms.json', 'w') as json_file:
   json.dump(communities['Art']['Photography 📷']['None'], json_file, indent=2)
 
 # Export Themes to file
@@ -67,7 +67,7 @@ with open('_ai_comms.json', 'w') as json_file:
   json.dump(communities['Art']['AI']['None'], json_file, indent=2)
 
 # Export Wallpapers to file
-with open('_wallpaper_comms.json', 'w') as json_file:
+with open('_wallpapers_comms.json', 'w') as json_file:
   json.dump(communities['Art']['Wallpapers']['None'], json_file, indent=2)
 
 # Export Animals to file
