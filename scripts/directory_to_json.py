@@ -70,6 +70,10 @@ with open('_comics_comms.json', 'w') as json_file:
 with open('_wallpaper_comms.json', 'w') as json_file:
   json.dump(communities['Art']['Wallpapers']['None'], json_file, indent=2)
 
+# Export Animals to file
+with open('_animals_comms.json', 'w') as json_file:
+  json.dump(communities['Animals']['None']['None'], json_file, indent=2)
+
 # Export a complete dump of the directory to a JSON file
 with open('directory.json', 'w') as json_file:
   json.dump(communities, json_file, indent=2)
