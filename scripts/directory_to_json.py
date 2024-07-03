@@ -80,6 +80,13 @@ with open('_music_comms.json', 'w') as json_file:
 with open('_music-genres_comms.json', 'w') as json_file:
   json.dump(communities['Art']['Music 🎵']['Genres'], json_file, indent=2)
 
+# Export Gaming to file
+with open('_gaming-platforms_comms.json', 'w') as json_file:
+  json.dump(communities['Gaming']['Platforms']['None'], json_file, indent=2)
+with open('_gaming-genres_comms.json', 'w') as json_file:
+  json.dump(communities['Gaming']['Genres']['None'], json_file, indent=2)
+
+
 # Export a complete dump of the directory to a JSON file
 with open('directory.json', 'w') as json_file:
   json.dump(communities, json_file, indent=2)
