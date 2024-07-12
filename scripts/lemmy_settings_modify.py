@@ -7,9 +7,9 @@ def get_args():
              formatter_class=argparse.ArgumentDefaultsHelpFormatter)
   parser.add_argument("-i", "--input-file", help="Lemmy export file", default="lemmy_export.json")
   parser.add_argument("-o", "--output-file", help="Modified file to output", default="lemmy_modified.json")
-  parser.add_argument("-f", "--follows-file", help="Follows list")
+  parser.add_argument("-s", "--subs-file", help="Subs list")
   parser.add_argument("-b", "--blocks-file", help="Blocks list")
-  parser.add_argument("-F", "--wipe-follows", help="Wipes out follows before adding", action="store_true")
+  parser.add_argument("-S", "--wipe-subs", help="Wipes out subscriptions before adding", action="store_true")
   parser.add_argument("-B", "--wipe-blocks", help="Wipes out blocks before adding", action="store_true")
   args = parser.parse_args()
   a = vars(args)
@@ -39,10 +39,10 @@ lfile=a['input_file']
 ofile=a['output_file']
 
 blks=a['blocks_file']
-flws=a['follows_file']
+flws=a['subs_file']
 
 wipe_flws = False
-if a['wipe_follows'] is True:
+if a['wipe_subs'] is True:
   wipe_flws = True
 
 wipe_blks = False
@@ -66,7 +66,7 @@ if blks is not None:
   blocks = open_convert_list(blks)
   settings['blocked_communities'].extend(blocks)
 
-print(f'New follows: {settings["followed_communities"]}')
+print(f'New subs: {settings["followed_communities"]}')
 print(f'New blocks: {settings["blocked_communities"]}')
 
 with open(ofile, 'w') as outfile:
