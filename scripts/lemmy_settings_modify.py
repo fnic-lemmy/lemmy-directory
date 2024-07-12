@@ -35,8 +35,8 @@ if a['wipe_blocks'] is True:
 with open(lfile) as l:
   settings = json.load(l)
 
-print(settings['followed_communities'])
-print(settings['blocked_communities'])
+#print(settings['followed_communities'])
+#print(settings['blocked_communities'])
 
 if wipe_flws is True:
   settings['followed_communities'] = []
@@ -54,8 +54,8 @@ settings['followed_communities'].extend(follows)
 settings['blocked_communities'].extend(blocks)
 
 print('----------------')
-print(settings['followed_communities'])
-print(settings['blocked_communities'])
+print(f'New follows: {settings["followed_communities"]}')
+print(f'New blocks: {settings["blocked_communities"]}')
 
 with open(ofile, 'w') as outfile:
   json.dump(settings, outfile)
