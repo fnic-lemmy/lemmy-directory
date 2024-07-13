@@ -25,6 +25,7 @@ jobs:
          cd ./directory
          ./scripts/directory_to_json.py
          cp ./lists/*.json ../bestofbot/configs/
+         rm ../bestofbot/configs/directory.json
 
      - name: Create PR
        uses: peter-evans/create-pull-request@v6
