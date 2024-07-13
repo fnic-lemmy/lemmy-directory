@@ -1,10 +1,14 @@
 #!/usr/bin/python3
 
+import os
 import re
 import json
 
 files = ["README.md", "Directory2.md", "Directory3.md", "Directory4.md", "Directory5.md"]
 communities = {}
+
+path = './lists/'
+os.makedirs(path, exist_ok=True)
 
 for file in files:
   with open(file, 'r') as text_file:
@@ -39,54 +43,54 @@ for file in files:
 
 
 # Export FNIC to file
-with open('_fnic_comms.json', 'w') as json_file:
+with open(f'{path}fnic.json', 'w') as json_file:
   json.dump(communities['Art']['Imaginary Network 💭']['None'], json_file, indent=2)
 
 # Export General Artworks to file
-with open('_generalart_comms.json', 'w') as json_file:
+with open(f'{path}generalart_comms.json', 'w') as json_file:
   json.dump(communities['Art']['General Artworks 🎨']['None'], json_file, indent=2)
 
 # Export Anime to file
-with open('_anime_comms.json', 'w') as json_file:
+with open(f'{path}anime_comms.json', 'w') as json_file:
   json.dump(communities['Art']['Anime Artworks 💢']['None'], json_file, indent=2)
 
 # Export Photography to file
-with open('_photo_comms.json', 'w') as json_file:
+with open(f'{path}photo_comms.json', 'w') as json_file:
   json.dump(communities['Art']['Photography 📷']['None'], json_file, indent=2)
 
 # Export Themes to file
-with open('_themes_comms.json', 'w') as json_file:
+with open(f'{path}themes_comms.json', 'w') as json_file:
   json.dump(communities['Art']['Themes 🖼️']['None'], json_file, indent=2)
 
 # Export Comics to file
-with open('_comics_comms.json', 'w') as json_file:
+with open(f'{path}comics_comms.json', 'w') as json_file:
   json.dump(communities['Art']['Comics']['None'], json_file, indent=2)
 
 # Export AI to file
-with open('_ai_comms.json', 'w') as json_file:
+with open(f'{path}ai_comms.json', 'w') as json_file:
   json.dump(communities['Art']['AI']['None'], json_file, indent=2)
 
 # Export Wallpapers to file
-with open('_wallpapers_comms.json', 'w') as json_file:
+with open(f'{path}wallpapers_comms.json', 'w') as json_file:
   json.dump(communities['Art']['Wallpapers']['None'], json_file, indent=2)
 
 # Export Animals to file
-with open('_animals_comms.json', 'w') as json_file:
+with open(f'{path}animals_comms.json', 'w') as json_file:
   json.dump(communities['Animals']['None']['None'], json_file, indent=2)
 
 # Export Music to file
-with open('_music_comms.json', 'w') as json_file:
+with open(f'{path}music_comms.json', 'w') as json_file:
   json.dump(communities['Art']['Music 🎵']['General discussion'], json_file, indent=2)
-with open('_music-genres_comms.json', 'w') as json_file:
+with open(f'{path}music-genres_comms.json', 'w') as json_file:
   json.dump(communities['Art']['Music 🎵']['Genres'], json_file, indent=2)
 
 # Export Gaming to file
-with open('_gaming-platforms_comms.json', 'w') as json_file:
+with open(f'{path}gaming-platforms_comms.json', 'w') as json_file:
   json.dump(communities['Gaming']['Platforms']['None'], json_file, indent=2)
-with open('_gaming-genres_comms.json', 'w') as json_file:
+with open(f'{path}gaming-genres_comms.json', 'w') as json_file:
   json.dump(communities['Gaming']['Genres']['None'], json_file, indent=2)
 
 
 # Export a complete dump of the directory to a JSON file
-with open('directory.json', 'w') as json_file:
+with open(f'{path}directory.json', 'w') as json_file:
   json.dump(communities, json_file, indent=2)

@@ -24,7 +24,7 @@ jobs:
      - run: |
          cd ./directory
          ./scripts/directory_to_json.py
-         cp ./_*.json ../bestofbot/configs/
+         cp ./lists/*.json ../bestofbot/configs/
 
      - name: Create PR
        uses: peter-evans/create-pull-request@v6
@@ -37,4 +37,3 @@ jobs:
          title: '[automated] Update community lists'
          body: 'Update community lists generated automatically'
          delete-branch: true
-           
