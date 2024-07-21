@@ -64,7 +64,7 @@ with open(f'{path}themes.json', 'w') as json_file:
 
 # Export Comics to file
 with open(f'{path}comics.json', 'w') as json_file:
-  json.dump(communities['Art']['Comics']['None'], json_file, indent=2)
+  json.dump(communities['Art']['Comics 🗯️']['None'], json_file, indent=2)
 
 # Export AI to file
 with open(f'{path}ai.json', 'w') as json_file:
