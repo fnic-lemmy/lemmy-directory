@@ -1,13 +1,13 @@
 # 5. Gaming (150 communities)
-## 5.1. Platforms (18 communities)
+## 5.1. Platforms 🕹️ (18 communities)
 1. **[Steam Deck](/c/steamdeck@sopuli.xyz)** | sopuli.xyz | [Kbin](/m/steamdeck@sopuli.xyz) | [lemmyverse.link](https://lemmyverse.link/c/steamdeck@sopuli.xyz) | ![](https://img.shields.io/lemmy/steamdeck@sopuli.xyz?style=flat&label=Subs&color=pink)
 	- A place to discuss and support all things Steam Deck.
 2. **[PC Gaming](/c/pcgaming@lemmy.ca)** | lemmy.ca | [Kbin](/m/pcgaming@lemmy.ca) | [lemmyverse.link](https://lemmyverse.link/c/pcgaming@lemmy.ca) | ![](https://img.shields.io/lemmy/pcgaming@lemmy.ca?style=flat&label=Subs&color=pink)
 	- For PC gaming news and discussion.
 3. **[PCGaming](/c/pcgaming@lemmy.world)** | lemmy.world | [Kbin](/m/pcgaming@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/pcgaming@lemmy.world) | ![](https://img.shields.io/lemmy/pcgaming@lemmy.world?style=flat&label=Subs&color=pink)
-	- description
+	- NoDescription
 4. **[Steam Deck](/c/steamdeck@lemmy.ml)** | lemmy.ml | [Kbin](/m/steamdeck@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/steamdeck@lemmy.ml) | ![](https://img.shields.io/lemmy/steamdeck@lemmy.ml?style=flat&label=Subs&color=pink)
-	- description
+	- NoDescription
 5. **[Xbox](/c/xbox@lemmy.world)** | lemmy.world | [Kbin](/m/xbox@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/xbox@lemmy.world) | ![](https://img.shields.io/lemmy/xbox@lemmy.world?style=flat&label=Subs&color=pink)
 	- An Xbox community for Lemmy!
 6. **[PlayStation](/c/playstation@lemmy.world)** | lemmy.world | [Kbin](/m/playstation@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/playstation@lemmy.world) | ![](https://img.shields.io/lemmy/playstation@lemmy.world?style=flat&label=Subs&color=pink)
@@ -36,7 +36,7 @@
 	- Community covering everything Atari 8bit.
 18. **[Commodore Plus/4](/c/plus4@retrolemmy.com)** | retrolemmy.com | [Kbin](/m/plus4@retrolemmy.com) | [lemmyverse.link](https://lemmyverse.link/c/plus4@retrolemmy.com) | ![](https://img.shields.io/lemmy/plus4@retrolemmy.com?style=flat&label=Subs&color=pink)
 	- Commodore 16 and Plus/4 community.
-## 5.2. Games (74 communities)
+## 5.2. Games 🎮 (74 communities)
 1. **[Baldur's Gate 3](/c/baldurs_gate_3@lemmy.world)** | lemmy.world | [Kbin](/m/baldurs_gate_3@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/baldurs_gate_3@lemmy.world) | ![](https://img.shields.io/lemmy/baldurs_gate_3@lemmy.world?style=flat&label=Subs&color=pink)
 	- Baldur’s Gate 3 is a story-rich, party-based RPG set in the universe of Dungeons & Dragons, where your choices shape a tale of fellowship and betrayal, survival and sacrifice, and the lure of absolute power.
 2. **[Minecraft](/c/minecraft@lemmy.world)** | lemmy.world | [Kbin](/m/minecraft@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/minecraft@lemmy.world) | ![](https://img.shields.io/lemmy/minecraft@lemmy.world?style=flat&label=Subs&color=pink)
@@ -56,31 +56,31 @@
 9. **[MTG](/c/mtg@mtgzone.com)** | mtgzone.com | [Kbin](/m/mtg@mtgzone.com) | [lemmyverse.link](https://lemmyverse.link/c/mtg@mtgzone.com) | ![](https://img.shields.io/lemmy/mtg@mtgzone.com?style=flat&label=Subs&color=pink)
 	- General discussion, questions, and media related to Magic: the Gathering that doesn’t fit within a more specific community.
 10. **[Chess](/c/chess@lemmy.ml)** | lemmy.ml | [Kbin](/m/chess@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/chess@lemmy.ml) | ![](https://img.shields.io/lemmy/chess@lemmy.ml?style=flat&label=Subs&color=pink)
-	- description
+	- NoDescription
 11. **[Stardew Valley](/c/stardewvalley@lemmy.ml)** | lemmy.ml | [Kbin](/m/stardewvalley@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/stardewvalley@lemmy.ml) | ![](https://img.shields.io/lemmy/stardewvalley@lemmy.ml?style=flat&label=Subs&color=pink)
 	- All things Stardew Valley.
 12. **[Helldivers 2](/c/helldivers2@lemmy.ca)** | lemmy.ca | [Kbin](/m/helldivers2@lemmy.ca) | [lemmyverse.link](https://lemmyverse.link/c/helldivers2@lemmy.ca) | ![](https://img.shields.io/lemmy/helldivers2@lemmy.ca?style=flat&label=Subs&color=pink)
 	- Welcome to the Helldivers 2 Community on the Fediverse.
-13. **[Old School Runescape](/c/2007scape@lemmy.world)** | lemmy.world | [Kbin](/m/2007scape@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/2007scape@lemmy.world) | ![](https://img.shields.io/lemmy/2007scape@lemmy.world?style=flat&label=Subs&color=pink)
-	- The community for Old School RuneScape discussion on Lemmy.
-14. **[Genshin Impact](/c/genshin_impact@lemmy.world)** | lemmy.world | [Kbin](/m/genshin_impact@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/genshin_impact@lemmy.world) | ![](https://img.shields.io/lemmy/genshin_impact@lemmy.world?style=flat&label=Subs&color=pink)
+13. **[Genshin Impact](/c/genshin_impact@lemmy.world)** | lemmy.world | [Kbin](/m/genshin_impact@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/genshin_impact@lemmy.world) | ![](https://img.shields.io/lemmy/genshin_impact@lemmy.world?style=flat&label=Subs&color=pink)
 	- Community for Genshin Impact.
+14. **[Old School Runescape](/c/2007scape@lemmy.world)** | lemmy.world | [Kbin](/m/2007scape@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/2007scape@lemmy.world) | ![](https://img.shields.io/lemmy/2007scape@lemmy.world?style=flat&label=Subs&color=pink)
+	- The community for Old School RuneScape discussion on Lemmy.
 15. **[Factorio](/c/factorio@lemmy.ml)** | lemmy.ml | [Kbin](/m/factorio@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/factorio@lemmy.ml) | ![](https://img.shields.io/lemmy/factorio@lemmy.ml?style=flat&label=Subs&color=pink)
 	- Dreaming of transport belts.
 16. **[FFXIV Online](/c/ffxiv@possumpat.io)** | possumpat.io | [Kbin](/m/ffxiv@possumpat.io) | [lemmyverse.link](https://lemmyverse.link/c/ffxiv@possumpat.io) | ![](https://img.shields.io/lemmy/ffxiv@possumpat.io?style=flat&label=Subs&color=pink)
 	- A community to discuss Final Fantasy XIV Online, kupo!
 17. **[World of Warcraft](/c/wow@lemmy.ml)** | lemmy.ml | [Kbin](/m/wow@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/wow@lemmy.ml) | ![](https://img.shields.io/lemmy/wow@lemmy.ml?style=flat&label=Subs&color=pink)
-	- description
+	- NoDescription
 18. **[Guild Wars 2](/c/guildwars2@lemmy.wtf)** | lemmy.wtf | [Kbin](/m/guildwars2@lemmy.wtf) | [lemmyverse.link](https://lemmyverse.link/c/guildwars2@lemmy.wtf) | ![](https://img.shields.io/lemmy/guildwars2@lemmy.wtf?style=flat&label=Subs&color=pink)
 	- Welcome to c/guildwars2 on the Lemmyverse.
-19. **[Satisfactory](/c/satisfactory@lemmy.world)** | lemmy.world | [Kbin](/m/satisfactory@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/satisfactory@lemmy.world) | ![](https://img.shields.io/lemmy/satisfactory@lemmy.world?style=flat&label=Subs&color=pink)
-	- The unofficial Lemmy community for Satisfactory, the factory-building and exploration game.
-20. **[Pixel Dungeon](/c/pixeldungeon@lemmy.world)** | lemmy.world | [Kbin](/m/pixeldungeon@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/pixeldungeon@lemmy.world) | ![](https://img.shields.io/lemmy/pixeldungeon@lemmy.world?style=flat&label=Subs&color=pink)
+19. **[Pixel Dungeon](/c/pixeldungeon@lemmy.world)** | lemmy.world | [Kbin](/m/pixeldungeon@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/pixeldungeon@lemmy.world) | ![](https://img.shields.io/lemmy/pixeldungeon@lemmy.world?style=flat&label=Subs&color=pink)
 	- This community is a place to talk strategies, tell stories, or discuss anything related to Pixel Dungeon or its many versions.
+20. **[Satisfactory](/c/satisfactory@lemmy.world)** | lemmy.world | [Kbin](/m/satisfactory@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/satisfactory@lemmy.world) | ![](https://img.shields.io/lemmy/satisfactory@lemmy.world?style=flat&label=Subs&color=pink)
+	- The unofficial Lemmy community for Satisfactory, the factory-building and exploration game.
 21. **[Mass Effect](/c/masseffect@lemmy.world)** | lemmy.world | [Kbin](/m/masseffect@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/masseffect@lemmy.world) | ![](https://img.shields.io/lemmy/masseffect@lemmy.world?style=flat&label=Subs&color=pink)
 	- My name is Commander Shepard and this is my favorite Mass Effect community on the citadel.
 22. **[Star Citizen](/c/starcitizen@lemmy.ml)** | lemmy.ml | [Kbin](/m/starcitizen@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/starcitizen@lemmy.ml) | ![](https://img.shields.io/lemmy/starcitizen@lemmy.ml?style=flat&label=Subs&color=pink)
-	- description
+	- NoDescription
 23. **[League of Legends](/c/leagueoflegends@lemmy.world)** | lemmy.world | [Kbin](/m/leagueoflegends@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/leagueoflegends@lemmy.world) | ![](https://img.shields.io/lemmy/leagueoflegends@lemmy.world?style=flat&label=Subs&color=pink)
 	- A Lemmy community for the game League of Legends.
 24. **[Modded Minecraft](/c/moddedminecraft@sopuli.xyz)** | sopuli.xyz | [Kbin](/m/moddedminecraft@sopuli.xyz) | [lemmyverse.link](https://lemmyverse.link/c/moddedminecraft@sopuli.xyz) | ![](https://img.shields.io/lemmy/moddedminecraft@sopuli.xyz?style=flat&label=Subs&color=pink)
@@ -88,11 +88,11 @@
 25. **[Elden Ring](/c/eldenring@lemmy.ml)** | lemmy.ml | [Kbin](/m/eldenring@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/eldenring@lemmy.ml) | ![](https://img.shields.io/lemmy/eldenring@lemmy.ml?style=flat&label=Subs&color=pink)
 	- A sub community for Elden Ring, an upcoming video game directed by Michael Zaki and published by From Software.
 26. **[Dota 2](/c/dota2@lemmy.ml)** | lemmy.ml | [Kbin](/m/dota2@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/dota2@lemmy.ml) | ![](https://img.shields.io/lemmy/dota2@lemmy.ml?style=flat&label=Subs&color=pink)
-	- description
-27. **[Old School Minecraft](/c/oldschoolminecraft@lemmy.world)** | lemmy.world | [Kbin](/m/oldschoolminecraft@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/oldschoolminecraft@lemmy.world) | ![](https://img.shields.io/lemmy/oldschoolminecraft@lemmy.world?style=flat&label=Subs&color=pink)
-	- Post anything related to old school minecraft. Posts should be related to older version of minecraft, and evoke a sense of nostalgia.
-28. **[Team Fortress 2](/c/tf2@lemmy.world)** | lemmy.world | [Kbin](/m/tf2@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/tf2@lemmy.world) | ![](https://img.shields.io/lemmy/tf2@lemmy.world?style=flat&label=Subs&color=pink)
+	- NoDescription
+27. **[Team Fortress 2](/c/tf2@lemmy.world)** | lemmy.world | [Kbin](/m/tf2@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/tf2@lemmy.world) | ![](https://img.shields.io/lemmy/tf2@lemmy.world?style=flat&label=Subs&color=pink)
 	- This is a community for the video game Team Fortress 2. You are welcome to post anything you like, be it memes or tips & tricks as long as it’s on topic.
+28. **[Old School Minecraft](/c/oldschoolminecraft@lemmy.world)** | lemmy.world | [Kbin](/m/oldschoolminecraft@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/oldschoolminecraft@lemmy.world) | ![](https://img.shields.io/lemmy/oldschoolminecraft@lemmy.world?style=flat&label=Subs&color=pink)
+	- Post anything related to old school minecraft. Posts should be related to older version of minecraft, and evoke a sense of nostalgia.
 29. **[Skyrim](/c/skyrim@lemmy.world)** | lemmy.world | [Kbin](/m/skyrim@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/skyrim@lemmy.world) | ![](https://img.shields.io/lemmy/skyrim@lemmy.world?style=flat&label=Subs&color=pink)
 	- Well met kinsman.
 30. **[The Legend of Zelda](/c/legendofzelda@lemmy.world)** | lemmy.world | [Kbin](/m/legendofzelda@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/legendofzelda@lemmy.world) | ![](https://img.shields.io/lemmy/legendofzelda@lemmy.world?style=flat&label=Subs&color=pink)
@@ -103,12 +103,12 @@
 	- Witcher books, Witcher games and everything else Witcher.
 33. **[TrackMania](/c/trackmania@lemmy.world)** | lemmy.world | [Kbin](/m/trackmania@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/trackmania@lemmy.world) | ![](https://img.shields.io/lemmy/trackmania@lemmy.world?style=flat&label=Subs&color=pink)
 	- The latest information and community content from the Trackmania series.
-34. **[Valheim](/c/valheim@lemmy.world)** | lemmy.world | [Kbin](/m/valheim@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/valheim@lemmy.world) | ![](https://img.shields.io/lemmy/valheim@lemmy.world?style=flat&label=Subs&color=pink)
-	- description
-35. **[Factorio](/c/factorio@lemmy.world)** | lemmy.world | [Kbin](/m/factorio@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/factorio@lemmy.world) | ![](https://img.shields.io/lemmy/factorio@lemmy.world?style=flat&label=Subs&color=pink)
+34. **[Factorio](/c/factorio@lemmy.world)** | lemmy.world | [Kbin](/m/factorio@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/factorio@lemmy.world) | ![](https://img.shields.io/lemmy/factorio@lemmy.world?style=flat&label=Subs&color=pink)
 	- A Lemmy community for the game [Factorio](https://www.factorio.com/) made by Wube Software.
+35. **[Valheim](/c/valheim@lemmy.world)** | lemmy.world | [Kbin](/m/valheim@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/valheim@lemmy.world) | ![](https://img.shields.io/lemmy/valheim@lemmy.world?style=flat&label=Subs&color=pink)
+	- NoDescription
 36. **[pokemongo](/c/pokemongo@lemmy.world)** | lemmy.world | [Kbin](/m/pokemongo@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/pokemongo@lemmy.world) | ![](https://img.shields.io/lemmy/pokemongo@lemmy.world?style=flat&label=Subs&color=pink)
-	- description
+	- NoDescription
 37. **[Street Fighter](/c/streetfighter@lemmy.world)** | lemmy.world | [Kbin](/m/streetfighter@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/streetfighter@lemmy.world) | ![](https://img.shields.io/lemmy/streetfighter@lemmy.world?style=flat&label=Subs&color=pink)
 	- Community dedicated to Street Fighter.
 38. **[Rocket League](/c/rocketleague@lemmy.world)** | lemmy.world | [Kbin](/m/rocketleague@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/rocketleague@lemmy.world) | ![](https://img.shields.io/lemmy/rocketleague@lemmy.world?style=flat&label=Subs&color=pink)
@@ -121,20 +121,20 @@
 	- Welcome to Touhou community on lemmy.world.
 42. **[Overwatch](/c/overwatch@lemmy.world)** | lemmy.world | [Kbin](/m/overwatch@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/overwatch@lemmy.world) | ![](https://img.shields.io/lemmy/overwatch@lemmy.world?style=flat&label=Subs&color=pink)
 	- This is a community for all things related to Blizzard’s Overwatch 2.
-43. **[Undertale and Deltarune](/c/undertale_deltarune@lemmy.world)** | lemmy.world | [Kbin](/m/undertale_deltarune@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/undertale_deltarune@lemmy.world) | ![](https://img.shields.io/lemmy/undertale_deltarune@lemmy.world?style=flat&label=Subs&color=pink)
-	- Lemmy’s community for Undertale and Deltarune.
-44. **[Guilty Gear](/c/guiltygear@lemmy.world)** | lemmy.world | [Kbin](/m/guiltygear@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/guiltygear@lemmy.world) | ![](https://img.shields.io/lemmy/guiltygear@lemmy.world?style=flat&label=Subs&color=pink)
-	- Guilty Gear as-brought to you by the r/GuiltyGear team!
-45. **[Bloodborne](/c/bloodborne@lemmy.zip)** | lemmy.zip | [Kbin](/m/bloodborne@lemmy.zip) | [lemmyverse.link](https://lemmyverse.link/c/bloodborne@lemmy.zip) | ![](https://img.shields.io/lemmy/bloodborne@lemmy.zip?style=flat&label=Subs&color=pink)
+43. **[Bloodborne](/c/bloodborne@lemmy.zip)** | lemmy.zip | [Kbin](/m/bloodborne@lemmy.zip) | [lemmyverse.link](https://lemmyverse.link/c/bloodborne@lemmy.zip) | ![](https://img.shields.io/lemmy/bloodborne@lemmy.zip?style=flat&label=Subs&color=pink)
 	- lemmy.zip Bloodborne Community
+44. **[Undertale and Deltarune](/c/undertale_deltarune@lemmy.world)** | lemmy.world | [Kbin](/m/undertale_deltarune@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/undertale_deltarune@lemmy.world) | ![](https://img.shields.io/lemmy/undertale_deltarune@lemmy.world?style=flat&label=Subs&color=pink)
+	- Lemmy’s community for Undertale and Deltarune.
+45. **[Guilty Gear](/c/guiltygear@lemmy.world)** | lemmy.world | [Kbin](/m/guiltygear@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/guiltygear@lemmy.world) | ![](https://img.shields.io/lemmy/guiltygear@lemmy.world?style=flat&label=Subs&color=pink)
+	- Guilty Gear as-brought to you by the r/GuiltyGear team!
 46. **[Lemmings](/c/lemmings@lemmings.world)** | lemmings.world | [Kbin](/m/lemmings@lemmings.world) | [lemmyverse.link](https://lemmyverse.link/c/lemmings@lemmings.world) | ![](https://img.shields.io/lemmy/lemmings@lemmings.world?style=flat&label=Subs&color=pink)
 	- All about the video game series “Lemmings”.
-47. **[StarCraft](/c/starcraft@lemmy.world)** | lemmy.world | [Kbin](/m/starcraft@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/starcraft@lemmy.world) | ![](https://img.shields.io/lemmy/starcraft@lemmy.world?style=flat&label=Subs&color=pink)
-	- A Lemmy.world instance dedicated to everything Brood War or StarCraft II.
-48. **[Outer Wilds](/c/outerwilds@lemmy.world)** | lemmy.world | [Kbin](/m/outerwilds@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/outerwilds@lemmy.world) | ![](https://img.shields.io/lemmy/outerwilds@lemmy.world?style=flat&label=Subs&color=pink)
-	- Outer Wilds is an exploration game about curiosity, roasting marshmallows, and unravelling the mysteries of the cosmos.
-49. **[Star Trek Online](/c/startrekonline@startrek.website)** | startrek.website | [Kbin](/m/startrekonline@startrek.website) | [lemmyverse.link](https://lemmyverse.link/c/startrekonline@startrek.website) | ![](https://img.shields.io/lemmy/startrekonline@startrek.website?style=flat&label=Subs&color=pink)
+47. **[Star Trek Online](/c/startrekonline@startrek.website)** | startrek.website | [Kbin](/m/startrekonline@startrek.website) | [lemmyverse.link](https://lemmyverse.link/c/startrekonline@startrek.website) | ![](https://img.shields.io/lemmy/startrekonline@startrek.website?style=flat&label=Subs&color=pink)
 	- Star Trek Online news, discussion, tips, and tricks.
+48. **[StarCraft](/c/starcraft@lemmy.world)** | lemmy.world | [Kbin](/m/starcraft@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/starcraft@lemmy.world) | ![](https://img.shields.io/lemmy/starcraft@lemmy.world?style=flat&label=Subs&color=pink)
+	- A Lemmy.world instance dedicated to everything Brood War or StarCraft II.
+49. **[Outer Wilds](/c/outerwilds@lemmy.world)** | lemmy.world | [Kbin](/m/outerwilds@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/outerwilds@lemmy.world) | ![](https://img.shields.io/lemmy/outerwilds@lemmy.world?style=flat&label=Subs&color=pink)
+	- Outer Wilds is an exploration game about curiosity, roasting marshmallows, and unravelling the mysteries of the cosmos.
 50. **[Sekiro](/c/sekiro@lemmy.zip)** | lemmy.zip | [Kbin](/m/sekiro@lemmy.zip) | [lemmyverse.link](https://lemmyverse.link/c/sekiro@lemmy.zip) | ![](https://img.shields.io/lemmy/sekiro@lemmy.zip?style=flat&label=Subs&color=pink)
 	- lemmy.zip Sekiro Community.
 51. **[Doom Video Game](/c/doom@lemmy.sdf.org)** | lemmy.sdf.org | [Kbin](/m/doom@lemmy.sdf.org) | [lemmyverse.link](https://lemmyverse.link/c/doom@lemmy.sdf.org) | ![](https://img.shields.io/lemmy/doom@lemmy.sdf.org?style=flat&label=Subs&color=pink)
@@ -143,12 +143,12 @@
 	- Discussions and memes about the games Risk of Rain and Risk of Rain 2.
 53. **[Forza](/c/forza@lemmy.world)** | lemmy.world | [Kbin](/m/forza@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/forza@lemmy.world) | ![](https://img.shields.io/lemmy/forza@lemmy.world?style=flat&label=Subs&color=pink)
 	- A community for discussion and news for the Forza series.
-54. **[Xenoblade Chronicles](/c/xenoblade@possumpat.io)** | possumpat.io | [Kbin](/m/xenoblade@possumpat.io) | [lemmyverse.link](https://lemmyverse.link/c/xenoblade@possumpat.io) | ![](https://img.shields.io/lemmy/xenoblade@possumpat.io?style=flat&label=Subs&color=pink)
-	- A community for the Xenoblade Chronicles series of RPG games. Xenogears and Xenosaga discussion welcome too!
-55. **[Helltaker](/c/helltaker@sopuli.xyz)** | sopuli.xyz | [Kbin](/m/helltaker@sopuli.xyz) | [lemmyverse.link](https://lemmyverse.link/c/helltaker@sopuli.xyz) | ![](https://img.shields.io/lemmy/helltaker@sopuli.xyz?style=flat&label=Subs&color=pink)
+54. **[Helltaker](/c/helltaker@sopuli.xyz)** | sopuli.xyz | [Kbin](/m/helltaker@sopuli.xyz) | [lemmyverse.link](https://lemmyverse.link/c/helltaker@sopuli.xyz) | ![](https://img.shields.io/lemmy/helltaker@sopuli.xyz?style=flat&label=Subs&color=pink)
 	- A community for the game by [Vanripper](https://twitter.com/vanripperart?lang=en). Post art and discuss your favourite sharply dressed demons and helltakers.
+55. **[Xenoblade Chronicles](/c/xenoblade@possumpat.io)** | possumpat.io | [Kbin](/m/xenoblade@possumpat.io) | [lemmyverse.link](https://lemmyverse.link/c/xenoblade@possumpat.io) | ![](https://img.shields.io/lemmy/xenoblade@possumpat.io?style=flat&label=Subs&color=pink)
+	- A community for the Xenoblade Chronicles series of RPG games. Xenogears and Xenosaga discussion welcome too!
 56. **[Ace Attorney](/c/aceattorney@lemmy.world)** | lemmy.world | [Kbin](/m/aceattorney@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/aceattorney@lemmy.world) | ![](https://img.shields.io/lemmy/aceattorney@lemmy.world?style=flat&label=Subs&color=pink)
-	- description
+	- NoDescription
 57. **[Mount＆Blade](/c/mountandblade@lemmy.world)** | lemmy.world | [Kbin](/m/mountandblade@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/mountandblade@lemmy.world) | ![](https://img.shields.io/lemmy/mountandblade@lemmy.world?style=flat&label=Subs&color=pink)
 	- Welcome to c/mountandblade, a Lemmy community for discussing all things related to TaleWorlds’ _Mount & Blade_ franchise!
 58. **[Stauf's Mansion: The 7th Guest and more](/c/stauf_mansion@lemmy.mods4ever.com)** | lemmy.mods4ever.com | [Kbin](/m/stauf_mansion@lemmy.mods4ever.com) | [lemmyverse.link](https://lemmyverse.link/c/stauf_mansion@lemmy.mods4ever.com) | ![](https://img.shields.io/lemmy/stauf_mansion@lemmy.mods4ever.com?style=flat&label=Subs&color=pink)
@@ -161,20 +161,20 @@
 	- osu! - Rhythm is just a _click_ away!
 62. **[Last Epoch](/c/lastepoch@lemmy.world)** | lemmy.world | [Kbin](/m/lastepoch@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/lastepoch@lemmy.world) | ![](https://img.shields.io/lemmy/lastepoch@lemmy.world?style=flat&label=Subs&color=pink)
 	- A community for Last Epoch, an arpg by Eleventh Hour Games.
-63. **[Star Wars: Galaxy of Heroes](/c/swgalaxyofheroes@lemmy.world)** | lemmy.world | [Kbin](/m/swgalaxyofheroes@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/swgalaxyofheroes@lemmy.world) | ![](https://img.shields.io/lemmy/swgalaxyofheroes@lemmy.world?style=flat&label=Subs&color=pink)
-	- Star Wars: Galaxy of Heroes is a mobile collectible RPG game set in a cantina in a distant corner of the Star Wars galaxy, where people of varying species compete in simulated holographic battles involving notable figures throughout Star Wars history for fame and fortune.
-64. **[BattleBit Remastered](/c/battlebit@lemmy.ca)** | lemmy.ca | [Kbin](/m/battlebit@lemmy.ca) | [lemmyverse.link](https://lemmyverse.link/c/battlebit@lemmy.ca) | ![](https://img.shields.io/lemmy/battlebit@lemmy.ca?style=flat&label=Subs&color=pink)
-	- description
-65. **[Neptunia](/c/neptunia@lemmy.world)** | lemmy.world | [Kbin](/m/neptunia@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/neptunia@lemmy.world) | ![](https://img.shields.io/lemmy/neptunia@lemmy.world?style=flat&label=Subs&color=pink)
+63. **[Neptunia](/c/neptunia@lemmy.world)** | lemmy.world | [Kbin](/m/neptunia@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/neptunia@lemmy.world) | ![](https://img.shields.io/lemmy/neptunia@lemmy.world?style=flat&label=Subs&color=pink)
 	- The place to discuss Compile Heart & Idea Factory’s Neptunia franchise on Lemmy.
+64. **[BattleBit Remastered](/c/battlebit@lemmy.ca)** | lemmy.ca | [Kbin](/m/battlebit@lemmy.ca) | [lemmyverse.link](https://lemmyverse.link/c/battlebit@lemmy.ca) | ![](https://img.shields.io/lemmy/battlebit@lemmy.ca?style=flat&label=Subs&color=pink)
+	- NoDescription
+65. **[Star Wars: Galaxy of Heroes](/c/swgalaxyofheroes@lemmy.world)** | lemmy.world | [Kbin](/m/swgalaxyofheroes@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/swgalaxyofheroes@lemmy.world) | ![](https://img.shields.io/lemmy/swgalaxyofheroes@lemmy.world?style=flat&label=Subs&color=pink)
+	- Star Wars: Galaxy of Heroes is a mobile collectible RPG game set in a cantina in a distant corner of the Star Wars galaxy, where people of varying species compete in simulated holographic battles involving notable figures throughout Star Wars history for fame and fortune.
 66. **[WoW Private Servers](/c/wowservers@lemmy.world)** | lemmy.world | [Kbin](/m/wowservers@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/wowservers@lemmy.world) | ![](https://img.shields.io/lemmy/wowservers@lemmy.world?style=flat&label=Subs&color=pink)
 	- A community to discuss past, current, and future WoW private servers.
 67. **[WoW Noob](/c/wownoob@lemmy.world)** | lemmy.world | [Kbin](/m/wownoob@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/wownoob@lemmy.world) | ![](https://img.shields.io/lemmy/wownoob@lemmy.world?style=flat&label=Subs&color=pink)
 	- Whether you’re stepping foot into Azeroth for the first time or are a seasoned veteran, our community is here to offer guidance, support, and a friendly atmosphere.
 68. **[Forza Horizon Games](/c/forzahorizon@lemmy.world)** | lemmy.world | [Kbin](/m/forzahorizon@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/forzahorizon@lemmy.world) | ![](https://img.shields.io/lemmy/forzahorizon@lemmy.world?style=flat&label=Subs&color=pink)
-	- description
+	- NoDescription
 69. **[Fallout 76](/c/fallout76@lemmy.world)** | lemmy.world | [Kbin](/m/fallout76@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/fallout76@lemmy.world) | ![](https://img.shields.io/lemmy/fallout76@lemmy.world?style=flat&label=Subs&color=pink)
-	- description
+	- NoDescription
 70. **[Girls Frontline](/c/girlsfrontline@lemmy.world)** | lemmy.world | [Kbin](/m/girlsfrontline@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/girlsfrontline@lemmy.world) | ![](https://img.shields.io/lemmy/girlsfrontline@lemmy.world?style=flat&label=Subs&color=pink)
 	- The unofficial Girls Frontline lemmy community.
 71. **[GO  (IGO / WEIQI / BADUK)](/c/gogame@discuss.tchncs.de)** | discuss.tchncs.de | [Kbin](/m/gogame@discuss.tchncs.de) | [lemmyverse.link](https://lemmyverse.link/c/gogame@discuss.tchncs.de) | ![](https://img.shields.io/lemmy/gogame@discuss.tchncs.de?style=flat&label=Subs&color=pink)
@@ -185,7 +185,7 @@
 	- Lemmy page for XDefiant, a free-to-play, fast paced, arena shooter that combines intense gameplay with personalized loadouts and specialized factions, as team of gunfighters - called Defiants - battle for domination.
 74. **[Arknights](/c/arknights@kbin.social)** | kbin.social | [Kbin](/m/arknights@kbin.social) | [lemmyverse.link](https://lemmyverse.link/c/arknights@kbin.social) | ![](https://img.shields.io/lemmy/arknights@kbin.social?style=flat&label=Subs&color=pink)
 	- Arknights is a free-to-play mobile Tower Defense gacha game developed by Hypergryph.
-### 5.2.1. Mini-Games (6 communities)
+### 5.2.1. Mini-Games (6 communities) (temporary name)
 1. **[crossword](/c/crossword@lemmy.world)** | lemmy.world | [Kbin](/m/crossword@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/crossword@lemmy.world) | ![](https://img.shields.io/lemmy/crossword@lemmy.world?style=flat&label=Subs&color=pink)
 	- For crossword enthusiasts.
 2. **[Wordle](/c/wordle@lemmy.world)** | lemmy.world | [Kbin](/m/wordle@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/wordle@lemmy.world) | ![](https://img.shields.io/lemmy/wordle@lemmy.world?style=flat&label=Subs&color=pink)
@@ -198,3 +198,7 @@
 	- Share your New York Times Connections result in the daily post.
 6. **[NYT Strands](/c/nytstrands@lemmy.world)** | lemmy.world | [Kbin](/m/nytstrands@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/nytstrands@lemmy.world) | ![](https://img.shields.io/lemmy/nytstrands@lemmy.world?style=flat&label=Subs&color=pink)
 	- Share your New York Times Strands result in the daily post.
+
+### Previous page: [lemmyverse.link](https://lemmyverse.link/lemmy.dbzer0.com/post/22581840) [direct](https://lemmy.dbzer0.com/post/22581840)
+
+### Next page: [lemmyverse.link](https://lemmyverse.link/lemmy.dbzer0.com/post/22662406) [direct](https://lemmy.dbzer0.com/post/22662406)
