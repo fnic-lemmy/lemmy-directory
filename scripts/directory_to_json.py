@@ -86,7 +86,7 @@ with open(f'{path}music-genres.json', 'w') as json_file:
 
 # Export Gaming to file
 with open(f'{path}gaming-platforms.json', 'w') as json_file:
-  json.dump(communities['Gaming']['Platforms']['None'], json_file, indent=2)
+  json.dump(communities['Gaming']['Platforms 🕹️']['None'], json_file, indent=2)
 with open(f'{path}gaming-genres.json', 'w') as json_file:
   json.dump(communities['Gaming']['Genres']['None'], json_file, indent=2)
 
