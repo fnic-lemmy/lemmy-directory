@@ -72,7 +72,7 @@ with open(f'{path}ai.json', 'w') as json_file:
 
 # Export Wallpapers to file
 with open(f'{path}wallpapers.json', 'w') as json_file:
-  json.dump(communities['Art']['Wallpapers']['None'], json_file, indent=2)
+  json.dump(communities['Art']['Wallpapers 🌇']['None'], json_file, indent=2)
 
 # Export Animals to file
 with open(f'{path}animals.json', 'w') as json_file:
