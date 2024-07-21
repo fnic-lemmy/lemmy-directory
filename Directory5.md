@@ -2,9 +2,9 @@
 1. **[Godot](/c/godot@programming.dev)** | programming.dev | [Kbin](/m/godot@programming.dev) | [lemmyverse.link](https://lemmyverse.link/c/godot@programming.dev) | ![](https://img.shields.io/lemmy/godot@programming.dev?style=flat&label=Subs&color=pink)
 	- This is a place where you can discuss about anything relating to the Godot game engine. Feel free to ask questions, post tutorials, show off your godot game, etc.
 2. **[Unity](/c/unity@programming.dev)** | programming.dev | [Kbin](/m/unity@programming.dev) | [lemmyverse.link](https://lemmyverse.link/c/unity@programming.dev) | ![](https://img.shields.io/lemmy/unity@programming.dev?style=flat&label=Subs&color=pink)
-	- description
+	- NoDescription
 3. **[Unreal Engine](/c/unreal_engine@programming.dev)** | programming.dev | [Kbin](/m/unreal_engine@programming.dev) | [lemmyverse.link](https://lemmyverse.link/c/unreal_engine@programming.dev) | ![](https://img.shields.io/lemmy/unreal_engine@programming.dev?style=flat&label=Subs&color=pink)
-	- description
+	- NoDescription
 4. **[Bevy](/c/bevy@programming.dev)** | programming.dev | [Kbin](/m/bevy@programming.dev) | [lemmyverse.link](https://lemmyverse.link/c/bevy@programming.dev) | ![](https://img.shields.io/lemmy/bevy@programming.dev?style=flat&label=Subs&color=pink)
 	- A community for discussion around the bevy game engine! [https://bevyengine.org/](https://bevyengine.org/)
 ## 5.4. Genres (21 communities)
@@ -34,12 +34,12 @@
 	- For discussions about all RTS games. Everyone is welcome, Starcraft, Starcraft 2, Stormgate etc.
 13. **[Turn Based Strategy](/c/turnbasedstrategy@lemmy.world)** | lemmy.world | [Kbin](/m/turnbasedstrategy@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/turnbasedstrategy@lemmy.world) | ![](https://img.shields.io/lemmy/turnbasedstrategy@lemmy.world?style=flat&label=Subs&color=pink)
 	- A place to discuss turn based strategy games. Tactical game discussion also welcome.
-14. **[Gamebooks / Choose Your Own Adventure / Fighting Fantasy](/c/gamebooks@feddit.uk)** | feddit.uk | [Kbin](/m/gamebooks@feddit.uk) | [lemmyverse.link](https://lemmyverse.link/c/gamebooks@feddit.uk) | ![](https://img.shields.io/lemmy/gamebooks@feddit.uk?style=flat&label=Subs&color=pink)
-	- For gamebooks like Chose Your Own Adventure, Fighting Fantasy, Lone Wolf, etc. whether that’s in book form or apps or other formats of interactive fiction.
-15. **[Real Time Strategy, The RTS HQ](/c/realtimestrategy@lemmy.world)** | lemmy.world | [Kbin](/m/realtimestrategy@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/realtimestrategy@lemmy.world) | ![](https://img.shields.io/lemmy/realtimestrategy@lemmy.world?style=flat&label=Subs&color=pink)
-	- Welcome to the RTS HQ, here you will be briefed and brought up to date with news on the RTS world. Feel free to hang out in the lobby, meet new friends, discuss news, strategies, even reminisce the past by discussing beloved classic RTS games.
-16. **[Strategy Games](/c/strategygames@sopuli.xyz)** | sopuli.xyz | [Kbin](/m/strategygames@sopuli.xyz) | [lemmyverse.link](https://lemmyverse.link/c/strategygames@sopuli.xyz) | ![](https://img.shields.io/lemmy/strategygames@sopuli.xyz?style=flat&label=Subs&color=pink)
+14. **[Strategy Games](/c/strategygames@sopuli.xyz)** | sopuli.xyz | [Kbin](/m/strategygames@sopuli.xyz) | [lemmyverse.link](https://lemmyverse.link/c/strategygames@sopuli.xyz) | ![](https://img.shields.io/lemmy/strategygames@sopuli.xyz?style=flat&label=Subs&color=pink)
 	- Discuss Grand Strategy, 4X, Real Time, and Turn Based strategy games here! Including, but not limited to Civ, Europa Universalis, Crusader Kings, Victoria, Hearts of Iron, Imperator, Stellaris, Age of Empires, Old World, Colonization, and many many others.
+15. **[Gamebooks / Choose Your Own Adventure / Fighting Fantasy](/c/gamebooks@feddit.uk)** | feddit.uk | [Kbin](/m/gamebooks@feddit.uk) | [lemmyverse.link](https://lemmyverse.link/c/gamebooks@feddit.uk) | ![](https://img.shields.io/lemmy/gamebooks@feddit.uk?style=flat&label=Subs&color=pink)
+	- For gamebooks like Chose Your Own Adventure, Fighting Fantasy, Lone Wolf, etc. whether that’s in book form or apps or other formats of interactive fiction.
+16. **[Real Time Strategy, The RTS HQ](/c/realtimestrategy@lemmy.world)** | lemmy.world | [Kbin](/m/realtimestrategy@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/realtimestrategy@lemmy.world) | ![](https://img.shields.io/lemmy/realtimestrategy@lemmy.world?style=flat&label=Subs&color=pink)
+	- Welcome to the RTS HQ, here you will be briefed and brought up to date with news on the RTS world. Feel free to hang out in the lobby, meet new friends, discuss news, strategies, even reminisce the past by discussing beloved classic RTS games.
 17. **[ARPG's: Diablo/PoE/Last Epoch](/c/arpg@lemmy.ml)** | lemmy.ml | [Kbin](/m/arpg@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/arpg@lemmy.ml) | ![](https://img.shields.io/lemmy/arpg@lemmy.ml?style=flat&label=Subs&color=pink)
 	- A community for ARPG/HacknSlash games.
 18. **[Truck Simulators](/c/trucksim@lemmy.world)** | lemmy.world | [Kbin](/m/trucksim@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/trucksim@lemmy.world) | ![](https://img.shields.io/lemmy/trucksim@lemmy.world?style=flat&label=Subs&color=pink)
@@ -58,12 +58,12 @@
 3. **[RoguelikeDev](/c/roguelikedev@programming.dev)** | programming.dev | [Kbin](/m/roguelikedev@programming.dev) | [lemmyverse.link](https://lemmyverse.link/c/roguelikedev@programming.dev) | ![](https://img.shields.io/lemmy/roguelikedev@programming.dev?style=flat&label=Subs&color=pink)
 	- A community of roguelike developers. Discuss work-in-progress roguelikes and a broad range of roguelike development topics.
 4. **[Voxel Game Dev](/c/voxel_dev@programming.dev)** | programming.dev | [Kbin](/m/voxel_dev@programming.dev) | [lemmyverse.link](https://lemmyverse.link/c/voxel_dev@programming.dev) | ![](https://img.shields.io/lemmy/voxel_dev@programming.dev?style=flat&label=Subs&color=pink)
-	- description
+	- NoDescription
 5. **[Voxel Game Development](/c/voxelgamedev@lemmy.world)** | lemmy.world | [Kbin](/m/voxelgamedev@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/voxelgamedev@lemmy.world) | ![](https://img.shields.io/lemmy/voxelgamedev@lemmy.world?style=flat&label=Subs&color=pink)
 	- A game development sublemmy for discussing the creation of voxel games, and voxel engines.
-## 5.6. Deals (5 communities)
+## 5.6. Deals 💸 (5 communities)
 1. **[GameDeals](/c/gamedeals@lemmy.world)** | lemmy.world | [Kbin](/m/gamedeals@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/gamedeals@lemmy.world) | ![](https://img.shields.io/lemmy/gamedeals@lemmy.world?style=flat&label=Subs&color=pink)
-	- description
+	- NoDescription
 2. **[Free Video Game Giveaways](/c/freegames@feddit.uk)** | feddit.uk | [Kbin](/m/freegames@feddit.uk) | [lemmyverse.link](https://lemmyverse.link/c/freegames@feddit.uk) | ![](https://img.shields.io/lemmy/freegames@feddit.uk?style=flat&label=Subs&color=pink)
 	- This is a place to post limited-time giveaways of full video games that are then yours to keep forever at no cost (i.e. this is _not_ for steam sales, free-to-play games, free weekends, competition giveaways, or free in-game items!)
 3. **[Game Deals](/c/gamedeals@lemmy.zip)** | lemmy.zip | [Kbin](/m/gamedeals@lemmy.zip) | [lemmyverse.link](https://lemmyverse.link/c/gamedeals@lemmy.zip) | ![](https://img.shields.io/lemmy/gamedeals@lemmy.zip?style=flat&label=Subs&color=pink)
@@ -72,11 +72,11 @@
 	- A Lemmy community dedicated to host video game giveaways.
 5. **[Humble Bundle](/c/humblebundle@lemmy.world)** | lemmy.world | [Kbin](/m/humblebundle@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/humblebundle@lemmy.world) | ![](https://img.shields.io/lemmy/humblebundle@lemmy.world?style=flat&label=Subs&color=pink)
 	- Unofficial community for the Humble Bundle website!
-## 5.7. Stores (2 communities)
+## 5.7. Stores 🛒 (2 communities)
 1. **[Steam](/c/steam@lemmy.ml)** | lemmy.ml | [Kbin](/m/steam@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/steam@lemmy.ml) | ![](https://img.shields.io/lemmy/steam@lemmy.ml?style=flat&label=Subs&color=pink)
-	- description
+	- NoDescription
 2. **[GOG](/c/gog@lemmy.world)** | lemmy.world | [Kbin](/m/gog@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/gog@lemmy.world) | ![](https://img.shields.io/lemmy/gog@lemmy.world?style=flat&label=Subs&color=pink)
-	- description
+	- NoDescription
 ## 5.8. General (15 communities)
 1. **[Games](/c/games@lemmy.world)** | lemmy.world | [Kbin](/m/games@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/games@lemmy.world) | ![](https://img.shields.io/lemmy/games@lemmy.world?style=flat&label=Subs&color=pink)
 	- Welcome to the largest gaming community on Lemmy! Discussion for all kinds of games. Video games, tabletop games, card games etc.
@@ -97,7 +97,7 @@
 9. **[Gaming](/c/gaming@lemmy.world)** | lemmy.world | [Kbin](/m/gaming@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/gaming@lemmy.world) | ![](https://img.shields.io/lemmy/gaming@lemmy.world?style=flat&label=Subs&color=pink)
 	- !gaming is a community for gaming noobs through gaming aficionados. Unlike !games, we don’t take ourselves quite as serious. Shitposts and memes are welcome.
 10. **[OpenSourceGames](/c/opensourcegames@lemmy.ml)** | lemmy.ml | [Kbin](/m/opensourcegames@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/opensourcegames@lemmy.ml) | ![](https://img.shields.io/lemmy/opensourcegames@lemmy.ml?style=flat&label=Subs&color=pink)
-	- description
+	- NoDescription
 11. **[Gaming](/c/gaming@lemmy.zip)** | lemmy.zip | [Kbin](/m/gaming@lemmy.zip) | [lemmyverse.link](https://lemmyverse.link/c/gaming@lemmy.zip) | ![](https://img.shields.io/lemmy/gaming@lemmy.zip?style=flat&label=Subs&color=pink)
 	- For news, discussions and memes!
 12. **[Indie Gaming](/c/indiegaming@lemmy.world)** | lemmy.world | [Kbin](/m/indiegaming@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/indiegaming@lemmy.world) | ![](https://img.shields.io/lemmy/indiegaming@lemmy.world?style=flat&label=Subs&color=pink)
@@ -108,3 +108,6 @@
 	- Welcome to Gyro Gaming subreddit, where people can share their passion for Gyroscopic Controls in Video Games, such as Camera Aiming, Vehicle Steering, Typing, etc.
 15. **[FPGA Gaming](/c/fpgagaming@kbin.social)** | kbin.social | [Kbin](/m/fpgagaming@kbin.social) | [lemmyverse.link](https://lemmyverse.link/c/fpgagaming@kbin.social) | ![](https://img.shields.io/mbin/fpgagaming@kbin.social?style=flat&label=Subs&color=pink)
 	- A fediverse community dedicated to gaming hardware, clone consoles, flashcarts, and other accessories based on field-programmable gate array (FPGA) and similar technology.
+
+
+### Previous page: [lemmyverse.link](https://lemmyverse.link/lemmy.dbzer0.com/post/22661395) [direct](https://lemmy.dbzer0.com/post/22661395)
