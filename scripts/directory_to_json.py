@@ -24,6 +24,9 @@ for file in files:
         communities[current_section][current_subsection] = {}
         communities[current_section][current_subsection][current_subsubsection] = []
       match = re.search("^## ([0-9]+\.)+ (.*)\s+\(", line)
+      if match is None:
+        # try without the (xx communities)
+        match = re.search("^## ([0-9]+\.)+ (.*)", line)
       if match is not None:
         print(f'  {match.group(2)}')
         current_subsection = match.group(2)
@@ -31,6 +34,9 @@ for file in files:
         communities[current_section][current_subsection] = {}
         communities[current_section][current_subsection][current_subsubsection] = []
       match = re.search("^### ([0-9]+\.)+ (.*)\s+\(", line)
+      if match is None:
+        # try without the (xx communities)
+        match = re.search("^### ([0-9]+\.)+ (.*)", line)
       if match is not None:
         print(f'    {match.group(2)}')
         current_subsubsection = match.group(2)
