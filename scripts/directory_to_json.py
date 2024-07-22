@@ -98,6 +98,16 @@ with open(f'{path}gaming-genres.json', 'w') as json_file:
 with open(f'{path}gaming-general.json', 'w') as json_file:
   json.dump(communities['Gaming']['General']['None'], json_file, indent=2)
 
+# Export Memes to file
+with open(f'{path}memes-general.json', 'w') as json_file:
+  json.dump(communities['Memes/Humoristic 🎭']['General']['None'], json_file, indent=2)
+with open(f'{path}memes-news.json', 'w') as json_file:
+  json.dump(communities['Memes/Humoristic 🎭']['News format']['None'], json_file, indent=2)
+with open(f'{path}memes-shows.json', 'w') as json_file:
+  json.dump(communities['Memes/Humoristic 🎭']['Show ']['None'], json_file, indent=2)
+with open(f'{path}memes-social.json', 'w') as json_file:
+  json.dump(communities['Memes/Humoristic 🎭']['Social media']['None'], json_file, indent=2)
+
 # Export a complete dump of the directory to a JSON file
 with open(f'{path}directory.json', 'w') as json_file:
   json.dump(communities, json_file, indent=2)
