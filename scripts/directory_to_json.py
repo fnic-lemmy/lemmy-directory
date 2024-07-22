@@ -105,6 +105,8 @@ with open(f'{path}memes-news.json', 'w') as json_file:
   json.dump(communities['Memes/Humoristic 🎭']['News format']['None'], json_file, indent=2)
 with open(f'{path}memes-shows.json', 'w') as json_file:
   json.dump(communities['Memes/Humoristic 🎭']['Show ']['None'], json_file, indent=2)
+with open(f'{path}memes-games.json', 'w') as json_file:
+  json.dump(communities['Memes/Humoristic 🎭']['Game']['None'], json_file, indent=2)
 with open(f'{path}memes-social.json', 'w') as json_file:
   json.dump(communities['Memes/Humoristic 🎭']['Social media']['None'], json_file, indent=2)
 
