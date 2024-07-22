@@ -3,7 +3,7 @@
 import re
 import json
 
-with open('directory.json', 'r') as json_file:
+with open('./lists/directory.json', 'r') as json_file:
   sections = json.load(json_file)
 
 for s in sections:
