@@ -95,7 +95,8 @@ with open(f'{path}gaming-platforms.json', 'w') as json_file:
   json.dump(communities['Gaming']['Platforms 🕹️']['None'], json_file, indent=2)
 with open(f'{path}gaming-genres.json', 'w') as json_file:
   json.dump(communities['Gaming']['Genres']['None'], json_file, indent=2)
-
+with open(f'{path}gaming-general.json', 'w') as json_file:
+  json.dump(communities['Gaming']['General']['None'], json_file, indent=2)
 
 # Export a complete dump of the directory to a JSON file
 with open(f'{path}directory.json', 'w') as json_file:
