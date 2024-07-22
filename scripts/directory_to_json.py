@@ -82,7 +82,7 @@ with open(f'{path}wallpapers.json', 'w') as json_file:
 
 # Export Animals to file
 with open(f'{path}animals.json', 'w') as json_file:
-  json.dump(communities['Animals 🐘']['None']['None'], json_file, indent=2)
+  json.dump(communities['Animals 🐘']['Misc']['None'], json_file, indent=2)
 
 # Export Music to file
 with open(f'{path}music.json', 'w') as json_file:
