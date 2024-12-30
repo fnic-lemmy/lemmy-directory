@@ -1,40 +1,42 @@
+
+
 # 5. Gaming (150 communities)
 ## 5.1. Platforms 🕹️ (18 communities)
 1. **[Steam Deck](/c/steamdeck@sopuli.xyz)** | sopuli.xyz | [Kbin](/m/steamdeck@sopuli.xyz) | [lemmyverse.link](https://lemmyverse.link/c/steamdeck@sopuli.xyz) | ![](https://img.shields.io/lemmy/steamdeck@sopuli.xyz?style=flat&label=Subs&color=pink)
 	- A place to discuss and support all things Steam Deck.
-2. **[PC Gaming](/c/pcgaming@lemmy.ca)** | lemmy.ca | [Kbin](/m/pcgaming@lemmy.ca) | [lemmyverse.link](https://lemmyverse.link/c/pcgaming@lemmy.ca) | ![](https://img.shields.io/lemmy/pcgaming@lemmy.ca?style=flat&label=Subs&color=pink)
+	1. (1.2.) **[Steam Deck](/c/steamdeck@lemmy.ml)** | lemmy.ml | [Kbin](/m/steamdeck@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/steamdeck@lemmy.ml) | ![](https://img.shields.io/lemmy/steamdeck@lemmy.ml?style=flat&label=Subs&color=pink)
+		- NoDescription
+1. **[PC Gaming](/c/pcgaming@lemmy.ca)** | lemmy.ca | [Kbin](/m/pcgaming@lemmy.ca) | [lemmyverse.link](https://lemmyverse.link/c/pcgaming@lemmy.ca) | ![](https://img.shields.io/lemmy/pcgaming@lemmy.ca?style=flat&label=Subs&color=pink)
 	- For PC gaming news and discussion.
-3. **[PCGaming](/c/pcgaming@lemmy.world)** | lemmy.world | [Kbin](/m/pcgaming@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/pcgaming@lemmy.world) | ![](https://img.shields.io/lemmy/pcgaming@lemmy.world?style=flat&label=Subs&color=pink)
-	- NoDescription
-4. **[Steam Deck](/c/steamdeck@lemmy.ml)** | lemmy.ml | [Kbin](/m/steamdeck@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/steamdeck@lemmy.ml) | ![](https://img.shields.io/lemmy/steamdeck@lemmy.ml?style=flat&label=Subs&color=pink)
-	- NoDescription
-5. **[Xbox](/c/xbox@lemmy.world)** | lemmy.world | [Kbin](/m/xbox@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/xbox@lemmy.world) | ![](https://img.shields.io/lemmy/xbox@lemmy.world?style=flat&label=Subs&color=pink)
+	1. (2.2.) **[PCGaming](/c/pcgaming@lemmy.world)** | lemmy.world | [Kbin](/m/pcgaming@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/pcgaming@lemmy.world) | ![](https://img.shields.io/lemmy/pcgaming@lemmy.world?style=flat&label=Subs&color=pink)
+		- NoDescription
+2. **[Xbox](/c/xbox@lemmy.world)** | lemmy.world | [Kbin](/m/xbox@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/xbox@lemmy.world) | ![](https://img.shields.io/lemmy/xbox@lemmy.world?style=flat&label=Subs&color=pink)
 	- An Xbox community for Lemmy!
-6. **[PlayStation](/c/playstation@lemmy.world)** | lemmy.world | [Kbin](/m/playstation@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/playstation@lemmy.world) | ![](https://img.shields.io/lemmy/playstation@lemmy.world?style=flat&label=Subs&color=pink)
+3. **[PlayStation](/c/playstation@lemmy.world)** | lemmy.world | [Kbin](/m/playstation@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/playstation@lemmy.world) | ![](https://img.shields.io/lemmy/playstation@lemmy.world?style=flat&label=Subs&color=pink)
 	- The PlayStation community for Lemmy! Come and join us for daily news and discussions!
-7. **[PlayStation | PS5](/c/ps5@lemmy.world)** | lemmy.world | [Kbin](/m/ps5@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/ps5@lemmy.world) | ![](https://img.shields.io/lemmy/ps5@lemmy.world?style=flat&label=Subs&color=pink)
-	- For All PlayStation and PS5 Content.
-8. **[Nintendo 3DS, 2DS and DS](/c/3ds@lemmy.world)** | lemmy.world | [Kbin](/m/3ds@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/3ds@lemmy.world) | ![](https://img.shields.io/lemmy/3ds@lemmy.world?style=flat&label=Subs&color=pink)
-	- Nintendo 3DS, DS, 2DS gaming handhelds, games, accessories, gear, hacks, history and community. Fun, memories and friends associated with them.
-9. **[Nintendo Switch](/c/switch@lemmy.ml)** | lemmy.ml | [Kbin](/m/switch@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/switch@lemmy.ml) | ![](https://img.shields.io/lemmy/switch@lemmy.ml?style=flat&label=Subs&color=pink)
-	- Community for stuff around the Nintendo Switch.
-10. **[SBC Gaming](/c/sbcgaming@lemmy.ml)** | lemmy.ml | [Kbin](/m/sbcgaming@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/sbcgaming@lemmy.ml) | ![](https://img.shields.io/lemmy/sbcgaming@lemmy.ml?style=flat&label=Subs&color=pink)
-	- SBC Gaming is for Single Board Computer aimed to play video-games, also called Retro Handhelds.
-11. **[DOS Gaming](/c/dosgaming@lemmy.world)** | lemmy.world | [Kbin](/m/dosgaming@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/dosgaming@lemmy.world) | ![](https://img.shields.io/lemmy/dosgaming@lemmy.world?style=flat&label=Subs&color=pink)
-	- This community covers DOS gaming from all angles - reviews, tips and tricks, new releases, troubleshooting, organizing multiplayer events and, of course, good ole nostalgia posts.
-12. **[MS-DOS gaming](/c/dosgaming@retrolemmy.com)** | retrolemmy.com | [Kbin](/m/dosgaming@retrolemmy.com) | [lemmyverse.link](https://lemmyverse.link/c/dosgaming@retrolemmy.com) | ![](https://img.shields.io/lemmy/dosgaming@retrolemmy.com?style=flat&label=Subs&color=pink)
-	- A place to discuss anything DOS related. From DOSBox to actual retro hardware and FPGA emulation. From old games and software to new running on DOS. We also allow source ports of games originally on DOS.
-13. **[Amiga](/c/amiga@sopuli.xyz)** | sopuli.xyz | [Kbin](/m/amiga@sopuli.xyz) | [lemmyverse.link](https://lemmyverse.link/c/amiga@sopuli.xyz) | ![](https://img.shields.io/lemmy/amiga@sopuli.xyz?style=flat&label=Subs&color=pink)
-	- Community for all things Commodore Amiga related.
-14. **[PlayStation](/c/playstation@lemmy.zip)** | lemmy.zip | [Kbin](/m/playstation@lemmy.zip) | [lemmyverse.link](https://lemmyverse.link/c/playstation@lemmy.zip) | ![](https://img.shields.io/lemmy/playstation@lemmy.zip?style=flat&label=Subs&color=pink)
+	1. (3.2.) **[PlayStation | PS5](/c/ps5@lemmy.world)** | lemmy.world | [Kbin](/m/ps5@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/ps5@lemmy.world) | ![](https://img.shields.io/lemmy/ps5@lemmy.world?style=flat&label=Subs&color=pink)
+		- For All PlayStation and PS5 Content.
+	2. (3.3.) **[PlayStation](/c/playstation@lemmy.zip)** | lemmy.zip | [Kbin](/m/playstation@lemmy.zip) | [lemmyverse.link](https://lemmyverse.link/c/playstation@lemmy.zip) | ![](https://img.shields.io/lemmy/playstation@lemmy.zip?style=flat&label=Subs&color=pink)
 	- A community for discussing all things PlayStation.
-15. **[iOSGaming](/c/iosgaming@lemmy.ml)** | lemmy.ml | [Kbin](/m/iosgaming@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/iosgaming@lemmy.ml) | ![](https://img.shields.io/lemmy/iosgaming@lemmy.ml?style=flat&label=Subs&color=pink)
+1. **[Nintendo 3DS, 2DS and DS](/c/3ds@lemmy.world)** | lemmy.world | [Kbin](/m/3ds@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/3ds@lemmy.world) | ![](https://img.shields.io/lemmy/3ds@lemmy.world?style=flat&label=Subs&color=pink)
+	- Nintendo 3DS, DS, 2DS gaming handhelds, games, accessories, gear, hacks, history and community. Fun, memories and friends associated with them.
+2. **[Nintendo Switch](/c/switch@lemmy.ml)** | lemmy.ml | [Kbin](/m/switch@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/switch@lemmy.ml) | ![](https://img.shields.io/lemmy/switch@lemmy.ml?style=flat&label=Subs&color=pink)
+	- Community for stuff around the Nintendo Switch.
+3. **[SBC Gaming](/c/sbcgaming@lemmy.ml)** | lemmy.ml | [Kbin](/m/sbcgaming@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/sbcgaming@lemmy.ml) | ![](https://img.shields.io/lemmy/sbcgaming@lemmy.ml?style=flat&label=Subs&color=pink)
+	- SBC Gaming is for Single Board Computer aimed to play video-games, also called Retro Handhelds.
+4. **[DOS Gaming](/c/dosgaming@lemmy.world)** | lemmy.world | [Kbin](/m/dosgaming@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/dosgaming@lemmy.world) | ![](https://img.shields.io/lemmy/dosgaming@lemmy.world?style=flat&label=Subs&color=pink)
+	- This community covers DOS gaming from all angles - reviews, tips and tricks, new releases, troubleshooting, organizing multiplayer events and, of course, good ole nostalgia posts.
+5. **[MS-DOS gaming](/c/dosgaming@retrolemmy.com)** | retrolemmy.com | [Kbin](/m/dosgaming@retrolemmy.com) | [lemmyverse.link](https://lemmyverse.link/c/dosgaming@retrolemmy.com) | ![](https://img.shields.io/lemmy/dosgaming@retrolemmy.com?style=flat&label=Subs&color=pink)
+	- A place to discuss anything DOS related. From DOSBox to actual retro hardware and FPGA emulation. From old games and software to new running on DOS. We also allow source ports of games originally on DOS.
+6. **[Amiga](/c/amiga@sopuli.xyz)** | sopuli.xyz | [Kbin](/m/amiga@sopuli.xyz) | [lemmyverse.link](https://lemmyverse.link/c/amiga@sopuli.xyz) | ![](https://img.shields.io/lemmy/amiga@sopuli.xyz?style=flat&label=Subs&color=pink)
+	- Community for all things Commodore Amiga related.
+7. **[iOSGaming](/c/iosgaming@lemmy.ml)** | lemmy.ml | [Kbin](/m/iosgaming@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/iosgaming@lemmy.ml) | ![](https://img.shields.io/lemmy/iosgaming@lemmy.ml?style=flat&label=Subs&color=pink)
 	- iOS Gaming News, Discussion and Recommendations.
-16. **[Commodore 64](/c/c64@lemmy.world)** | lemmy.world | [Kbin](/m/c64@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/c64@lemmy.world) | ![](https://img.shields.io/lemmy/c64@lemmy.world?style=flat&label=Subs&color=pink)
+8. **[Commodore 64](/c/c64@lemmy.world)** | lemmy.world | [Kbin](/m/c64@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/c64@lemmy.world) | ![](https://img.shields.io/lemmy/c64@lemmy.world?style=flat&label=Subs&color=pink)
 	- A place for people all over the world to discuss the best personal computer of all time - the Commodore 64!
-17. **[Atari 8bit](/c/atari@lemmy.sdf.org)** | lemmy.sdf.org | [Kbin](/m/atari@lemmy.sdf.org) | [lemmyverse.link](https://lemmyverse.link/c/atari@lemmy.sdf.org) | ![](https://img.shields.io/lemmy/atari@lemmy.sdf.org?style=flat&label=Subs&color=pink)
+9. **[Atari 8bit](/c/atari@lemmy.sdf.org)** | lemmy.sdf.org | [Kbin](/m/atari@lemmy.sdf.org) | [lemmyverse.link](https://lemmyverse.link/c/atari@lemmy.sdf.org) | ![](https://img.shields.io/lemmy/atari@lemmy.sdf.org?style=flat&label=Subs&color=pink)
 	- Community covering everything Atari 8bit.
-18. **[Commodore Plus/4](/c/plus4@retrolemmy.com)** | retrolemmy.com | [Kbin](/m/plus4@retrolemmy.com) | [lemmyverse.link](https://lemmyverse.link/c/plus4@retrolemmy.com) | ![](https://img.shields.io/lemmy/plus4@retrolemmy.com?style=flat&label=Subs&color=pink)
+10. **[Commodore Plus/4](/c/plus4@retrolemmy.com)** | retrolemmy.com | [Kbin](/m/plus4@retrolemmy.com) | [lemmyverse.link](https://lemmyverse.link/c/plus4@retrolemmy.com) | ![](https://img.shields.io/lemmy/plus4@retrolemmy.com?style=flat&label=Subs&color=pink)
 	- Commodore 16 and Plus/4 community.
 ## 5.2. Games 🎮 (74 communities)
 1. **[Baldur's Gate 3](/c/baldurs_gate_3@lemmy.world)** | lemmy.world | [Kbin](/m/baldurs_gate_3@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/baldurs_gate_3@lemmy.world) | ![](https://img.shields.io/lemmy/baldurs_gate_3@lemmy.world?style=flat&label=Subs&color=pink)
@@ -185,7 +187,7 @@
 	- Lemmy page for XDefiant, a free-to-play, fast paced, arena shooter that combines intense gameplay with personalized loadouts and specialized factions, as team of gunfighters - called Defiants - battle for domination.
 74. **[Arknights](/c/arknights@kbin.social)** | kbin.social | [Kbin](/m/arknights@kbin.social) | [lemmyverse.link](https://lemmyverse.link/c/arknights@kbin.social) | ![](https://img.shields.io/lemmy/arknights@kbin.social?style=flat&label=Subs&color=pink)
 	- Arknights is a free-to-play mobile Tower Defense gacha game developed by Hypergryph.
-### 5.2.1. Mini-Games (6 communities) (temporary name)
+### 5.2.1. Casual Games (6 communities)
 1. **[crossword](/c/crossword@lemmy.world)** | lemmy.world | [Kbin](/m/crossword@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/crossword@lemmy.world) | ![](https://img.shields.io/lemmy/crossword@lemmy.world?style=flat&label=Subs&color=pink)
 	- For crossword enthusiasts.
 2. **[Wordle](/c/wordle@lemmy.world)** | lemmy.world | [Kbin](/m/wordle@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/wordle@lemmy.world) | ![](https://img.shields.io/lemmy/wordle@lemmy.world?style=flat&label=Subs&color=pink)
@@ -198,7 +200,21 @@
 	- Share your New York Times Connections result in the daily post.
 6. **[NYT Strands](/c/nytstrands@lemmy.world)** | lemmy.world | [Kbin](/m/nytstrands@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/nytstrands@lemmy.world) | ![](https://img.shields.io/lemmy/nytstrands@lemmy.world?style=flat&label=Subs&color=pink)
 	- Share your New York Times Strands result in the daily post.
-
 ### Previous page: [lemmyverse.link](https://lemmyverse.link/lemmy.dbzer0.com/post/22581840) [direct](https://lemmy.dbzer0.com/post/22581840)
 
 ### Next page: [lemmyverse.link](https://lemmyverse.link/lemmy.dbzer0.com/post/22662406) [direct](https://lemmy.dbzer0.com/post/22662406)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
