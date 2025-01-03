@@ -9,15 +9,14 @@
 8. **[Baseball](/c/baseball@fanaticus.social)** | fanaticus.social | [Kbin](/m/baseball@fanaticus.social) | [lemmyverse.link](https://lemmyverse.link/c/baseball@fanaticus.social) | ![](https://img.shields.io/lemmy/baseball@fanaticus.social?style=flat&label=Subs&color=pink)
 9. **[Philadelphia Eagles](/c/eagles@lemmy.world)** | lemmy.world | [Kbin](/m/eagles@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/eagles@lemmy.world) | ![](https://img.shields.io/lemmy/eagles@lemmy.world?style=flat&label=Subs&color=pink)
 10. **[Toronto Maple Leafs](/c/leaf_nation@lemmy.ca)** | lemmy.ca | [Kbin](/m/leaf_nation@lemmy.ca) | [lemmyverse.link](https://lemmyverse.link/c/leaf_nation@lemmy.ca) | ![](https://img.shields.io/lemmy/leaf_nation@lemmy.ca?style=flat&label=Subs&color=pink)
-11. **[MLB](/c/mlb@lemmy.world)** | lemmy.world | [Kbin](/m/mlb@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/mlb@lemmy.world) | ![](https://img.shields.io/lemmy/mlb@lemmy.world?style=flat&label=Subs&color=pink)
-12. **[Los Angeles Lakers](/c/lakers@lemmy.world)** | lemmy.world | [Kbin](/m/lakers@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/lakers@lemmy.world) | ![](https://img.shields.io/lemmy/lakers@lemmy.world?style=flat&label=Subs&color=pink)
-13. **[Philadelphia Phillies](/c/phillies@lemmy.world)** | lemmy.world | [Kbin](/m/phillies@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/phillies@lemmy.world) | ![](https://img.shields.io/lemmy/phillies@lemmy.world?style=flat&label=Subs&color=pink)
-14. **[SquaredCircle](/c/squaredcircle@lemmy.zip)** | lemmy.zip | [Kbin](/m/squaredcircle@lemmy.zip) | [lemmyverse.link](https://lemmyverse.link/c/squaredcircle@lemmy.zip) | ![](https://img.shields.io/lemmy/squaredcircle@lemmy.zip?style=flat&label=Subs&color=pink)
+11. **[SquaredCircle](/c/squaredcircle@lemmy.zip)** | lemmy.zip | [Kbin](/m/squaredcircle@lemmy.zip) | [lemmyverse.link](https://lemmyverse.link/c/squaredcircle@lemmy.zip) | ![](https://img.shields.io/lemmy/squaredcircle@lemmy.zip?style=flat&label=Subs&color=pink)
+12. **[MLB](/c/mlb@lemmy.world)** | lemmy.world | [Kbin](/m/mlb@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/mlb@lemmy.world) | ![](https://img.shields.io/lemmy/mlb@lemmy.world?style=flat&label=Subs&color=pink)
+13. **[Los Angeles Lakers](/c/lakers@lemmy.world)** | lemmy.world | [Kbin](/m/lakers@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/lakers@lemmy.world) | ![](https://img.shields.io/lemmy/lakers@lemmy.world?style=flat&label=Subs&color=pink)
+14. **[Philadelphia Phillies](/c/phillies@lemmy.world)** | lemmy.world | [Kbin](/m/phillies@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/phillies@lemmy.world) | ![](https://img.shields.io/lemmy/phillies@lemmy.world?style=flat&label=Subs&color=pink)
 15. **[Chicago Bulls](/c/chicagobulls@lemmy.world)** | lemmy.world | [Kbin](/m/chicagobulls@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/chicagobulls@lemmy.world) | ![](https://img.shields.io/lemmy/chicagobulls@lemmy.world?style=flat&label=Subs&color=pink)
 16. **[Minnesota Timberwolves](/c/timberwolves@lemmy.world)** | lemmy.world | [Kbin](/m/timberwolves@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/timberwolves@lemmy.world) | ![](https://img.shields.io/lemmy/timberwolves@lemmy.world?style=flat&label=Subs&color=pink)
 17. **[Major League Rugby](/c/usmlr@lemmy.world)** | lemmy.world | [Kbin](/m/usmlr@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/usmlr@lemmy.world) | ![](https://img.shields.io/lemmy/usmlr@lemmy.world?style=flat&label=Subs&color=pink)
-18. **[Pro Wrestling](/c/prowrestling@lemmy.ca)** | lemmy.ca | [Kbin](/m/prowrestling@lemmy.ca) | [lemmyverse.link](https://lemmyverse.link/c/prowrestling@lemmy.ca) | ![](https://img.shields.io/lemmy/prowrestling@lemmy.ca?style=flat&label=Subs&color=pink)
-19. **[soccergoals](/c/soccergoals@lemmy.world)** | lemmy.world | [Kbin](/m/soccergoals@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/soccergoals@lemmy.world) | ![](https://img.shields.io/lemmy/soccergoals@lemmy.world?style=flat&label=Subs&color=pink)
+18. **[soccergoals](/c/soccergoals@lemmy.world)** | lemmy.world | [Kbin](/m/soccergoals@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/soccergoals@lemmy.world) | ![](https://img.shields.io/lemmy/soccergoals@lemmy.world?style=flat&label=Subs&color=pink)
 
 
 
@@ -44,8 +43,8 @@
 7. **[The Owl House](/c/theowlhouse@lemmy.world)** | lemmy.world | [Kbin](/m/theowlhouse@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/theowlhouse@lemmy.world) | ![](https://img.shields.io/lemmy/theowlhouse@lemmy.world?style=flat&label=Subs&color=pink)
 8. **[Adventure Time](/c/adventuretime@sopuli.xyz)** | sopuli.xyz | [Kbin](/m/adventuretime@sopuli.xyz) | [lemmyverse.link](https://lemmyverse.link/c/adventuretime@sopuli.xyz) | ![](https://img.shields.io/lemmy/adventuretime@sopuli.xyz?style=flat&label=Subs&color=pink)
 9. **[Teenage Mutant Ninja Turtles](/c/tmnt@lemmy.world)** | lemmy.world | [Kbin](/m/tmnt@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/tmnt@lemmy.world) | ![](https://img.shields.io/lemmy/tmnt@lemmy.world?style=flat&label=Subs&color=pink)
-10. **[Survivor](/c/survivor@lemmy.world)** | lemmy.world | [Kbin](/m/survivor@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/survivor@lemmy.world) | ![](https://img.shields.io/lemmy/survivor@lemmy.world?style=flat&label=Subs&color=pink)
-11. **[Doctor Who](/c/doctorwho@startrek.website)** | startrek.website | [Kbin](/m/doctorwho@startrek.website) | [lemmyverse.link](https://lemmyverse.link/c/doctorwho@startrek.website) | ![](https://img.shields.io/lemmy/doctorwho@startrek.website?style=flat&label=Subs&color=pink)
+10. **[Doctor Who](/c/doctorwho@startrek.website)** | startrek.website | [Kbin](/m/doctorwho@startrek.website) | [lemmyverse.link](https://lemmyverse.link/c/doctorwho@startrek.website) | ![](https://img.shields.io/lemmy/doctorwho@startrek.website?style=flat&label=Subs&color=pink)
+11. **[Survivor](/c/survivor@lemmy.world)** | lemmy.world | [Kbin](/m/survivor@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/survivor@lemmy.world) | ![](https://img.shields.io/lemmy/survivor@lemmy.world?style=flat&label=Subs&color=pink)
 12. **[The Boys](/c/theboys@discuss.online)** | discuss.online | [Kbin](/m/theboys@discuss.online) | [lemmyverse.link](https://lemmyverse.link/c/theboys@discuss.online) | ![](https://img.shields.io/lemmy/theboys@discuss.online?style=flat&label=Subs&color=pink)
 13. **[Smiling Friends](/c/smilingfriends@adultswim.fan)** | adultswim.fan | [Kbin](/m/smilingfriends@adultswim.fan) | [lemmyverse.link](https://lemmyverse.link/c/smilingfriends@adultswim.fan) | ![](https://img.shields.io/lemmy/smilingfriends@adultswim.fan?style=flat&label=Subs&color=pink)
 
@@ -84,31 +83,31 @@
 	- description
 16. **[Arctic](/c/arctic@lemmy.world)** | lemmy.world | [Kbin](/m/arctic@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/arctic@lemmy.world) | ![](https://img.shields.io/lemmy/arctic@lemmy.world?style=flat&label=Subs&color=pink)
 	- description
-17. **[Lemmy Moderation Tools](/c/lemmy_mod_tools@discuss.online)** | discuss.online | [Kbin](/m/lemmy_mod_tools@discuss.online) | [lemmyverse.link](https://lemmyverse.link/c/lemmy_mod_tools@discuss.online) | ![](https://img.shields.io/lemmy/lemmy_mod_tools@discuss.online?style=flat&label=Subs&color=pink)
+17. **[Sublinks](/c/sublinks@discuss.online)** | discuss.online | [Kbin](/m/sublinks@discuss.online) | [lemmyverse.link](https://lemmyverse.link/c/sublinks@discuss.online) | ![](https://img.shields.io/lemmy/sublinks@discuss.online?style=flat&label=Subs&color=pink)
 	- description
-18. **[Sublinks](/c/sublinks@discuss.online)** | discuss.online | [Kbin](/m/sublinks@discuss.online) | [lemmyverse.link](https://lemmyverse.link/c/sublinks@discuss.online) | ![](https://img.shields.io/lemmy/sublinks@discuss.online?style=flat&label=Subs&color=pink)
+18. **[Lemmy Moderation Tools](/c/lemmy_mod_tools@discuss.online)** | discuss.online | [Kbin](/m/lemmy_mod_tools@discuss.online) | [lemmyverse.link](https://lemmyverse.link/c/lemmy_mod_tools@discuss.online) | ![](https://img.shields.io/lemmy/lemmy_mod_tools@discuss.online?style=flat&label=Subs&color=pink)
 	- description
-19. **[Lost Lemmings](/c/lostlemmys@lemmy.world)** | lemmy.world | [Kbin](/m/lostlemmys@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/lostlemmys@lemmy.world) | ![](https://img.shields.io/lemmy/lostlemmys@lemmy.world?style=flat&label=Subs&color=pink)
+19. **[Announcements](/c/announcements@discuss.online)** | discuss.online | [Kbin](/m/announcements@discuss.online) | [lemmyverse.link](https://lemmyverse.link/c/announcements@discuss.online) | ![](https://img.shields.io/lemmy/announcements@discuss.online?style=flat&label=Subs&color=pink)
 	- description
-20. **[Announcements](/c/announcements@discuss.online)** | discuss.online | [Kbin](/m/announcements@discuss.online) | [lemmyverse.link](https://lemmyverse.link/c/announcements@discuss.online) | ![](https://img.shields.io/lemmy/announcements@discuss.online?style=flat&label=Subs&color=pink)
+20. **[Lost Lemmings](/c/lostlemmys@lemmy.world)** | lemmy.world | [Kbin](/m/lostlemmys@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/lostlemmys@lemmy.world) | ![](https://img.shields.io/lemmy/lostlemmys@lemmy.world?style=flat&label=Subs&color=pink)
 	- description
-21. **[Discover new communities](/c/newcommunities@discuss.online)** | discuss.online | [Kbin](/m/newcommunities@discuss.online) | [lemmyverse.link](https://lemmyverse.link/c/newcommunities@discuss.online) | ![](https://img.shields.io/lemmy/newcommunities@discuss.online?style=flat&label=Subs&color=pink)
+21. **[To The Fediverse](/c/fediverse@discuss.online)** | discuss.online | [Kbin](/m/fediverse@discuss.online) | [lemmyverse.link](https://lemmyverse.link/c/fediverse@discuss.online) | ![](https://img.shields.io/lemmy/fediverse@discuss.online?style=flat&label=Subs&color=pink)
 	- description
-22. **[To The Fediverse](/c/fediverse@discuss.online)** | discuss.online | [Kbin](/m/fediverse@discuss.online) | [lemmyverse.link](https://lemmyverse.link/c/fediverse@discuss.online) | ![](https://img.shields.io/lemmy/fediverse@discuss.online?style=flat&label=Subs&color=pink)
+22. **[Discover new communities](/c/newcommunities@discuss.online)** | discuss.online | [Kbin](/m/newcommunities@discuss.online) | [lemmyverse.link](https://lemmyverse.link/c/newcommunities@discuss.online) | ![](https://img.shields.io/lemmy/newcommunities@discuss.online?style=flat&label=Subs&color=pink)
 	- description
-23. **[raccoonforlemmy](/c/raccoonforlemmy@lemmy.world)** | lemmy.world | [Kbin](/m/raccoonforlemmy@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/raccoonforlemmy@lemmy.world) | ![](https://img.shields.io/lemmy/raccoonforlemmy@lemmy.world?style=flat&label=Subs&color=pink)
+23. **[Lemmy Directory](/c/lemmydirectory@lemmy.dbzer0.com)** | lemmy.dbzer0.com | [Kbin](/m/lemmydirectory@lemmy.dbzer0.com) | [lemmyverse.link](https://lemmyverse.link/c/lemmydirectory@lemmy.dbzer0.com) | ![](https://img.shields.io/lemmy/lemmydirectory@lemmy.dbzer0.com?style=flat&label=Subs&color=pink)
 	- description
 24. **[New Here](/c/new_here@discuss.online)** | discuss.online | [Kbin](/m/new_here@discuss.online) | [lemmyverse.link](https://lemmyverse.link/c/new_here@discuss.online) | ![](https://img.shields.io/lemmy/new_here@discuss.online?style=flat&label=Subs&color=pink)
 	- description
-25. **[Test](/c/test@discuss.tchncs.de)** | discuss.tchncs.de | [Kbin](/m/test@discuss.tchncs.de) | [lemmyverse.link](https://lemmyverse.link/c/test@discuss.tchncs.de) | ![](https://img.shields.io/lemmy/test@discuss.tchncs.de?style=flat&label=Subs&color=pink)
+25. **[Leminal Space](/c/leminalspace@leminal.space)** | leminal.space | [Kbin](/m/leminalspace@leminal.space) | [lemmyverse.link](https://lemmyverse.link/c/leminalspace@leminal.space) | ![](https://img.shields.io/lemmy/leminalspace@leminal.space?style=flat&label=Subs&color=pink)
 	- description
-26. **[Leminal Space](/c/leminalspace@leminal.space)** | leminal.space | [Kbin](/m/leminalspace@leminal.space) | [lemmyverse.link](https://lemmyverse.link/c/leminalspace@leminal.space) | ![](https://img.shields.io/lemmy/leminalspace@leminal.space?style=flat&label=Subs&color=pink)
+26. **[Test](/c/test@discuss.tchncs.de)** | discuss.tchncs.de | [Kbin](/m/test@discuss.tchncs.de) | [lemmyverse.link](https://lemmyverse.link/c/test@discuss.tchncs.de) | ![](https://img.shields.io/lemmy/test@discuss.tchncs.de?style=flat&label=Subs&color=pink)
 	- description
-27. **[Sublinks Support](/c/sublinks_support@discuss.online)** | discuss.online | [Kbin](/m/sublinks_support@discuss.online) | [lemmyverse.link](https://lemmyverse.link/c/sublinks_support@discuss.online) | ![](https://img.shields.io/lemmy/sublinks_support@discuss.online?style=flat&label=Subs&color=pink)
+27. **[raccoonforlemmy](/c/raccoonforlemmy@lemmy.world)** | lemmy.world | [Kbin](/m/raccoonforlemmy@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/raccoonforlemmy@lemmy.world) | ![](https://img.shields.io/lemmy/raccoonforlemmyapp@lemmy.world?style=flat&label=Subs&color=pink)
 	- description
-28. **[Tesseract for Sublinks/Lemmy](/c/tesseract@dubvee.org)** | dubvee.org | [Kbin](/m/tesseract@dubvee.org) | [lemmyverse.link](https://lemmyverse.link/c/tesseract@dubvee.org) | ![](https://img.shields.io/lemmy/tesseract@dubvee.org?style=flat&label=Subs&color=pink)
+28. **[Sublinks Support](/c/sublinks_support@discuss.online)** | discuss.online | [Kbin](/m/sublinks_support@discuss.online) | [lemmyverse.link](https://lemmyverse.link/c/sublinks_support@discuss.online) | ![](https://img.shields.io/lemmy/sublinks_support@discuss.online?style=flat&label=Subs&color=pink)
 	- description
-29. **[Lemmy Directory](/c/lemmydirectory@lemmy.dbzer0.com)** | lemmy.dbzer0.com | [Kbin](/m/lemmydirectory@lemmy.dbzer0.com) | [lemmyverse.link](https://lemmyverse.link/c/lemmydirectory@lemmy.dbzer0.com) | ![](https://img.shields.io/lemmy/lemmydirectory@lemmy.dbzer0.com?style=flat&label=Subs&color=pink)
+29. **[Tesseract for Sublinks/Lemmy](/c/tesseract@dubvee.org)** | dubvee.org | [Kbin](/m/tesseract@dubvee.org) | [lemmyverse.link](https://lemmyverse.link/c/tesseract@dubvee.org) | ![](https://img.shields.io/lemmy/tesseract@dubvee.org?style=flat&label=Subs&color=pink)
 	- description
 30. **[Save The Echo Bunker!](/c/savetheechobunker@lemmy.world)** | lemmy.world | [Kbin](/m/savetheechobunker@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/savetheechobunker@lemmy.world) | ![](https://img.shields.io/lemmy/savetheechobunker@lemmy.world?style=flat&label=Subs&color=pink)
 	- description
@@ -117,8 +116,3 @@
 	- Concise, consistent, and legible badges in SVG and raster format.
 2. lemmyverse.link | LemmyAutoTldrBot | LemmyCommunityLinkFixer | LemmySchedule https://github.com/sponsors/RikudouSage
 	- Open source is one of my hobbies and I like to contribute to it and create my own libraries. If you use and like my libraries, I would appreciate if you send me a dollar to buy a coffee. :)
-
-
-
-
-
