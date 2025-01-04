@@ -1,3 +1,4 @@
+### Pages: | [0 ](https://lemmy.dbzer0.com/post/22878561) | [1 ](https://lemmy.dbzer0.com/post/22014843) | [2 ](https://lemmy.dbzer0.com/post/22390186) | [3 ](https://lemmy.dbzer0.com/post/22581840) | [4 ](https://lemmy.dbzer0.com/post/22661395) |[5]| (Direct links.) | [0 ](https://lemmyverse.link/lemmy.dbzer0.com/post/22878561) | [1 ](https://lemmyverse.link/lemmy.dbzer0.com/post/22014843) | [2 ](https://lemmyverse.link/lemmy.dbzer0.com/post/22390186) | [3 ](https://lemmyverse.link/lemmy.dbzer0.com/post/22581840) | [4 ](https://lemmyverse.link/lemmy.dbzer0.com/post/22661395) |[5]| (Lemmyverse.link)
 ```
 5.3. Engines (4 communities)
 5.4. Genres (17 communities) [Day 14]
@@ -104,4 +105,3 @@
 	- A place to talk all about indie games, current and upcoming ones. Devs are welcomed to share what they are working on!
 7. **[Gyro Gaming](/c/gyrogaming@lemmy.world)** | lemmy.world | [Kbin](/m/gyrogaming@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/gyrogaming@lemmy.world) | ![](https://img.shields.io/lemmy/gyrogaming@lemmy.world?style=flat&label=Subs&color=pink)
 	- Welcome to Gyro Gaming subreddit, where people can share their passion for Gyroscopic Controls in Video Games, such as Camera Aiming, Vehicle Steering, Typing, etc.
-### Previous page: [lemmyverse.link](https://lemmyverse.link/lemmy.dbzer0.com/post/22661395) [direct](https://lemmy.dbzer0.com/post/22661395)
