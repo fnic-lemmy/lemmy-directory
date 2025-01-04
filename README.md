@@ -5,7 +5,7 @@
 ⭐ = Official community for a project or person.
 
 🤖 = Community that's mostly maintained by a bot account/s.
-# Directory (xxx communities)
+# Directory (498 communities)
 
 # 1. Art (199 communities)
 ## 1.1. Imaginary Network 💭 (27 communities)
