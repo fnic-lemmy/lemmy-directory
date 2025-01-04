@@ -7,7 +7,7 @@
 	- NoDescription
 4. **[Bevy](/c/bevy@programming.dev)** | programming.dev | [Kbin](/m/bevy@programming.dev) | [lemmyverse.link](https://lemmyverse.link/c/bevy@programming.dev) | ![](https://img.shields.io/lemmy/bevy@programming.dev?style=flat&label=Subs&color=pink)
 	- A community for discussion around the bevy game engine! [https://bevyengine.org/](https://bevyengine.org/)
-## 5.4. Genres (17 communities)
+## 5.4. Genres (17 communities) [Day 14]
 1. **[Adventure / Point-and-Click / Narrative Games](/c/adventuregames@lemm.ee)** | lemm.ee | [Kbin](/m/adventuregames@lemm.ee) | [lemmyverse.link](https://lemmyverse.link/c/adventuregames@lemm.ee) | ![](https://img.shields.io/lemmy/adventuregames@lemm.ee?style=flat&label=Subs&color=pink)
 	- A community for fans, devs, and general aficionados of the adventure game genre. This includes IF/parser games, point-and-click games, puzzle games, walking simulators, and whatever else you want to call these. To us, they’re simply adventure games.
 2. (2.1.) **[World of JRPG's](/c/jrpg@lemmy.zip)** | lemmy.zip | [Kbin](/m/jrpg@lemmy.zip) | [lemmyverse.link](https://lemmyverse.link/c/jrpg@lemmy.zip) | ![](https://img.shields.io/lemmy/jrpg@lemmy.zip?style=flat&label=Subs&color=pink) (2 communities)
@@ -67,7 +67,7 @@
 	- NoDescription
 2. **[GOG](/c/gog@lemmy.world)** | lemmy.world | [Kbin](/m/gog@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/gog@lemmy.world) | ![](https://img.shields.io/lemmy/gog@lemmy.world?style=flat&label=Subs&color=pink)
 	- NoDescription
-## 5.8. General (14 communities)
+## 5.8. General (14 communities) [Day 21]
 1. (1.1.) **[Games](/c/games@lemmy.world)** | lemmy.world | [Kbin](/m/games@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/games@lemmy.world) | ![](https://img.shields.io/lemmy/games@lemmy.world?style=flat&label=Subs&color=pink) (6 communities)
 	- Welcome to the largest gaming community on Lemmy! Discussion for all kinds of games. Video games, tabletop games, card games etc.
 	1. (1.2.) **[Gaming](/c/gaming@lemmy.ml)** | lemmy.ml | [Kbin](/m/gaming@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/gaming@lemmy.ml) | ![](https://img.shields.io/lemmy/gaming@lemmy.ml?style=flat&label=Subs&color=plum)
