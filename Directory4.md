@@ -1,3 +1,4 @@
+### Pages: | [0 ](https://lemmy.dbzer0.com/post/22878561) | [1 ](https://lemmy.dbzer0.com/post/22014843) | [2 ](https://lemmy.dbzer0.com/post/22390186) | [3 ](https://lemmy.dbzer0.com/post/22581840) |[4]| [5 ](https://lemmy.dbzer0.com/post/22662406) | (Direct links.) | [0 ](https://lemmyverse.link/lemmy.dbzer0.com/post/22878561) | [1 ](https://lemmyverse.link/lemmy.dbzer0.com/post/22014843) | [2 ](https://lemmyverse.link/lemmy.dbzer0.com/post/22390186) | [3 ](https://lemmyverse.link/lemmy.dbzer0.com/post/22581840) |[4]| [5 ](https://lemmyverse.link/lemmy.dbzer0.com/post/22662406) | (Lemmyverse.link)
 ```
 5. Gaming (143 communities)
 5.1. Platforms 🕹️ (18 communities) [Day 7]
@@ -204,6 +205,3 @@
 	- Share your New York Times Connections result in the daily post.
 6. **[NYT Strands](/c/nytstrands@lemmy.world)** | lemmy.world | [Kbin](/m/nytstrands@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/nytstrands@lemmy.world) | ![](https://img.shields.io/lemmy/nytstrands@lemmy.world?style=flat&label=Subs&color=pink)
 	- Share your New York Times Strands result in the daily post.
-### Previous page: [lemmyverse.link](https://lemmyverse.link/lemmy.dbzer0.com/post/22581840) [direct](https://lemmy.dbzer0.com/post/22581840)
-
-### Next page: [lemmyverse.link](https://lemmyverse.link/lemmy.dbzer0.com/post/22662406) [direct](https://lemmy.dbzer0.com/post/22662406)
