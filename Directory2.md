@@ -1,3 +1,11 @@
+```
+1.5. Photography 📷 (26 communities) [Day 22]
+1.6. Themes 🖼️ (9 communities) [Day 5]
+1.7. Comics 🗯️ (21 communities) [Day 15]
+1.8. Writing/Reading 📖 (4 communities)
+1.9. AI 🤖 (6 communities) [Day 12]
+1.10. Wallpapers 🌇 (8 communities) [Day 19]
+```
 ## 1.5. Photography 📷 (26 communities) [Day 22]
 1. **[Pics](/c/pics@lemmy.world)** | lemmy.world | [Kbin](/m/pics@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/pics@lemmy.world) | ![](https://img.shields.io/lemmy/pics@lemmy.world?style=flat&label=Subs&color=pink)
 	- NoDescription
