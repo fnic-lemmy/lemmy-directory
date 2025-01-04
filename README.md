@@ -2,8 +2,6 @@
 
 🔒 = Locked community where only mods can create posts.
 
-📌 = Community pinned to the top of it's section for one reason or another.
-
 ⭐ = Official community for a project or person.
 
 # Directory (xxx communities)
