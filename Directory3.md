@@ -108,7 +108,7 @@
 	- Not for serious conspiracies that anyone actually takes seriously. Ex it should be basically jokes, like [birds aren’t real](https://en.wikipedia.org/wiki/Birds_Aren't_Real).
 54. **[Church of Ned](/c/churchofned@lemmy.world)** | lemmy.world | [Kbin](/m/churchofned@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/churchofned@lemmy.world) | ![](https://img.shields.io/lemmy/churchofned@lemmy.world?style=flat&label=Subs&color=pink)
 	- Before you post here, ask yourself, "What Would Ned Do?". Please follow all of Lemmy’s and Ned’s rules.
-## 4.2. General (13 communities)
+## 4.2. General (13 communities) [Day 17]
 1. **[Memes](/c/memes@lemmy.ml)** | lemmy.ml | [Kbin](/m/memes@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/memes@lemmy.ml) | ![](https://img.shields.io/lemmy/memes@lemmy.ml?style=flat&label=Subs&color=pink)
 	- NoDescription
 2. **[Lemmy Shitpost](/c/lemmyshitpost@lemmy.world)** | lemmy.world | [Kbin](/m/lemmyshitpost@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/lemmyshitpost@lemmy.world) | ![](https://img.shields.io/lemmy/lemmyshitpost@lemmy.world?style=flat&label=Subs&color=pink)
@@ -140,7 +140,7 @@
 	- This is a community for sharing those cheesy “dad” jokes that invoke an eye roll or chuckle.
 2. **[Fake Band Names](/c/fakebandnames@lemmy.world)** | lemmy.world | [Kbin](/m/fakebandnames@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/fakebandnames@lemmy.world) | ![](https://img.shields.io/lemmy/fakebandnames@lemmy.world?style=flat&label=Subs&color=pink)
 	- This is a community for posting fake band names. Find a string of words that sounds like the name of a garage band or just goes hard? Post it here.
-## 4.4. News format (8 communities)
+## 4.4. News format (8 communities) [Day 3]
 1. **[Not The Onion](/c/nottheonion@lemmy.world)** | lemmy.world | [Kbin](/m/nottheonion@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/nottheonion@lemmy.world) | ![](https://img.shields.io/lemmy/nottheonion@lemmy.world?style=flat&label=Subs&color=pink)
 	- We’re not _[The Onion](https://www.theonion.com/)_! Not affiliated with them in any way! Not operated by them in any way! All the news here is real!
 2. **[The Onion](/c/theonion@midwest.social)** | midwest.social | [Kbin](/m/theonion@midwest.social) | [lemmyverse.link](https://lemmyverse.link/c/theonion@midwest.social) | ![](https://img.shields.io/lemmy/theonion@midwest.social?style=flat&label=Subs&color=pink)
@@ -157,7 +157,7 @@
 	- News about weird nature, unusual happenings, and fringe claims. Anomalies, animals, nature, Fortean, paranormal, cryptids, weather.
 8. **[SERIOUS NEWS ONLY](/c/seriousnews@lemmy.world)** | lemmy.world | [Kbin](/m/seriousnews@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/seriousnews@lemmy.world) | ![](https://img.shields.io/lemmy/seriousnews@lemmy.world?style=flat&label=Subs&color=pink)
 	- Dont actually post anything serious or you'll be banned.
-## 4.5. Show (6 communities)
+## 4.5. Show (6 communities) [Day 10]
 1. **[Star Wars Memes](/c/starwarsmemes@lemmy.world)** | lemmy.world | [Kbin](/m/starwarsmemes@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/starwarsmemes@lemmy.world) | ![](https://img.shields.io/lemmy/starwarsmemes@lemmy.world?style=flat&label=Subs&color=pink)
 	- Hello there. Somehow, Star Wars memes have returned. It’s not a trap, this is where the fun begins.
 2. **[Lord of the memes](/c/lotrmemes@midwest.social)** | midwest.social | [Kbin](/m/lotrmemes@midwest.social) | [lemmyverse.link](https://lemmyverse.link/c/lotrmemes@midwest.social) | ![](https://img.shields.io/lemmy/lotrmemes@midwest.social?style=flat&label=Subs&color=pink)
@@ -170,7 +170,7 @@
 	- A community for sharing humor about Stargate in all its iterations.
 6. **[Dune Memes](/c/dunememes@lemmy.blahaj.zone)** | lemmy.blahaj.zone | [Kbin](/m/dunememes@lemmy.blahaj.zone) | [lemmyverse.link](https://lemmyverse.link/c/dunememes@lemmy.blahaj.zone) | ![](https://img.shields.io/lemmy/dunememes@lemmy.blahaj.zone?style=flat&label=Subs&color=pink)
 	- For making memes about Dune.
-## 4.6. Game (7 communities)
+## 4.6. Game (7 communities) [Day 28]
 1. **[RPGMemes](/c/rpgmemes@ttrpg.network)** | ttrpg.network | [Kbin](/m/rpgmemes@ttrpg.network) | [lemmyverse.link](https://lemmyverse.link/c/rpgmemes@ttrpg.network) | ![](https://img.shields.io/lemmy/rpgmemes@ttrpg.network?style=flat&label=Subs&color=pink)
 	- Humor, jokes, memes about TTRPGs.
 2. **[AnarchyChess](/c/anarchychess@sopuli.xyz)** | sopuli.xyz | [Kbin](/m/anarchychess@sopuli.xyz) | [lemmyverse.link](https://lemmyverse.link/c/anarchychess@sopuli.xyz) | ![](https://img.shields.io/lemmy/anarchychess@sopuli.xyz?style=flat&label=Subs&color=pink)
@@ -185,7 +185,7 @@
 	- For trashposting and memes about Souls games developed by FromSoft.
 7. **[Source Memes](/c/sourcememes@lemmy.world)** | lemmy.world | [Kbin](/m/sourcememes@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/sourcememes@lemmy.world) | ![](https://img.shields.io/lemmy/sourcememes@lemmy.world?style=flat&label=Subs&color=pink)
 	- Community for memes about the goldsrc/source engine and Valve games.
-## 4.7. Social media (9 communities)
+## 4.7. Social media (9 communities) [Day 24]
 1. (1.1.) **[> Greentext](/c/greentext@lemmy.ml)** | lemmy.ml | [Kbin](/m/greentext@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/greentext@lemmy.ml) | ![](https://img.shields.io/lemmy/greentext@lemmy.ml?style=flat&label=Subs&color=pink) (2 communities)
 	- NoDescription
 	1. (1.2.) **[Greentext](/c/greentext@sh.itjust.works)** | sh.itjust.works | [Kbin](/m/greentext@sh.itjust.works) | [lemmyverse.link](https://lemmyverse.link/c/greentext@sh.itjust.works) | ![](https://img.shields.io/lemmy/greentext@sh.itjust.works?style=flat&label=Subs&color=plum)
