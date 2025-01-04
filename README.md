@@ -6,7 +6,6 @@
 
 ⭐ = Official community for a project or person.
 
-❤️ = Community for open source project.
 # Directory (xxx communities)
 
 # 1. Art (xxx communities)
