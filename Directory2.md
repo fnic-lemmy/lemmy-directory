@@ -1,3 +1,4 @@
+### Pages: | [0 ](https://lemmy.dbzer0.com/post/22878561) | [1 ](https://lemmy.dbzer0.com/post/22014843) |[2]| [3 ](https://lemmy.dbzer0.com/post/22581840) | [4 ](https://lemmy.dbzer0.com/post/22661395) | [5 ](https://lemmy.dbzer0.com/post/22662406) | (Direct links.) | [0 ](https://lemmyverse.link/lemmy.dbzer0.com/post/22878561) | [1 ](https://lemmyverse.link/lemmy.dbzer0.com/post/22014843) |[2]| [3 ](https://lemmyverse.link/lemmy.dbzer0.com/post/22581840) | [4 ](https://lemmyverse.link/lemmy.dbzer0.com/post/22661395) | [5 ](https://lemmyverse.link/lemmy.dbzer0.com/post/22662406) | (Lemmyverse.link)
 ```
 1.5. Photography 📷 (26 communities) [Day 22]
 1.6. Themes 🖼️ (9 communities) [Day 5]
@@ -268,7 +269,3 @@
 	- Reddit’s replacement for r/pokemoncards. Happy collecting!
 24. **[Voice Acting Pit](/c/voiceacting@lemmy.world)** | lemmy.world | [Kbin](/m/voiceacting@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/voiceacting@lemmy.world) | ![](https://img.shields.io/lemmy/voiceacting@lemmy.world?style=flat&label=Subs&color=pink)
 	- A place for people who are messing around in voice acting to chat, ask questions, and get info. This is not a place to get jobs, post jobs, or promote yourself to get jobs, but please feel free to post stuff you want to show off or get critique on.
-
-### Previous page: [lemmyverse.link](https://lemmyverse.link/lemmy.dbzer0.com/post/22014843) [direct](https://lemmy.dbzer0.com/post/22014843)
-
-### Next page: [lemmyverse.link](https://lemmyverse.link/lemmy.dbzer0.com/post/22581840) [direct](https://lemmy.dbzer0.com/post/22581840)
