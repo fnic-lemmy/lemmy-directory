@@ -5,10 +5,9 @@
 ⭐ = Official community for a project or person.
 
 🤖 = Community that's mostly maintained by a bot account/s.
-
 # Directory (xxx communities)
 
-# 1. Art (xxx communities)
+# 1. Art (199 communities)
 ## 1.1. Imaginary Network 💭 (27 communities)
 1. **[Imaginary Starships](/c/imaginarystarships@lemmy.world)** | lemmy.world | [Kbin](/m/imaginarystarships@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/imaginarystarships@lemmy.world) | ![](https://img.shields.io/lemmy/imaginarystarships@lemmy.world?style=flat&label=Subs&color=pink)
 	- A place to post pictures of imaginary starships, a la r/ImaginaryStarships
@@ -156,7 +155,7 @@
 	- Anime characters serving their country, or otherwise displaying competence for the art of modern warfare.
 19. **[Hidamari Sketch (ひだまりスケッチ)](/c/hidamarisketch@lemmy.world)** | lemmy.world | [Kbin](/m/hidamarisketch@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/hidamarisketch@lemmy.world) | ![](https://img.shields.io/lemmy/hidamarisketch@lemmy.world?style=flat&label=Subs&color=pink)
 	- NoDescription
-## 1.4. Music 🎵 (54 communities)
+## 1.4. Music 🎵 (53 communities)
 ### 1.4.1. General discussion (15 communities)
 1. (1.1.) **[Music](/c/music@lemmy.world)** | lemmy.world | [Kbin](/m/music@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/music@lemmy.world) | ![](https://img.shields.io/lemmy/music@lemmy.world?style=flat&label=Subs&color=pink) (7 communities)
 	- NoDescription
