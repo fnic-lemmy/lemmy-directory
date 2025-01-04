@@ -1,10 +1,3 @@
-❓ = Community I'm not sure if fits the section.
-
-🔒 = Locked community where only mods can create posts.
-
-⭐ = Official community for a project or person.
-
-🤖 = Community that's mostly maintained by a bot account/s.
 # Directory (498 communities)
 
 # 1. Art (199 communities)
