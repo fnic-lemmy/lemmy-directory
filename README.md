@@ -172,7 +172,7 @@
 		- Barely moderated, enjoy the music…
 	6. (1.7.) **[Music](/c/music@board.minimally.online)** | board.minimally.online | [Kbin](/m/music@board.minimally.online) | [lemmyverse.link](https://lemmyverse.link/c/music@board.minimally.online) | ![](https://img.shields.io/lemmy/music@board.minimally.online?style=flat&label=Subs&color=plum)
 		- Post your favs.
-2. **[Alternative Nation: The Fediverse's Alternative and Indie Music Community](/c/alternativenation@lemmy.world)** | lemmy.world | [Kbin](/m/alternativenation@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/alternativenation@lemmy.world) | ![](https://img.shields.io/lemmy/alternativenation@lemmy.world?style=flat&label=Subs&color=pink)
+2. **[Alternative Nation: Indie Music Community](/c/alternativenation@lemmy.world)** | lemmy.world | [Kbin](/m/alternativenation@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/alternativenation@lemmy.world) | ![](https://img.shields.io/lemmy/alternativenation@lemmy.world?style=flat&label=Subs&color=pink)
 	- The Fediverse’s largest alternative and indie music community! All things alternative music, from 80s college rock to today’s indie and all the amazing alternative music in between. Welcome home, music nerds!
 3. **[The Lyrics Game](/c/thelyricsgame@lemmy.ca)** | lemmy.ca | [Kbin](/m/thelyricsgame@lemmy.ca) | [lemmyverse.link](https://lemmyverse.link/c/thelyricsgame@lemmy.ca) | ![](https://img.shields.io/lemmy/thelyricsgame@lemmy.ca?style=flat&label=Subs&color=pink)
 	- Anybody can post a challenge.
