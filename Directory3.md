@@ -1,4 +1,4 @@
-# 4. Memes/Humoristic 🎭 (112 communities)
+# 4. Memes/Humoristic 🎭 (106 communities)
 ## 4.1. Misc (54 communities)
 1. **[Linux Memes](/c/linuxmemes@lemmy.world)** | lemmy.world | [Kbin](/m/linuxmemes@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/linuxmemes@lemmy.world) | ![](https://img.shields.io/lemmy/linuxmemes@lemmy.world?style=flat&label=Subs&color=pink)
 	- I use Arch btw.
@@ -135,12 +135,12 @@
 	- NoDescription
 13. **[Memes @ Lemy](/c/memes@lemy.lol)** | lemy.lol | [Kbin](/m/memes@lemy.lol) | [lemmyverse.link](https://lemmyverse.link/c/memes@lemy.lol) | ![](https://img.shields.io/lemmy/memes@lemy.lol?style=flat&label=Subs&color=pink)
 	- Memes fun.
-## 4.3. Text format
+## 4.3. Text format (2 communities)
 1. **[Dad Jokes](/c/dadjokes@lemmy.world)** | lemmy.world | [Kbin](/m/dadjokes@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/dadjokes@lemmy.world) | ![](https://img.shields.io/lemmy/dadjokes@lemmy.world?style=flat&label=Subs&color=pink)
 	- This is a community for sharing those cheesy “dad” jokes that invoke an eye roll or chuckle.
 2. **[Fake Band Names](/c/fakebandnames@lemmy.world)** | lemmy.world | [Kbin](/m/fakebandnames@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/fakebandnames@lemmy.world) | ![](https://img.shields.io/lemmy/fakebandnames@lemmy.world?style=flat&label=Subs&color=pink)
 	- This is a community for posting fake band names. Find a string of words that sounds like the name of a garage band or just goes hard? Post it here.
-## 4.4. News format
+## 4.4. News format (8 communities)
 1. **[Not The Onion](/c/nottheonion@lemmy.world)** | lemmy.world | [Kbin](/m/nottheonion@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/nottheonion@lemmy.world) | ![](https://img.shields.io/lemmy/nottheonion@lemmy.world?style=flat&label=Subs&color=pink)
 	- We’re not _[The Onion](https://www.theonion.com/)_! Not affiliated with them in any way! Not operated by them in any way! All the news here is real!
 2. **[The Onion](/c/theonion@midwest.social)** | midwest.social | [Kbin](/m/theonion@midwest.social) | [lemmyverse.link](https://lemmyverse.link/c/theonion@midwest.social) | ![](https://img.shields.io/lemmy/theonion@midwest.social?style=flat&label=Subs&color=pink)
@@ -157,7 +157,7 @@
 	- News about weird nature, unusual happenings, and fringe claims. Anomalies, animals, nature, Fortean, paranormal, cryptids, weather.
 8. **[SERIOUS NEWS ONLY](/c/seriousnews@lemmy.world)** | lemmy.world | [Kbin](/m/seriousnews@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/seriousnews@lemmy.world) | ![](https://img.shields.io/lemmy/seriousnews@lemmy.world?style=flat&label=Subs&color=pink)
 	- Dont actually post anything serious or you'll be banned.
-## 4.5. Show 
+## 4.5. Show (6 communities)
 1. **[Star Wars Memes](/c/starwarsmemes@lemmy.world)** | lemmy.world | [Kbin](/m/starwarsmemes@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/starwarsmemes@lemmy.world) | ![](https://img.shields.io/lemmy/starwarsmemes@lemmy.world?style=flat&label=Subs&color=pink)
 	- Hello there. Somehow, Star Wars memes have returned. It’s not a trap, this is where the fun begins.
 2. **[Lord of the memes](/c/lotrmemes@midwest.social)** | midwest.social | [Kbin](/m/lotrmemes@midwest.social) | [lemmyverse.link](https://lemmyverse.link/c/lotrmemes@midwest.social) | ![](https://img.shields.io/lemmy/lotrmemes@midwest.social?style=flat&label=Subs&color=pink)
@@ -170,7 +170,7 @@
 	- A community for sharing humor about Stargate in all its iterations.
 6. **[Dune Memes](/c/dunememes@lemmy.blahaj.zone)** | lemmy.blahaj.zone | [Kbin](/m/dunememes@lemmy.blahaj.zone) | [lemmyverse.link](https://lemmyverse.link/c/dunememes@lemmy.blahaj.zone) | ![](https://img.shields.io/lemmy/dunememes@lemmy.blahaj.zone?style=flat&label=Subs&color=pink)
 	- For making memes about Dune.
-## 4.6. Game
+## 4.6. Game (7 communities)
 1. **[RPGMemes](/c/rpgmemes@ttrpg.network)** | ttrpg.network | [Kbin](/m/rpgmemes@ttrpg.network) | [lemmyverse.link](https://lemmyverse.link/c/rpgmemes@ttrpg.network) | ![](https://img.shields.io/lemmy/rpgmemes@ttrpg.network?style=flat&label=Subs&color=pink)
 	- Humor, jokes, memes about TTRPGs.
 2. **[AnarchyChess](/c/anarchychess@sopuli.xyz)** | sopuli.xyz | [Kbin](/m/anarchychess@sopuli.xyz) | [lemmyverse.link](https://lemmyverse.link/c/anarchychess@sopuli.xyz) | ![](https://img.shields.io/lemmy/anarchychess@sopuli.xyz?style=flat&label=Subs&color=pink)
@@ -185,7 +185,7 @@
 	- For trashposting and memes about Souls games developed by FromSoft.
 7. **[Source Memes](/c/sourcememes@lemmy.world)** | lemmy.world | [Kbin](/m/sourcememes@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/sourcememes@lemmy.world) | ![](https://img.shields.io/lemmy/sourcememes@lemmy.world?style=flat&label=Subs&color=pink)
 	- Community for memes about the goldsrc/source engine and Valve games.
-## 4.7. Social media
+## 4.7. Social media (9 communities)
 1. (1.1.) **[> Greentext](/c/greentext@lemmy.ml)** | lemmy.ml | [Kbin](/m/greentext@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/greentext@lemmy.ml) | ![](https://img.shields.io/lemmy/greentext@lemmy.ml?style=flat&label=Subs&color=pink) (2 communities)
 	- NoDescription
 	1. (1.2.) **[Greentext](/c/greentext@sh.itjust.works)** | sh.itjust.works | [Kbin](/m/greentext@sh.itjust.works) | [lemmyverse.link](https://lemmyverse.link/c/greentext@sh.itjust.works) | ![](https://img.shields.io/lemmy/greentext@sh.itjust.works?style=flat&label=Subs&color=plum)
@@ -204,17 +204,17 @@
 	- Share the best posts you find on mastodon. Add a link to the original toot.
 6. **[InsanePeopleFacebook](/c/insanepeoplefacebook@lemmy.world)** | lemmy.world | [Kbin](/m/insanepeoplefacebook@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/insanepeoplefacebook@lemmy.world) | ![](https://img.shields.io/lemmy/insanepeoplefacebook@lemmy.world?style=flat&label=Subs&color=pink)
 	- Screenshots of people being insane on Facebook.
-## 4.8. Wholesome
+## 4.8. Wholesome (2 communities)
 1. **[Lemmy Be Wholesome](/c/lemmybewholesome@lemmy.world)** | lemmy.world | [Kbin](/m/lemmybewholesome@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/lemmybewholesome@lemmy.world) | ![](https://img.shields.io/lemmy/lemmybewholesome@lemmy.world?style=flat&label=Subs&color=pink)
 	- Welcome to Lemmy Be Wholesome. This is the polar opposite of LemmeShitpost. Here you can post wholesome memes, palate cleanser and good vibes.
 2. **[Wholesome](/c/wholesome@reddthat.com)** | reddthat.com | [Kbin](/m/wholesome@reddthat.com) | [lemmyverse.link](https://lemmyverse.link/c/wholesome@reddthat.com) | ![](https://img.shields.io/lemmy/wholesome@reddthat.com?style=flat&label=Subs&color=pink)
 	- We’re here to help you have a better day! For all wholesome and heartwarming content including memes, news stories, etc.
-## 4.9. Roleplay
+## 4.9. Roleplay (2 communities)
 1. **[Outside](/c/outside@lemmy.world)** | lemmy.world | [Kbin](/m/outside@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/outside@lemmy.world) | ![](https://img.shields.io/lemmy/outside@lemmy.world?style=flat&label=Subs&color=pink)
 	- The biggest free-to-play MMO game to ever exist with over 8+ billion people actively playing every day!
 2. **[PokeMedia](/c/pokemedia@lemmy.ml)** | lemmy.ml | [Kbin](/m/pokemedia@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/pokemedia@lemmy.ml) | ![](https://img.shields.io/lemmy/pokemedia@lemmy.ml?style=flat&label=Subs&color=pink)
 	- This community is for posts that simulate social media in the Pokémon universe, everything from yesterday’s asktrainers question to today’s PokeTwitter Drama.
-## 4.10. Interactive?? (Dunno how to title that. ;-;)
+## 4.10. Interactive?? (Dunno how to title that. ;-;) (3 communities)
 1. **[Ask Lemmy, Ouija Style](/c/askouija@lemmy.world)** | lemmy.world | [Kbin](/m/askouija@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/askouija@lemmy.world) | ![](https://img.shields.io/lemmy/askouija@lemmy.world?style=flat&label=Subs&color=pink)
 	- Ask Lemmy, Ouija Style.
 2. **[Monkey's Paw](/c/monkeyspaw@sopuli.xyz)** | sopuli.xyz | [Kbin](/m/monkeyspaw@sopuli.xyz) | [lemmyverse.link](https://lemmyverse.link/c/monkeyspaw@sopuli.xyz) | ![](https://img.shields.io/lemmy/monkeyspaw@sopuli.xyz?style=flat&label=Subs&color=pink)
