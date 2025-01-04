@@ -5,6 +5,10 @@
 1.8. Writing/Reading 📖 (4 communities)
 1.9. AI 🤖 (6 communities) [Day 12]
 1.10. Wallpapers 🌇 (8 communities) [Day 19]
+2. Animals 🐘 (26 communities)
+2.1. Misc (26 communities) [Day 20]
+3. Professions/Hobbies 😎 / 🤓 (24 communities) ((Will be split later))
+3.1. Misc (24 communities)
 ```
 ## 1.5. Photography 📷 (26 communities) [Day 22]
 1. **[Pics](/c/pics@lemmy.world)** | lemmy.world | [Kbin](/m/pics@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/pics@lemmy.world) | ![](https://img.shields.io/lemmy/pics@lemmy.world?style=flat&label=Subs&color=pink)
