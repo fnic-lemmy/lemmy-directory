@@ -1,3 +1,10 @@
+```
+5. Gaming (143 communities)
+5.1. Platforms 🕹️ (18 communities) [Day 7]
+5.2. Games 🎮 (79 communities)
+5.2.1. Misc (73 communities)
+5.2.2. Casual Games (6 communities)
+```
 # 5. Gaming (143 communities)
 ## 5.1. Platforms 🕹️ (18 communities) [Day 7]
 1. (1.1.) **[Steam Deck](/c/steamdeck@sopuli.xyz)** | sopuli.xyz | [Kbin](/m/steamdeck@sopuli.xyz) | [lemmyverse.link](https://lemmyverse.link/c/steamdeck@sopuli.xyz) | ![](https://img.shields.io/lemmy/steamdeck@sopuli.xyz?style=flat&label=Subs&color=pink) (2 communities)
