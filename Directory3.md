@@ -1,3 +1,16 @@
+```
+4. Memes/Humoristic 🎭 (106 communities)
+4.1. Misc (54 communities)
+4.2. General (13 communities) [Day 17]
+4.3. Text format (2 communities)
+4.4. News format (8 communities) [Day 3]
+4.5. Show (6 communities) [Day 10]
+4.6. Game (7 communities) [Day 28]
+4.7. Social media (9 communities) [Day 24]
+4.8. Wholesome (2 communities)
+4.9. Roleplay (2 communities)
+4.10. Interactive?? (Dunno how to title that. ;-;) (3 communities)
+```
 # 4. Memes/Humoristic 🎭 (106 communities)
 ## 4.1. Misc (54 communities)
 1. **[Linux Memes](/c/linuxmemes@lemmy.world)** | lemmy.world | [Kbin](/m/linuxmemes@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/linuxmemes@lemmy.world) | ![](https://img.shields.io/lemmy/linuxmemes@lemmy.world?style=flat&label=Subs&color=pink)
