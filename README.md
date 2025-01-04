@@ -1,4 +1,4 @@
-# Directory (498 communities)
+### Pages: | [0 ](https://lemmy.dbzer0.com/post/22878561) [ 1 ] [2 ](https://lemmy.dbzer0.com/post/22390186) | [3 ](https://lemmy.dbzer0.com/post/22581840) | [4 ](https://lemmy.dbzer0.com/post/22661395) | [5 ](https://lemmy.dbzer0.com/post/22662406) | (Direct links.) | [0 ](https://lemmyverse.link/lemmy.dbzer0.com/post/22878561) [ 1 ] [2 ](https://lemmyverse.link/lemmy.dbzer0.com/post/22390186) | [3 ](https://lemmyverse.link/lemmy.dbzer0.com/post/22581840) | [4 ](https://lemmyverse.link/lemmy.dbzer0.com/post/22661395) | [5 ](https://lemmyverse.link/lemmy.dbzer0.com/post/22662406) | (Lemmyverse.link)
 ```
 1. Art (199 communities)
 1.1. Imaginary Network 💭 (27 communities) [Day 1]
@@ -11,6 +11,7 @@
 1.4.4. Artists/bands (3 communities)
 1.4.5. Instruments/Hardware (2 communities)
 ```
+# Directory (498 communities)
 # 1. Art (199 communities)
 ## 1.1. Imaginary Network 💭 (27 communities) [Day 1]
 1. **[Imaginary Starships](/c/imaginarystarships@lemmy.world)** | lemmy.world | [Kbin](/m/imaginarystarships@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/imaginarystarships@lemmy.world) | ![](https://img.shields.io/lemmy/imaginarystarships@lemmy.world?style=flat&label=Subs&color=pink)
@@ -271,5 +272,3 @@
 	- Welcome to /c/guitars! Let’s show off our new guitar pics, ask questions about playing, theory, luthier-ship, and more!
 2. **[Guitar Pedals](/c/guitarpedals@lemmy.world)** | lemmy.world | [Kbin](/m/guitarpedals@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/guitarpedals@lemmy.world) | ![](https://img.shields.io/lemmy/guitarpedals@lemmy.world?style=flat&label=Subs&color=pink)
 	- This community is for the discussion and appreciation of Guitar Pedals. Post your pedalboards, ask about pedal order, stomp those boxes!
-
-### Next page: [lemmyverse.link](https://lemmyverse.link/lemmy.dbzer0.com/post/22390186) [direct](https://lemmy.dbzer0.com/post/22390186)
