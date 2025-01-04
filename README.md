@@ -4,6 +4,8 @@
 
 ⭐ = Official community for a project or person.
 
+🤖 = Community that's mostly maintained by a bot account/s.
+
 # Directory (xxx communities)
 
 # 1. Art (xxx communities)
