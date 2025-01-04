@@ -2,7 +2,7 @@ What is this community.
 
 Overview of the directory.
 
-# Directory (xxx communities)
+# Directory (498 communities)
 
 Part 1/5
 # 1. Art (199 communities)
