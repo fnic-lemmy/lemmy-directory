@@ -1,3 +1,11 @@
+```
+5.3. Engines (4 communities)
+5.4. Genres (17 communities) [Day 14]
+5.5. Dev (4 communities)
+5.6. Deals/Giveaways 💸 (5 communities)
+5.7. Stores 🛒 (2 communities)
+5.8. General (14 communities) [Day 21]
+```
 ## 5.3. Engines (4 communities)
 1. **[Godot](/c/godot@programming.dev)** | programming.dev | [Kbin](/m/godot@programming.dev) | [lemmyverse.link](https://lemmyverse.link/c/godot@programming.dev) | ![](https://img.shields.io/lemmy/godot@programming.dev?style=flat&label=Subs&color=pink)
 	- This is a place where you can discuss about anything relating to the Godot game engine. Feel free to ask questions, post tutorials, show off your godot game, etc.
