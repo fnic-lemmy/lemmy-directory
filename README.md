@@ -8,7 +8,7 @@
 # Directory (498 communities)
 
 # 1. Art (199 communities)
-## 1.1. Imaginary Network 💭 (27 communities)
+## 1.1. Imaginary Network 💭 (27 communities) [Day 1]
 1. **[Imaginary Starships](/c/imaginarystarships@lemmy.world)** | lemmy.world | [Kbin](/m/imaginarystarships@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/imaginarystarships@lemmy.world) | ![](https://img.shields.io/lemmy/imaginarystarships@lemmy.world?style=flat&label=Subs&color=pink)
 	- A place to post pictures of imaginary starships, a la r/ImaginaryStarships
 2. **[Imaginary Witches](/c/imaginarywitches@lemmy.dbzer0.com)** | lemmy.dbzer0.com | [Kbin](/m/imaginarywitches@lemmy.dbzer0.com) | [lemmyverse.link](https://lemmyverse.link/c/imaginarywitches@lemmy.dbzer0.com) | ![](https://img.shields.io/lemmy/imaginarywitches@lemmy.dbzer0.com?style=flat&label=Subs&color=pink)
@@ -63,7 +63,7 @@
 	- NoDescription
 27. **[Imaginary Dolor](/c/imaginarydolor@lemmy.dbzer0.com)** 🔒 | lemmy.dbzer0.com | [Kbin](/m/imaginarydolor@lemmy.dbzer0.com) | [lemmyverse.link](https://lemmyverse.link/c/imaginarydolor@lemmy.dbzer0.com) | ![](https://img.shields.io/lemmy/imaginarydolor@lemmy.dbzer0.com?style=flat&label=Subs&color=pink)
 	- NoDescription
-## 1.2. General Artworks 🎨 (26 communities)
+## 1.2. General Artworks 🎨 (26 communities) [Day 8]
 1. **[Digital Art](/c/digitalart@lemmy.world)** | lemmy.world | [Kbin](/m/digitalart@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/digitalart@lemmy.world) | ![](https://img.shields.io/lemmy/digitalart@lemmy.world?style=flat&label=Subs&color=pink)
 	- NoDescription
 2. (2.1.) **[Art Share](/c/artshare@lemmy.world)** | lemmy.world | [Kbin](/m/artshare@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/artshare@lemmy.world) | ![](https://img.shields.io/lemmy/artshare@lemmy.world?style=flat&label=Subs&color=pink) (2 communities)
@@ -116,7 +116,7 @@
 	- A community for sharing art made in the wonderful app; Procreate!
 24. **[League of Legends Fan Art](/c/LoLFanArt@fedia.io)** | fedia.io | [Kbin](/m/LoLFanArt@fedia.io) | [lemmyverse.link](https://lemmyverse.link/c/LoLFanArt@fedia.io) | ![](https://img.shields.io/mbin/LoLFanArt@fedia.io?style=flat&label=Subs&color=pink)
 	- A place to share League of Legends fan art, cosplay, and other fan creations.
-## 1.3. Anime Artworks 💢 (19 communities)
+## 1.3. Anime Artworks 💢 (19 communities) [Day 26]
 1. **[Anime and Pics](/c/animepics@reddthat.com)** | reddthat.com | [Kbin](/m/animepics@reddthat.com) | [lemmyverse.link](https://lemmyverse.link/c/animepics@reddthat.com) | ![](https://img.shields.io/lemmy/animepics@reddthat.com?style=flat&label=Subs&color=pink)
 	- A community dedicated to the discussion of anything surrounding: Anime, Manga/Manhwa, Light/Graphic Novels, and Visual Novels.
 2. **[Midriff Moe](/c/midriffmoe@ani.social)** | ani.social | [Kbin](/m/midriffmoe@ani.social) | [lemmyverse.link](https://lemmyverse.link/c/midriffmoe@ani.social) | ![](https://img.shields.io/lemmy/midriffmoe@ani.social?style=flat&label=Subs&color=pink)
@@ -156,7 +156,7 @@
 19. **[Hidamari Sketch (ひだまりスケッチ)](/c/hidamarisketch@lemmy.world)** | lemmy.world | [Kbin](/m/hidamarisketch@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/hidamarisketch@lemmy.world) | ![](https://img.shields.io/lemmy/hidamarisketch@lemmy.world?style=flat&label=Subs&color=pink)
 	- NoDescription
 ## 1.4. Music 🎵 (53 communities)
-### 1.4.1. General discussion (15 communities)
+### 1.4.1. General discussion (15 communities) [Day 4]
 1. (1.1.) **[Music](/c/music@lemmy.world)** | lemmy.world | [Kbin](/m/music@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/music@lemmy.world) | ![](https://img.shields.io/lemmy/music@lemmy.world?style=flat&label=Subs&color=pink) (7 communities)
 	- NoDescription
 	1. (1.2.) **[Music](/c/music@lemmy.ml)** | lemmy.ml | [Kbin](/m/music@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/music@lemmy.ml) | ![](https://img.shields.io/lemmy/music@lemmy.ml?style=flat&label=Subs&color=plum)
@@ -187,7 +187,7 @@
 	- Community about sharing, talking about, and celebrating British music!
 9. **[Music with a leftist message](/c/leftymusic@lemmy.world)** | lemmy.world | [Kbin](/m/leftymusic@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/leftymusic@lemmy.world) | ![](https://img.shields.io/lemmy/leftymusic@lemmy.world?style=flat&label=Subs&color=pink)
 	- Our community is meant to be the place to go for music that has a leftist message.
-### 1.4.2. Genres (31 communities)
+### 1.4.2. Genres (31 communities) [Day 18]
 1. (1.1.) **[Metal](/c/metal@lemmy.world)** | lemmy.world | [Kbin](/m/metal@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/metal@lemmy.world) | ![](https://img.shields.io/lemmy/metal@lemmy.world?style=flat&label=Subs&color=pink) (5 communities)
 	- Metal community, all subgenres welcome.
 	1. (1.2.) **[Death Metal](/c/death_metal@lemmy.world)** | lemmy.world | [Kbin](/m/death_metal@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/death_metal@lemmy.world) | ![](https://img.shields.io/lemmy/death_metal@lemmy.world?style=flat&label=Subs&color=plum)
