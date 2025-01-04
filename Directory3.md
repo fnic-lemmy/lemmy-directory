@@ -1,3 +1,4 @@
+### Pages: | [0 ](https://lemmy.dbzer0.com/post/22878561) | [1 ](https://lemmy.dbzer0.com/post/22014843) | [2 ](https://lemmy.dbzer0.com/post/22390186) |[3]| [4 ](https://lemmy.dbzer0.com/post/22661395) | [5 ](https://lemmy.dbzer0.com/post/22662406) | (Direct links.) | [0 ](https://lemmyverse.link/lemmy.dbzer0.com/post/22878561) | [1 ](https://lemmyverse.link/lemmy.dbzer0.com/post/22014843) | [2 ](https://lemmyverse.link/lemmy.dbzer0.com/post/22390186) |[3]| [4 ](https://lemmyverse.link/lemmy.dbzer0.com/post/22661395) | [5 ](https://lemmyverse.link/lemmy.dbzer0.com/post/22662406) | (Lemmyverse.link)
 ```
 4. Memes/Humoristic 🎭 (106 communities)
 4.1. Misc (54 communities)
@@ -234,7 +235,3 @@
 	- Want to make a wish? Just ask the Monkey’s Paw! No strings attached.*
 3. **[Itemshop](/c/itemshop@sh.itjust.works)** | sh.itjust.works | [Kbin](/m/itemshop@sh.itjust.works) | [lemmyverse.link](https://lemmyverse.link/c/itemshop@sh.itjust.works) | ![](https://img.shields.io/lemmy/itemshop@sh.itjust.works?style=flat&label=Subs&color=pink)
 	- Things that look like items from RPGs and other video games. Weapons, armor, accessories, etc. Include stats!
-
-### Previous page: [lemmyverse.link](https://lemmyverse.link/lemmy.dbzer0.com/post/22390186) [direct](https://lemmy.dbzer0.com/post/22390186)
-
-### Next page: [lemmyverse.link](https://lemmyverse.link/lemmy.dbzer0.com/post/22661395) [direct](https://lemmy.dbzer0.com/post/22661395)
