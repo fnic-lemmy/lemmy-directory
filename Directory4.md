@@ -1,4 +1,4 @@
-# 5. Gaming (150 communities)
+# 5. Gaming (143 communities)
 ## 5.1. Platforms 🕹️ (18 communities)
 1. (1.1.) **[Steam Deck](/c/steamdeck@sopuli.xyz)** | sopuli.xyz | [Kbin](/m/steamdeck@sopuli.xyz) | [lemmyverse.link](https://lemmyverse.link/c/steamdeck@sopuli.xyz) | ![](https://img.shields.io/lemmy/steamdeck@sopuli.xyz?style=flat&label=Subs&color=pink) (2 communities)
 	- A place to discuss and support all things Steam Deck.
@@ -36,7 +36,8 @@
 	- Community covering everything Atari 8bit.
 14. **[Commodore Plus/4](/c/plus4@retrolemmy.com)** | retrolemmy.com | [Kbin](/m/plus4@retrolemmy.com) | [lemmyverse.link](https://lemmyverse.link/c/plus4@retrolemmy.com) | ![](https://img.shields.io/lemmy/plus4@retrolemmy.com?style=flat&label=Subs&color=pink)
 	- Commodore 16 and Plus/4 community.
-## 5.2. Games 🎮 (73 communities)
+## 5.2. Games 🎮 (79 communities)
+### 5.2.1. Misc (73 communities)
 1. **[Baldur's Gate 3](/c/baldurs_gate_3@lemmy.world)** | lemmy.world | [Kbin](/m/baldurs_gate_3@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/baldurs_gate_3@lemmy.world) | ![](https://img.shields.io/lemmy/baldurs_gate_3@lemmy.world?style=flat&label=Subs&color=pink)
 	- Baldur’s Gate 3 is a story-rich, party-based RPG set in the universe of Dungeons & Dragons, where your choices shape a tale of fellowship and betrayal, survival and sacrifice, and the lure of absolute power.
 2. **[Minecraft](/c/minecraft@lemmy.world)** | lemmy.world | [Kbin](/m/minecraft@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/minecraft@lemmy.world) | ![](https://img.shields.io/lemmy/minecraft@lemmy.world?style=flat&label=Subs&color=pink)
@@ -183,7 +184,7 @@
 	- World of Warships community in Lemmy. Created in response to Reddit fall as free for all alternative.
 73. **[XDefiant](/c/xdefiant@lemmy.world)** | lemmy.world | [Kbin](/m/xdefiant@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/xdefiant@lemmy.world) | ![](https://img.shields.io/lemmy/xdefiant@lemmy.world?style=flat&label=Subs&color=pink)
 	- Lemmy page for XDefiant, a free-to-play, fast paced, arena shooter that combines intense gameplay with personalized loadouts and specialized factions, as team of gunfighters - called Defiants - battle for domination.
-### 5.2.1. Casual Games (6 communities)
+### 5.2.2. Casual Games (6 communities)
 1. **[dailygames](/c/dailygames@lemmy.zip)** | lemmy.zip | [Kbin](/m/dailygames@lemmy.zip) | [lemmyverse.link](https://lemmyverse.link/c/dailygames@lemmy.zip) | ![](https://img.shields.io/lemmy/dailygames@lemmy.zip?style=flat&label=Subs&color=pink)
 	- Community for daily games like Wordle, Jumblie, Connections etc.
 2. **[crossword](/c/crossword@lemmy.world)** | lemmy.world | [Kbin](/m/crossword@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/crossword@lemmy.world) | ![](https://img.shields.io/lemmy/crossword@lemmy.world?style=flat&label=Subs&color=pink)
