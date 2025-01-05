@@ -71,22 +71,26 @@ Part 5/5
 
 Automated accounts ran in this community: +their schedule +their sections
 
-1.) 
+1.) [@best_of_fnic_bot@lemmy.dbzer0.com](https://lemmy.dbzer0.com/u/best_of_fnic_bot) [Day 1]
 
-2.) 
+2.) [@best_of_memes_bot@lemmy.dbzer0.com](https://lemmy.dbzer0.com/u/best_of_memes_bot) [Day 3] [Day 10] [Day 17] [Day 24] [Day 28]
 
-3.) 
+3.) [@best_of_music_bot@lemmy.dbzer0.com](https://lemmy.dbzer0.com/u/best_of_music_bot) [Day 4] [Day 18]
 
-4.) 
+4.) [@best_of_themes_bot@lemmy.dbzer0.com](https://lemmy.dbzer0.com/u/best_of_themes_bot) [Day 5]
 
-5.) 
+5.) [@best_of_gaming_bot@lemmy.dbzer0.com](https://lemmy.dbzer0.com/u/best_of_gaming_bot) [Day 7] [Day 14] [Day 21]
 
-6.) 
+6.) [@best_of_generalart_bot@lemmy.dbzer0.com](https://lemmy.dbzer0.com/u/best_of_generalart_bot) [Day 8]
 
-7.) 
+7.) [@best_of_ai_bot@lemmy.dbzer0.com](https://lemmy.dbzer0.com/u/best_of_ai_bot) [Day 12]
 
-8.) 
+8.) [@best_of_comics_bot@lemmy.dbzer0.com](https://lemmy.dbzer0.com/u/best_of_comics_bot) [Day 15]
 
-9.) 
+9.) [@best_of_wallpapers_bot@lemmy.dbzer0.com](https://lemmy.dbzer0.com/u/best_of_wallpapers_bot) [Day 19]
 
-10.) 
+10.) [@best_of_animals_bot@lemmy.dbzer0.com](https://lemmy.dbzer0.com/u/best_of_animals_bot) [Day 20]
+
+11.) [@best_of_photo_bot@lemmy.dbzer0.com](https://lemmy.dbzer0.com/u/best_of_photo_bot) [Day 22]
+
+12.) [@moebot@ani.social](https://ani.social/u/moebot) [Day 26]
