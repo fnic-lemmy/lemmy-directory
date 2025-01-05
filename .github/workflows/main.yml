@@ -12,14 +12,14 @@ jobs:
         uses: jaywcjlove/github-action-read-file@main
         with:
           branch: main
-          path: ABOUT.md
+          path: README.md
           
       - name: Read README.md
         id: mainReadMe
         uses: jaywcjlove/github-action-read-file@main
         with:
           branch: main
-          path: README.md
+          path: Directory1.md
 
       - name: Read Directory2.md
         id: lemmyDirectory2
