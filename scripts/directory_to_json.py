@@ -42,10 +42,10 @@ for file in files:
         current_subsubsection = match.group(2)
         communities[current_section][current_subsection][current_subsubsection] = []
 
-      match = re.search("^[0-9]+\. \*\*\[.*\]\(/c/(.*)\)\*\*", line)
+      match = re.search("[0-9]+\.( \([0-9]+.[0-9+].\)|) \*\*\[.*\]\(/c/(.*)\)\*\*", line)
       if match is not None:
-        communities[current_section][current_subsection][current_subsubsection].append(match.group(1))
-        print(f'      {match.group(1)}')
+        communities[current_section][current_subsection][current_subsubsection].append(match.group(2))
+        print(f'      {match.group(2)}')
 
 
 # Export FNIC to file
