@@ -223,15 +223,14 @@
 	- Welcome to Lemmy Be Wholesome. This is the polar opposite of LemmeShitpost. Here you can post wholesome memes, palate cleanser and good vibes.
 2. **[Wholesome](/c/wholesome@reddthat.com)** | reddthat.com | [Kbin](/m/wholesome@reddthat.com) | [lemmyverse.link](https://lemmyverse.link/c/wholesome@reddthat.com) | ![](https://img.shields.io/lemmy/wholesome@reddthat.com?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- We’re here to help you have a better day! For all wholesome and heartwarming content including memes, news stories, etc.
-## 4.9. Roleplay (2 communities)
-1. **[Outside](/c/outside@lemmy.world)** | lemmy.world | [Kbin](/m/outside@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/outside@lemmy.world) | ![](https://img.shields.io/lemmy/outside@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- The biggest free-to-play MMO game to ever exist with over 8+ billion people actively playing every day!
-2. **[PokeMedia](/c/pokemedia@lemmy.ml)** | lemmy.ml | [Kbin](/m/pokemedia@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/pokemedia@lemmy.ml) | ![](https://img.shields.io/lemmy/pokemedia@lemmy.ml?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- This community is for posts that simulate social media in the Pokémon universe, everything from yesterday’s asktrainers question to today’s PokeTwitter Drama.
-## 4.10. Interactive?? (Dunno how to title that. ;-;) (3 communities)
+## 4.9. Roleplay (5 communities)
 1. **[Ask Lemmy, Ouija Style](/c/askouija@lemmy.world)** | lemmy.world | [Kbin](/m/askouija@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/askouija@lemmy.world) | ![](https://img.shields.io/lemmy/askouija@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- Ask Lemmy, Ouija Style.
-2. **[Monkey's Paw](/c/monkeyspaw@sopuli.xyz)** | sopuli.xyz | [Kbin](/m/monkeyspaw@sopuli.xyz) | [lemmyverse.link](https://lemmyverse.link/c/monkeyspaw@sopuli.xyz) | ![](https://img.shields.io/lemmy/monkeyspaw@sopuli.xyz?style=flat&label=Subs&cacheSeconds=172800&color=pink)
+2. **[Outside](/c/outside@lemmy.world)** | lemmy.world | [Kbin](/m/outside@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/outside@lemmy.world) | ![](https://img.shields.io/lemmy/outside@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
+	- The biggest free-to-play MMO game to ever exist with over 8+ billion people actively playing every day!
+3. **[Monkey's Paw](/c/monkeyspaw@sopuli.xyz)** | sopuli.xyz | [Kbin](/m/monkeyspaw@sopuli.xyz) | [lemmyverse.link](https://lemmyverse.link/c/monkeyspaw@sopuli.xyz) | ![](https://img.shields.io/lemmy/monkeyspaw@sopuli.xyz?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- Want to make a wish? Just ask the Monkey’s Paw! No strings attached.*
-3. **[Itemshop](/c/itemshop@sh.itjust.works)** | sh.itjust.works | [Kbin](/m/itemshop@sh.itjust.works) | [lemmyverse.link](https://lemmyverse.link/c/itemshop@sh.itjust.works) | ![](https://img.shields.io/lemmy/itemshop@sh.itjust.works?style=flat&label=Subs&cacheSeconds=172800&color=pink)
+4. **[Itemshop](/c/itemshop@sh.itjust.works)** | sh.itjust.works | [Kbin](/m/itemshop@sh.itjust.works) | [lemmyverse.link](https://lemmyverse.link/c/itemshop@sh.itjust.works) | ![](https://img.shields.io/lemmy/itemshop@sh.itjust.works?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- Things that look like items from RPGs and other video games. Weapons, armor, accessories, etc. Include stats!
+5. **[PokeMedia](/c/pokemedia@lemmy.ml)** | lemmy.ml | [Kbin](/m/pokemedia@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/pokemedia@lemmy.ml) | ![](https://img.shields.io/lemmy/pokemedia@lemmy.ml?style=flat&label=Subs&cacheSeconds=172800&color=pink)
+	- This community is for posts that simulate social media in the Pokémon universe, everything from yesterday’s asktrainers question to today’s PokeTwitter Drama.
