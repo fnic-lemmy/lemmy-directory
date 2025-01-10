@@ -13,10 +13,10 @@ Markers we use.
 
 🤖 = Community that's mostly maintained by a bot account/s.
 
-# Directory (498 communities)
+# Directory (499 communities)
 
 Part 1/5
-# 1. Art (199 communities)
+# 1. Art (200 communities)
 ## 1.1. Imaginary Network 💭 (27 communities) [Day 1]
 ## 1.2. General Artworks 🎨 (26 communities) [Day 8]
 ## 1.3. Anime Artworks 💢 (19 communities) [Day 26]
@@ -25,7 +25,7 @@ Part 1/5
 ### 1.4.2. Genres (31 communities) [Day 18]
 ### 1.4.3. Time periods (2 communities)
 ### 1.4.4. Artists/bands (3 communities)
-### 1.4.5. Instruments/Hardware (2 communities)
+### 1.4.5. Instruments/Hardware (3 communities)
 
 Part 2/5
 ## 1.5. Photography 📷 (26 communities) [Day 22]
