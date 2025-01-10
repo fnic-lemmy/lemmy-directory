@@ -11,8 +11,8 @@
 1.4.4. Artists/bands (3 communities)
 1.4.5. Instruments/Hardware (2 communities)
 ```
-# Directory (498 communities)
-# 1. Art (199 communities)
+# Directory (499 communities)
+# 1. Art (200 communities)
 ## 1.1. Imaginary Network 💭 (27 communities) [Day 1]
 1. **[Imaginary Starships](/c/imaginarystarships@lemmy.world)** | lemmy.world | [Kbin](/m/imaginarystarships@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/imaginarystarships@lemmy.world) | ![](https://img.shields.io/lemmy/imaginarystarships@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- A place to post pictures of imaginary starships, a la r/ImaginaryStarships.
@@ -160,7 +160,7 @@
 	- Anime characters serving their country, or otherwise displaying competence for the art of modern warfare.
 19. **[Hidamari Sketch (ひだまりスケッチ)](/c/hidamarisketch@lemmy.world)** | lemmy.world | [Kbin](/m/hidamarisketch@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/hidamarisketch@lemmy.world) | ![](https://img.shields.io/lemmy/hidamarisketch@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- NoDescription
-## 1.4. Music 🎵 (53 communities)
+## 1.4. Music 🎵 (54 communities)
 ### 1.4.1. General discussion (15 communities) [Day 4]
 1. (1.1.) **[Music](/c/music@lemmy.world)** | lemmy.world | [Kbin](/m/music@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/music@lemmy.world) | ![](https://img.shields.io/lemmy/music@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink) (7 communities)
 	- NoDescription
@@ -267,8 +267,10 @@
 	- A community for the rock band Muse.
 3. **[Creeper Cult](/c/creeper@feddit.uk)** | feddit.uk | [Kbin](/m/creeper@feddit.uk) | [lemmyverse.link](https://lemmyverse.link/c/creeper@feddit.uk) | ![](https://img.shields.io/lemmy/creeper@feddit.uk?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- A place for fans of Creeper. Please post content related to the band.
-### 1.4.5. Instruments/Hardware (2 communities)
+### 1.4.5. Instruments/Hardware (3 communities)
 1. **[Guitars](/c/guitars@lemmy.world)** | lemmy.world | [Kbin](/m/guitars@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/guitars@lemmy.world) | ![](https://img.shields.io/lemmy/guitars@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- Welcome to /c/guitars! Let’s show off our new guitar pics, ask questions about playing, theory, luthier-ship, and more!
 2. **[Guitar Pedals](/c/guitarpedals@lemmy.world)** | lemmy.world | [Kbin](/m/guitarpedals@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/guitarpedals@lemmy.world) | ![](https://img.shields.io/lemmy/guitarpedals@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- This community is for the discussion and appreciation of Guitar Pedals. Post your pedalboards, ask about pedal order, stomp those boxes!
+3. **[Obscure Instruments](/c/obscureinstruments@sh.itjust.works)** | sh.itjust.works | [Kbin](/m/obscureinstruments@sh.itjust.works) | [lemmyverse.link](https://lemmyverse.link/c/obscureinstruments@sh.itjust.works) | ![](https://img.shields.io/lemmy/obscureinstruments@sh.itjust.works?style=flat&label=Subs&cacheSeconds=172800&color=pink)
+	- A place to share musical oddities.
