@@ -15,7 +15,7 @@
 # 1. Art (199 communities)
 ## 1.1. Imaginary Network 💭 (27 communities) [Day 1]
 1. **[Imaginary Starships](/c/imaginarystarships@lemmy.world)** | lemmy.world | [Kbin](/m/imaginarystarships@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/imaginarystarships@lemmy.world) | ![](https://img.shields.io/lemmy/imaginarystarships@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- A place to post pictures of imaginary starships, a la r/ImaginaryStarships
+	- A place to post pictures of imaginary starships, a la r/ImaginaryStarships.
 2. **[Imaginary Witches](/c/imaginarywitches@lemmy.dbzer0.com)** | lemmy.dbzer0.com | [Kbin](/m/imaginarywitches@lemmy.dbzer0.com) | [lemmyverse.link](https://lemmyverse.link/c/imaginarywitches@lemmy.dbzer0.com) | ![](https://img.shields.io/lemmy/imaginarywitches@lemmy.dbzer0.com?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- A community to share images of witches and any other witch adjacent characters like dark summoners, necromancers or mages with a witchy vibe.
 3. **[Imaginary Wastelands](/c/imaginarywastelands@lemm.ee)** | lemm.ee | [Kbin](/m/imaginarywastelands@lemm.ee) | [lemmyverse.link](https://lemmyverse.link/c/imaginarywastelands@lemm.ee) | ![](https://img.shields.io/lemmy/imaginarywastelands@lemm.ee?style=flat&label=Subs&cacheSeconds=172800&color=pink)
@@ -35,13 +35,13 @@
 10. **[Imaginary Portals](/c/imaginaryportals@lemm.ee)** | lemm.ee | [Kbin](/m/imaginaryportals@lemm.ee) | [lemmyverse.link](https://lemmyverse.link/c/imaginaryportals@lemm.ee) | ![](https://img.shields.io/lemmy/imaginaryportals@lemm.ee?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- Portals, manmade or naturally occurring; warp gates, or any other type of dramatic entrance.
 11. **[Imaginary Fairies](/c/imaginaryfairies@lemmings.world)** | lemmings.world | [Kbin](/m/imaginaryfairies@lemmings.world) | [lemmyverse.link](https://lemmyverse.link/c/imaginaryfairies@lemmings.world) | ![](https://img.shields.io/lemmy/imaginaryfairies@lemmings.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- A community to post artworks of fairies and other [fae folk](https://teaandrosemary.com/types-of-fairies-types-of-fae/).
+	- A community to post artworks of fairies and other fae folk.
 12. **[Imaginary Merfolk](/c/imaginarymerfolk@lemmy.dbzer0.com)** | lemmy.dbzer0.com | [Kbin](/m/imaginarymerfolk@lemmy.dbzer0.com) | [lemmyverse.link](https://lemmyverse.link/c/imaginarymerfolk@lemmy.dbzer0.com) | ![](https://img.shields.io/lemmy/imaginarymerfolk@lemmy.dbzer0.com?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- A community to share images of mermaids, mermen and other humanoid merfolk.
 13. **[Imaginary Cathedrals](/c/imaginarycathedrals@lemm.ee)** | lemm.ee | [Kbin](/m/imaginarycathedrals@lemm.ee) | [lemmyverse.link](https://lemmyverse.link/c/imaginarycathedrals@lemm.ee) | ![](https://img.shields.io/lemmy/imaginarycathedrals@lemm.ee?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- Chapels, abbeys, mosques, any religious architecture or icons, including altars, graveyards, or crypts.
 14. **[Imaginary Maps - Your source for fictional maps.](/c/imaginarymaps@lemmy.ml)** | lemmy.ml | [Kbin](/m/imaginarymaps@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/imaginarymaps@lemmy.ml) | ![](https://img.shields.io/lemmy/imaginarymaps@lemmy.ml?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- Maps have been around for centuries- they help us know what cultures were aware of in terms of their neighbors, other lands, and so on.
+	- Maps have been around for centuries- they help us know what cultures were aware of in terms of their neighbors, other lands, and so on. Map making continues today, as we map other planets, the bottom of the seas, and continually produce high quality maps here that measure various aspects of culture, demographics, and geography.
 15. **[Imaginary Kanto](/c/imaginarykanto@lemm.ee)** | lemm.ee | [Kbin](/m/imaginarykanto@lemm.ee) | [lemmyverse.link](https://lemmyverse.link/c/imaginarykanto@lemm.ee) | ![](https://img.shields.io/lemmy/imaginarykanto@lemm.ee?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- Art depicting the Pokémon world in a breathable and living habitat.
 16. **[Imaginary Religion](/c/imaginaryreligion@lemm.ee)** | lemm.ee | [Kbin](/m/imaginaryreligion@lemm.ee) | [lemmyverse.link](https://lemmyverse.link/c/imaginaryreligion@lemm.ee) | ![](https://img.shields.io/lemmy/imaginaryreligion@lemm.ee?style=flat&label=Subs&cacheSeconds=172800&color=pink)
@@ -106,7 +106,7 @@
 16. **[Photo Mode](/c/photomode@feddit.uk)** | feddit.uk | [Kbin](/m/photomode@feddit.uk) | [lemmyverse.link](https://lemmyverse.link/c/photomode@feddit.uk) | ![](https://img.shields.io/lemmy/photomode@feddit.uk?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- Welcome to Photo Mode - A Community For Videogame Photography.
 17. **[Imaginary](/c/imaginary@reddthat.com)** | reddthat.com | [Kbin](/m/imaginary@reddthat.com) | [lemmyverse.link](https://lemmyverse.link/c/imaginary@reddthat.com) | ![](https://img.shields.io/lemmy/imaginary@reddthat.com?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- NoDescription
+	- Imaginary art.
 18. **[Propaganda Posters](/c/propagandaposters@lemmy.world)** | lemmy.world | [Kbin](/m/propagandaposters@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/propagandaposters@lemmy.world) | ![](https://img.shields.io/lemmy/propagandaposters@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- The community for propaganda collectors, enthusiasts, or all who are fascinated by propaganda as an insight into history, sociology, perspective, and manipulation through art and other mediums.
 19. **[Apocalyptic Art](/c/apocalypticart@discuss.tchncs.de)** | discuss.tchncs.de | [Kbin](/m/apocalypticart@discuss.tchncs.de) | [lemmyverse.link](https://lemmyverse.link/c/apocalypticart@discuss.tchncs.de) | ![](https://img.shields.io/lemmy/apocalypticart@discuss.tchncs.de?style=flat&label=Subs&cacheSeconds=172800&color=pink)
@@ -143,7 +143,7 @@
 10. **[Murder Moe](/c/murdermoe@lemmy.world)** | lemmy.world | [Kbin](/m/murdermoe@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/murdermoe@lemmy.world) | ![](https://img.shields.io/lemmy/murdermoe@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- Anime characters that, given half a good reason, _could_ and _would_, kill you.
 11. **[Slice of Life Anime](/c/sliceoflifeanime@lemmy.world)** | lemmy.world | [Kbin](/m/sliceoflifeanime@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/sliceoflifeanime@lemmy.world) | ![](https://img.shields.io/lemmy/sliceoflifeanime@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- NoDescription
+	- Mainly for ‘pure’ slice of life and not romance (that’s it’s own genre).
 12. **[Office Moe](/c/officemoe@ani.social)** | ani.social | [Kbin](/m/officemoe@ani.social) | [lemmyverse.link](https://lemmyverse.link/c/officemoe@ani.social) | ![](https://img.shields.io/lemmy/officemoe@ani.social?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- Anime characters in an everyday professional setting, wearing office or retail-suitable clothing or anything equivalent.
 13. **[Goth Moe](/c/gothmoe@ani.social)** | ani.social | [Kbin](/m/gothmoe@ani.social) | [lemmyverse.link](https://lemmyverse.link/c/gothmoe@ani.social) | ![](https://img.shields.io/lemmy/gothmoe@ani.social?style=flat&label=Subs&cacheSeconds=172800&color=pink)
@@ -187,7 +187,7 @@
 6. **[MetalVinyl](/c/metalvinyl@lemmy.world)** | lemmy.world | [Kbin](/m/metalvinyl@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/metalvinyl@lemmy.world) | ![](https://img.shields.io/lemmy/metalvinyl@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- The first (?) metal vinyl lemmy for you folks. This place is for posting your collection, upcoming metal releases and general discussion about metal records.
 7. **[UK Music](/c/ukmusic@feddit.uk)** | feddit.uk | [Kbin](/m/ukmusic@feddit.uk) | [lemmyverse.link](https://lemmyverse.link/c/ukmusic@feddit.uk) | ![](https://img.shields.io/lemmy/ukmusic@feddit.uk?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- Music From The United Kingdom
+	- Music From The United Kingdom.
 8. **[British Music](/c/britishmusic@lemmy.world)** | lemmy.world | [Kbin](/m/britishmusic@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/britishmusic@lemmy.world) | ![](https://img.shields.io/lemmy/britishmusic@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- Community about sharing, talking about, and celebrating British music!
 9. **[Music with a leftist message](/c/leftymusic@lemmy.world)** | lemmy.world | [Kbin](/m/leftymusic@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/leftymusic@lemmy.world) | ![](https://img.shields.io/lemmy/leftymusic@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
@@ -200,7 +200,7 @@
 	2. (1.3.) **[Metalcore](/c/metalcore@lemmy.ml)** | lemmy.ml | [Kbin](/m/metalcore@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/metalcore@lemmy.ml) | ![](https://img.shields.io/lemmy/metalcore@lemmy.ml?style=flat&label=Subs&cacheSeconds=172800&color=plum)
 		- Lemmy metalcore community.
 	3. (1.4.) **[Doom Metal](/c/doommetal@lemmy.world)** | lemmy.world | [Kbin](/m/doommetal@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/doommetal@lemmy.world) | ![](https://img.shields.io/lemmy/doommetal@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=plum)
-		- Slow and heavy Iommic riffage
+		- Slow and heavy Iommic riffage.
 	4. (1.5.) **[Thrash Metal](/c/thrashmetal@lemmy.world)** | lemmy.world | [Kbin](/m/thrashmetal@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/thrashmetal@lemmy.world) | ![](https://img.shields.io/lemmy/thrashmetal@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=plum)
 		- Place to post and discuss _THRASH METAL_!
 2. **[HipHopHeads](/c/hiphopheads@sopuli.xyz)** | sopuli.xyz | [Kbin](/m/hiphopheads@sopuli.xyz) | [lemmyverse.link](https://lemmyverse.link/c/hiphopheads@sopuli.xyz) | ![](https://img.shields.io/lemmy/hiphopheads@sopuli.xyz?style=flat&label=Subs&cacheSeconds=172800&color=pink)
@@ -234,7 +234,7 @@
 14. **[Deathcore](/c/deathcore@lemmy.ml)** | lemmy.ml | [Kbin](/m/deathcore@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/deathcore@lemmy.ml) | ![](https://img.shields.io/lemmy/deathcore@lemmy.ml?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- A community for Deathcore music enthusiasts.
 15. **[Synthpop Music](/c/synthpop@sh.itjust.works)** | sh.itjust.works | [Kbin](/m/synthpop@sh.itjust.works) | [lemmyverse.link](https://lemmyverse.link/c/synthpop@sh.itjust.works) | ![](https://img.shields.io/lemmy/synthpop@sh.itjust.works?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- Post synthpop
+	- Post synthpop.
 16. **[UK Rock & Punk Scene](/c/ukmusic_rockpunk@feddit.uk)** | feddit.uk | [Kbin](/m/ukmusic_rockpunk@feddit.uk) | [lemmyverse.link](https://lemmyverse.link/c/ukmusic_rockpunk@feddit.uk) | ![](https://img.shields.io/lemmy/ukmusic_rockpunk@feddit.uk?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- A chance to discuss one of the many great musical genres. Share stories, videos, pictures, let us all know about every awesome gig your rock’d your fucking socks off at.
 17. **[Dancehall](/c/dancehall@lemmy.world)** | lemmy.world | [Kbin](/m/dancehall@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/dancehall@lemmy.world) | ![](https://img.shields.io/lemmy/dancehall@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
@@ -252,7 +252,7 @@
 23. **[Dubstep](/c/dubstep@lemmy.dbzer0.com)** | lemmy.dbzer0.com | [Kbin](/m/dubstep@lemmy.dbzer0.com) | [lemmyverse.link](https://lemmyverse.link/c/dubstep@lemmy.dbzer0.com) | ![](https://img.shields.io/lemmy/dubstep@lemmy.dbzer0.com?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- A community for all things dubstep!
 24. **[Breakbeat](/c/breakbeat@lemmy.ml)** | lemmy.ml | [Kbin](/m/breakbeat@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/breakbeat@lemmy.ml) | ![](https://img.shields.io/lemmy/breakbeat@lemmy.ml?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- NoDescription
+	- Breakbeat is a broad type of electronic music that uses drum breaks, often sampled from early recordings of funk, jazz, and R&B. Breakbeats have been used in styles such as Florida breaks, hip hop, jungle, drum and bass, big beat, breakbeat hardcore, and UK garage styles (including 2-step, breakstep and dubstep).
 25. **[Electro swing](/c/electroswing@lemmy.dbzer0.com)** | lemmy.dbzer0.com | [Kbin](/m/electroswing@lemmy.dbzer0.com) | [lemmyverse.link](https://lemmyverse.link/c/electroswing@lemmy.dbzer0.com) | ![](https://img.shields.io/lemmy/electroswing@lemmy.dbzer0.com?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- NoDescription
 ### 1.4.3. Time periods (2 communities)
