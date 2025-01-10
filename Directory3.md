@@ -15,7 +15,7 @@
 # 4. Memes/Humoristic 🎭 (106 communities)
 ## 4.1. Misc (54 communities)
 1. **[Linux Memes](/c/linuxmemes@lemmy.world)** | lemmy.world | [Kbin](/m/linuxmemes@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/linuxmemes@lemmy.world) | ![](https://img.shields.io/lemmy/linuxmemes@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- I use Arch btw.
+	- Hint: `:q!`
 2. **[Programmer Humor](/c/programmer_humor@programming.dev)** | programming.dev | [Kbin](/m/programmer_humor@programming.dev) | [lemmyverse.link](https://lemmyverse.link/c/programmer_humor@programming.dev) | ![](https://img.shields.io/lemmy/programmer_humor@programming.dev?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- Welcome to Programmer Humor! This is a place where you can post jokes, memes, humor, etc. related to programming!
 3. **[Science Memes](/c/science_memes@mander.xyz)** | mander.xyz | [Kbin](/m/science_memes@mander.xyz) | [lemmyverse.link](https://lemmyverse.link/c/science_memes@mander.xyz) | ![](https://img.shields.io/lemmy/science_memes@mander.xyz?style=flat&label=Subs&cacheSeconds=172800&color=pink)
@@ -35,11 +35,11 @@
 10. **[GNU+Linux Humor](/c/linuxhumor@lemmy.ml)** | lemmy.ml | [Kbin](/m/linuxhumor@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/linuxhumor@lemmy.ml) | ![](https://img.shields.io/lemmy/linuxhumor@lemmy.ml?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	-  Memes, jokes and general humor about GNU+Linux.
 11. **[hmmm](/c/hmmm@lemmy.world)** | lemmy.world | [Kbin](/m/hmmm@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/hmmm@lemmy.world) | ![](https://img.shields.io/lemmy/hmmm@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- Internet as an art.
+	- For things that are “hmmm”.
 12. **[me_irl](/c/me_irl@lemmy.world)** | lemmy.world | [Kbin](/m/me_irl@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/me_irl@lemmy.world) | ![](https://img.shields.io/lemmy/me_irl@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- All posts need to have the same title: "me_irl" it is allowed to use an emoji instead of the underscore "_".
+	- NoDescription
 13. **[Fake History Porn](/c/fakehistoryporn@lemmy.world)** | lemmy.world | [Kbin](/m/fakehistoryporn@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/fakehistoryporn@lemmy.world) | ![](https://img.shields.io/lemmy/fakehistoryporn@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- Welcome to [/c/fakehistoryporn@lemmy.world](https://lemmy.dbzer0.com/c/fakehistoryporn@lemmy.world) , where fake history is made. Find a historically significant photo, come up with a fake history title, post it, laugh.
+	- Welcome to /c/fakehistoryporn@lemmy.world , where fake history is made. Find a historically significant photo, come up with a fake history title, post it, laugh.
 14. **[Bone Apple Tea](/c/boneappletea@lemmy.world)** | lemmy.world | [Kbin](/m/boneappletea@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/boneappletea@lemmy.world) | ![](https://img.shields.io/lemmy/boneappletea@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- A community for funny phonetic misspellings of words or phrases. Bonus points if this misspelling comprises actual words, like this community’s namesake: Bon appétit —> Bone apple tea.
 15. **[Witchy Memes](/c/witchymemes@lemmy.world)** | lemmy.world | [Kbin](/m/witchymemes@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/witchymemes@lemmy.world) | ![](https://img.shields.io/lemmy/witchymemes@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
@@ -55,9 +55,9 @@
 20. **[Bikini Bottom Twitter](/c/bikinibottomtwitter@lemmy.world)** | lemmy.world | [Kbin](/m/bikinibottomtwitter@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/bikinibottomtwitter@lemmy.world) | ![](https://img.shields.io/lemmy/bikinibottomtwitter@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- Are ya ready kids?!
 21. **[Trippin' Through Time](/c/trippinthroughtime@lemmy.ca)** | lemmy.ca | [Kbin](/m/trippinthroughtime@lemmy.ca) | [lemmyverse.link](https://lemmyverse.link/c/trippinthroughtime@lemmy.ca) | ![](https://img.shields.io/lemmy/trippinthroughtime@lemmy.ca?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- A lemmy replacement for the r/trippinthroughtime sub.
+	- NoDescription
 22. **[gamingcirclejerk](/c/gamingcirclejerk@lemmy.world)** | lemmy.world | [Kbin](/m/gamingcirclejerk@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/gamingcirclejerk@lemmy.world) | ![](https://img.shields.io/lemmy/gamingcirclejerk@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- omg they made lemmy political.
+	- omg they made lemmy political
 23. **[simpsonsshitposting](/c/simpsonsshitposting@sh.itjust.works)** | sh.itjust.works | [Kbin](/m/simpsonsshitposting@sh.itjust.works) | [lemmyverse.link](https://lemmyverse.link/c/simpsonsshitposting@sh.itjust.works) | ![](https://img.shields.io/lemmy/simpsonsshitposting@sh.itjust.works?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- I just think they’re neat!
 24. **[solarpunk memes](/c/memes@slrpnk.net)** | slrpnk.net | [Kbin](/m/memes@slrpnk.net) | [lemmyverse.link](https://lemmyverse.link/c/memes@slrpnk.net) | ![](https://img.shields.io/lemmy/memes@slrpnk.net?style=flat&label=Subs&cacheSeconds=172800&color=pink)
@@ -65,7 +65,7 @@
 25. **[Metal Memes](/c/metalmemes@lemmy.world)** | lemmy.world | [Kbin](/m/metalmemes@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/metalmemes@lemmy.world) | ![](https://img.shields.io/lemmy/metalmemes@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- Memes. For metal music.
 26. **[r/unixsocks on fediverse](/c/unixsocks@lemmy.blahaj.zone)** | lemmy.blahaj.zone | [Kbin](/m/unixsocks@lemmy.blahaj.zone) | [lemmyverse.link](https://lemmyverse.link/c/unixsocks@lemmy.blahaj.zone) | ![](https://img.shields.io/lemmy/unixsocks@lemmy.blahaj.zone?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- Unixporn + ThighHighs
+	- Unixporn + ThighHighs.
 27. **[Comedy Heaven](/c/comedyheaven@lemmy.world)** | lemmy.world | [Kbin](/m/comedyheaven@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/comedyheaven@lemmy.world) | ![](https://img.shields.io/lemmy/comedyheaven@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- So bad it’s ascended. For comedy that’s so bad it’s good.
 28. **[Aneurysm Posting](/c/aneurysmposting@sopuli.xyz)** | sopuli.xyz | [Kbin](/m/aneurysmposting@sopuli.xyz) | [lemmyverse.link](https://lemmyverse.link/c/aneurysmposting@sopuli.xyz) | ![](https://img.shields.io/lemmy/aneurysmposting@sopuli.xyz?style=flat&label=Subs&cacheSeconds=172800&color=pink)
@@ -80,16 +80,16 @@
 	- A place for history memes.
 33. **[Femcel Memes](/c/femcelmemes@lemmy.blahaj.zone)** | lemmy.blahaj.zone | [Kbin](/m/femcelmemes@lemmy.blahaj.zone) | [lemmyverse.link](https://lemmyverse.link/c/femcelmemes@lemmy.blahaj.zone) | ![](https://img.shields.io/lemmy/femcelmemes@lemmy.blahaj.zone?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- Welcome to femcel memes. A place where anybody can post memes that fit the vibe.
-34. **[Shitty Car Mods](/c/shittycarmods@lemmy.world)** ❓ | lemmy.world | [Kbin](/m/shittycarmods@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/shittycarmods@lemmy.world) | ![](https://img.shields.io/lemmy/shittycarmods@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
+34. **[Shitty Car Mods](/c/shittycarmods@lemmy.world)** | lemmy.world | [Kbin](/m/shittycarmods@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/shittycarmods@lemmy.world) | ![](https://img.shields.io/lemmy/shittycarmods@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- You know what it is.
 35. **[Surreal Memes](/c/surrealmemes@sh.itjust.works)** | sh.itjust.works | [Kbin](/m/surrealmemes@sh.itjust.works) | [lemmyverse.link](https://lemmyverse.link/c/surrealmemes@sh.itjust.works) | ![](https://img.shields.io/lemmy/surrealmemes@sh.itjust.works?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- NoDescription
 36. **[Software Gore](/c/software_gore@programming.dev)** | programming.dev | [Kbin](/m/software_gore@programming.dev) | [lemmyverse.link](https://lemmyverse.link/c/software_gore@programming.dev) | ![](https://img.shields.io/lemmy/software_gore@programming.dev?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- A community for posting software malfunctions.
 37. **[Religious Cringe](/c/religiouscringe@midwest.social)** | midwest.social | [Kbin](/m/religiouscringe@midwest.social) | [lemmyverse.link](https://lemmyverse.link/c/religiouscringe@midwest.social) | ![](https://img.shields.io/lemmy/religiouscringe@midwest.social?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- This is the official Lemmy for the [r/ReligiousCringe*****](https://www.reddit.com/r/ReligiousCringetards/) subreddit. This is a community about poking fun at the religious fundamentalist’s who take their religion a little bit too far. Here you will find religious content that is so outrageous and so cringeworthy that even someone who is mildly religious will cringe.
+	- This is a community about poking fun at the religious fundamentalist’s who take their religion a little bit too far. Here you will find religious content that is so outrageous and so cringeworthy that even someone who is mildly religious will cringe.
 38. **[Relationship Memes](/c/relationshipmemes@lemmyis.fun)** | lemmyis.fun | [Kbin](/m/relationshipmemes@lemmyis.fun) | [lemmyverse.link](https://lemmyverse.link/c/relationshipmemes@lemmyis.fun) | ![](https://img.shields.io/lemmy/relationshipmemes@lemmyis.fun?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- the place for relationship memes. Whether you’re loved up or single, showing off or sulking, all your relationship memes are welcome here where it’s actually all quite wholesome. We actually think the more sickly-romantic the better here 😂 Have fun all!
+	- The place for relationship memes. Whether you’re loved up or single, showing off or sulking, all your relationship memes are welcome here where it’s actually all quite wholesome. We actually think the more sickly-romantic the better here. Have fun all!
 39. **[Reaction Memes](/c/reactionmemes@lemmy.dbzer0.com)** | lemmy.dbzer0.com | [Kbin](/m/reactionmemes@lemmy.dbzer0.com) | [lemmyverse.link](https://lemmyverse.link/c/reactionmemes@lemmy.dbzer0.com) | ![](https://img.shields.io/lemmy/reactionmemes@lemmy.dbzer0.com?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- NoDescription
 40. **[Stand Up Comedy](/c/standupcomedy@lemmy.world)** | lemmy.world | [Kbin](/m/standupcomedy@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/standupcomedy@lemmy.world) | ![](https://img.shields.io/lemmy/standupcomedy@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
@@ -105,21 +105,21 @@
 45. **[Weird Wheels](/c/weirdwheels@lemm.ee)** ❓ | lemm.ee | [Kbin](/m/weirdwheels@lemm.ee) | [lemmyverse.link](https://lemmyverse.link/c/weirdwheels@lemm.ee) | ![](https://img.shields.io/lemmy/weirdwheels@lemm.ee?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- We focus on unusual vehicles, auto tech and art.
 46. **[Vegan Circlejerk](/c/vegancirclejerk@lemmy.vg)** | lemmy.vg | [Kbin](/m/vegancirclejerk@lemmy.vg) | [lemmyverse.link](https://lemmyverse.link/c/vegancirclejerk@lemmy.vg) | ![](https://img.shields.io/lemmy/vegancirclejerk@lemmy.vg?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- We absolutely respect veganism and what it stands for.
+	- NoDescription
 47. **[JoJo bizarre adventure memes galore](/c/shitpostcrusaders@lemmy.world)** | lemmy.world | [Kbin](/m/shitpostcrusaders@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/shitpostcrusaders@lemmy.world) | ![](https://img.shields.io/lemmy/shitpostcrusaders@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- NoDescription
 48. **[Bossfight](/c/bossfight@lemmy.dbzer0.com)** | lemmy.dbzer0.com | [Kbin](/m/bossfight@lemmy.dbzer0.com) | [lemmyverse.link](https://lemmyverse.link/c/bossfight@lemmy.dbzer0.com) | ![](https://img.shields.io/lemmy/bossfight@lemmy.dbzer0.com?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- Pictures of things that could be boss fights, any kind of picture, gif, or video may be used. Come up with a boss name for the title, and if desired add some stats and or back story in the comments.
 49. **[Antimeme](/c/antimeme@lemmy.world)** | lemmy.world | [Kbin](/m/antimeme@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/antimeme@lemmy.world) | ![](https://img.shields.io/lemmy/antimeme@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- [Antimemes](https://knowyourmeme.com/memes/anti-memes) are image macros which are typically captioned with anti-jokes and meta humor mocking or mimicking other memes. Antimemes often depict situations that are very literal, obvious, or intentionally “not funny” in contrast to the memes they originate from.
+	- Antimemes are image macros which are typically captioned with anti-jokes and meta humor mocking or mimicking other memes. Antimemes often depict situations that are very literal, obvious, or intentionally “not funny” in contrast to the memes they originate from.
 50. **[Without The Punchline](/c/withoutthepunchline@lemmy.world)** | lemmy.world | [Kbin](/m/withoutthepunchline@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/withoutthepunchline@lemmy.world) | ![](https://img.shields.io/lemmy/withoutthepunchline@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- Memes/Jokes without the punchline
+	- Memes/Jokes without the punchline.
 51. **[Dad Rock Circlejerk](/c/dadrockcirclejerk@lemmy.studio)** | lemmy.studio | [Kbin](/m/dadrockcirclejerk@lemmy.studio) | [lemmyverse.link](https://lemmyverse.link/c/dadrockcirclejerk@lemmy.studio) | ![](https://img.shields.io/lemmy/dadrockcirclejerk@lemmy.studio?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- A community for shitposting about old bands. Inspired by r/beatlescirclejerk, r/pinkfloydcirclejerk, and other similar subreddits.
 52. **[Awesome Car Mods](/c/awesomecarmods@lemmy.dbzer0.com)** ❓ | lemmy.dbzer0.com | [Kbin](/m/awesomecarmods@lemmy.dbzer0.com) | [lemmyverse.link](https://lemmyverse.link/c/awesomecarmods@lemmy.dbzer0.com) | ![](https://img.shields.io/lemmy/awesomecarmods@lemmy.dbzer0.com?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- A subreddit devoted to car modifications that are awesome.
+	- A community devoted to car modifications that are awesome. This community is pretty simple, the title says it all.w
 53. **[Joke Conspiracies](/c/jokeconspiracy@lemmy.ca)** | lemmy.ca | [Kbin](/m/jokeconspiracy@lemmy.ca) | [lemmyverse.link](https://lemmyverse.link/c/jokeconspiracy@lemmy.ca) | ![](https://img.shields.io/lemmy/jokeconspiracy@lemmy.ca?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- Not for serious conspiracies that anyone actually takes seriously. Ex it should be basically jokes, like [birds aren’t real](https://en.wikipedia.org/wiki/Birds_Aren't_Real).
+	- Not for serious conspiracies that anyone actually takes seriously. Ex it should be basically jokes, like birds aren’t real.
 54. **[Church of Ned](/c/churchofned@lemmy.world)** | lemmy.world | [Kbin](/m/churchofned@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/churchofned@lemmy.world) | ![](https://img.shields.io/lemmy/churchofned@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- Before you post here, ask yourself, "What Would Ned Do?". Please follow all of Lemmy’s and Ned’s rules.
 ## 4.2. General (13 communities) [Day 17]
@@ -156,13 +156,13 @@
 	- This is a community for posting fake band names. Find a string of words that sounds like the name of a garage band or just goes hard? Post it here.
 ## 4.4. News format (8 communities) [Day 3]
 1. **[Not The Onion](/c/nottheonion@lemmy.world)** | lemmy.world | [Kbin](/m/nottheonion@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/nottheonion@lemmy.world) | ![](https://img.shields.io/lemmy/nottheonion@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- We’re not _[The Onion](https://www.theonion.com/)_! Not affiliated with them in any way! Not operated by them in any way! All the news here is real!
+	- We’re not _The Onion_! Not affiliated with them in any way! Not operated by them in any way! All the news here is real!
 2. **[The Onion](/c/theonion@midwest.social)** | midwest.social | [Kbin](/m/theonion@midwest.social) | [lemmyverse.link](https://lemmyverse.link/c/theonion@midwest.social) | ![](https://img.shields.io/lemmy/theonion@midwest.social?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- A place to share and discuss stories from The Onion, Clickhole, and other satire.
 3. **[Not the Onion](/c/nottheonion@lemmy.ml)** | lemmy.ml | [Kbin](/m/nottheonion@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/nottheonion@lemmy.ml) | ![](https://img.shields.io/lemmy/nottheonion@lemmy.ml?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- For true stories that are so ridiculous, that you could have sworn it was an !theonion worthy story.
 4. **[Offbeat](/c/offbeat@lemmy.ca)** | lemmy.ca | [Kbin](/m/offbeat@lemmy.ca) | [lemmyverse.link](https://lemmyverse.link/c/offbeat@lemmy.ca) | ![](https://img.shields.io/lemmy/offbeat@lemmy.ca?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- The world is a weird place filled with even weirder news.
+	- Post your funny, weird, strange, or quirky news stories here!
 5. **[And Finally...](/c/andfinally@feddit.uk)** | feddit.uk | [Kbin](/m/andfinally@feddit.uk) | [lemmyverse.link](https://lemmyverse.link/c/andfinally@feddit.uk) | ![](https://img.shields.io/lemmy/andfinally@feddit.uk?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- A place for odd or quirky world news stories.
 6. **[Weird News](/c/weirdnews@real.lemmy.fan)** | real.lemmy.fan | [Kbin](/m/weirdnews@real.lemmy.fan) | [lemmyverse.link](https://lemmyverse.link/c/weirdnews@real.lemmy.fan) | ![](https://img.shields.io/lemmy/weirdnews@real.lemmy.fan?style=flat&label=Subs&cacheSeconds=172800&color=pink)
@@ -170,7 +170,7 @@
 7. **[Strange Times](/c/strangetimes@lemmy.world)** | lemmy.world | [Kbin](/m/strangetimes@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/strangetimes@lemmy.world) | ![](https://img.shields.io/lemmy/strangetimes@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- News about weird nature, unusual happenings, and fringe claims. Anomalies, animals, nature, Fortean, paranormal, cryptids, weather.
 8. **[SERIOUS NEWS ONLY](/c/seriousnews@lemmy.world)** | lemmy.world | [Kbin](/m/seriousnews@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/seriousnews@lemmy.world) | ![](https://img.shields.io/lemmy/seriousnews@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- Dont actually post anything serious or you'll be banned.
+	- Dont actually post anything serious or youll be banned.
 ## 4.5. Show (6 communities) [Day 10]
 1. **[Star Wars Memes](/c/starwarsmemes@lemmy.world)** | lemmy.world | [Kbin](/m/starwarsmemes@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/starwarsmemes@lemmy.world) | ![](https://img.shields.io/lemmy/starwarsmemes@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- Hello there. Somehow, Star Wars memes have returned. It’s not a trap, this is where the fun begins.
@@ -192,7 +192,7 @@
 3. **[DnD Memes](/c/dndmemes@sh.itjust.works)** | sh.itjust.works | [Kbin](/m/dndmemes@sh.itjust.works) | [lemmyverse.link](https://lemmyverse.link/c/dndmemes@sh.itjust.works) | ![](https://img.shields.io/lemmy/dndmemes@sh.itjust.works?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- NoDescription
 4. **[Dungeons and Dragons - Memes and Comics](/c/dnd_memes@lemmy.world)** | lemmy.world | [Kbin](/m/dnd_memes@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/dnd_memes@lemmy.world) | ![](https://img.shields.io/lemmy/dnd_memes@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- A community for Dungeons and Dragons Memes and Comics
+	- A community for Dungeons and Dragons Memes and Comics.
 5. **[Grimdank](/c/grimdank@lemmy.world)** | lemmy.world | [Kbin](/m/grimdank@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/grimdank@lemmy.world) | ![](https://img.shields.io/lemmy/grimdank@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- Da stompin’ ground fer da dankest memes from da 41st millennium an’ da Mortal Realms, right 'ere at yer central Waaagh! hub!
 6. **[ShittyDarkSouls](/c/shittydarksouls@lemmy.world)** | lemmy.world | [Kbin](/m/shittydarksouls@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/shittydarksouls@lemmy.world) | ![](https://img.shields.io/lemmy/shittydarksouls@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
