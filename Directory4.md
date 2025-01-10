@@ -81,7 +81,7 @@
 17. **[World of Warcraft](/c/wow@lemmy.ml)** | lemmy.ml | [Kbin](/m/wow@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/wow@lemmy.ml) | ![](https://img.shields.io/lemmy/wow@lemmy.ml?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- NoDescription
 18. **[Satisfactory](/c/satisfactory@lemmy.world)** | lemmy.world | [Kbin](/m/satisfactory@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/satisfactory@lemmy.world) | ![](https://img.shields.io/lemmy/satisfactory@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- The unofficial Lemmy community for Satisfactory, the factory-building and exploration game.
+	- The Lemmy community for Satisfactory, the factory-building and exploration game.
 19. **[Guild Wars 2](/c/guildwars2@lemmy.wtf)** | lemmy.wtf | [Kbin](/m/guildwars2@lemmy.wtf) | [lemmyverse.link](https://lemmyverse.link/c/guildwars2@lemmy.wtf) | ![](https://img.shields.io/lemmy/guildwars2@lemmy.wtf?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- Welcome to c/guildwars2 on the Lemmyverse.
 20. **[Pixel Dungeon](/c/pixeldungeon@lemmy.world)** | lemmy.world | [Kbin](/m/pixeldungeon@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/pixeldungeon@lemmy.world) | ![](https://img.shields.io/lemmy/pixeldungeon@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
@@ -97,7 +97,7 @@
 25. **[Elden Ring](/c/eldenring@lemmy.ml)** | lemmy.ml | [Kbin](/m/eldenring@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/eldenring@lemmy.ml) | ![](https://img.shields.io/lemmy/eldenring@lemmy.ml?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- A sub community for Elden Ring, an upcoming video game directed by Michael Zaki and published by From Software.
 26. **[Factorio](/c/factorio@lemmy.world)** | lemmy.world | [Kbin](/m/factorio@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/factorio@lemmy.world) | ![](https://img.shields.io/lemmy/factorio@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- A Lemmy community for the game [Factorio](https://www.factorio.com/) made by Wube Software.
+	- A Lemmy community for the game Factorio made by Wube Software.
 27. **[Dota 2](/c/dota2@lemmy.ml)** | lemmy.ml | [Kbin](/m/dota2@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/dota2@lemmy.ml) | ![](https://img.shields.io/lemmy/dota2@lemmy.ml?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- NoDescription
 28. **[Team Fortress 2](/c/tf2@lemmy.world)** | lemmy.world | [Kbin](/m/tf2@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/tf2@lemmy.world) | ![](https://img.shields.io/lemmy/tf2@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
@@ -149,7 +149,7 @@
 51. **[Outer Wilds](/c/outerwilds@lemmy.world)** | lemmy.world | [Kbin](/m/outerwilds@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/outerwilds@lemmy.world) | ![](https://img.shields.io/lemmy/outerwilds@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- Outer Wilds is an exploration game about curiosity, roasting marshmallows, and unravelling the mysteries of the cosmos.
 52. **[Helltaker](/c/helltaker@sopuli.xyz)** | sopuli.xyz | [Kbin](/m/helltaker@sopuli.xyz) | [lemmyverse.link](https://lemmyverse.link/c/helltaker@sopuli.xyz) | ![](https://img.shields.io/lemmy/helltaker@sopuli.xyz?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- A community for the game by [Vanripper](https://twitter.com/vanripperart?lang=en). Post art and discuss your favourite sharply dressed demons and helltakers.
+	- A community for the game by Vanripper. Post art and discuss your favourite sharply dressed demons and helltakers.
 53. **[Risk Of Rain](/c/riskofrain@lemmy.world)** | lemmy.world | [Kbin](/m/riskofrain@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/riskofrain@lemmy.world) | ![](https://img.shields.io/lemmy/riskofrain@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- Discussions and memes about the games Risk of Rain and Risk of Rain 2.
 54. **[Forza](/c/forza@lemmy.world)** | lemmy.world | [Kbin](/m/forza@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/forza@lemmy.world) | ![](https://img.shields.io/lemmy/forza@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
@@ -185,7 +185,7 @@
 69. **[Forza Horizon Games](/c/forzahorizon@lemmy.world)** | lemmy.world | [Kbin](/m/forzahorizon@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/forzahorizon@lemmy.world) | ![](https://img.shields.io/lemmy/forzahorizon@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- NoDescription
 70. **[Girls Frontline](/c/girlsfrontline@lemmy.world)** | lemmy.world | [Kbin](/m/girlsfrontline@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/girlsfrontline@lemmy.world) | ![](https://img.shields.io/lemmy/girlsfrontline@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- The unofficial Girls Frontline lemmy community.
+	- The Girls Frontline lemmy community.
 71. **[GO  (IGO / WEIQI / BADUK)](/c/gogame@discuss.tchncs.de)** | discuss.tchncs.de | [Kbin](/m/gogame@discuss.tchncs.de) | [lemmyverse.link](https://lemmyverse.link/c/gogame@discuss.tchncs.de) | ![](https://img.shields.io/lemmy/gogame@discuss.tchncs.de?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- A place for people who like to arrange black and white stones on grids and have many names for this including: Go, “The Game of Go”, Baduk, Weiqi, Igo, 圍棋 / 围棋, 囲碁, 바둑, …)
 72. **[World of Warships](/c/wows@lemmy.ml)** | lemmy.ml | [Kbin](/m/wows@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/wows@lemmy.ml) | ![](https://img.shields.io/lemmy/wows@lemmy.ml?style=flat&label=Subs&cacheSeconds=172800&color=pink)
