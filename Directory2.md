@@ -49,7 +49,7 @@
 16. **[Top View](/c/topview@lemmy.world)** | lemmy.world | [Kbin](/m/topview@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/topview@lemmy.world) | ![](https://img.shields.io/lemmy/topview@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- A place to share pictures taken from above, that reveal interesting views, fascinating places or different angles to places.
 17. **[History Ruins](/c/historyruins@lemmy.world)** | lemmy.world | [Kbin](/m/historyruins@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/historyruins@lemmy.world) | ![](https://img.shields.io/lemmy/historyruins@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- What is a ruin? We’re running off of “You know it when you see it” at the moment.
+	- What is a ruin? We’re running off of “You know it when you see it” at the moment. Non-functioning structures of some age, or their function reduced to tourism and the like.
 18. **[OldPhotosInRealLife](/c/oldphotosinreallife@lemmy.world)** | lemmy.world | [Kbin](/m/oldphotosinreallife@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/oldphotosinreallife@lemmy.world) | ![](https://img.shields.io/lemmy/oldphotosinreallife@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- Comparing past and present locations through photography.
 19. **[Street photography](/c/streetphotography@lemmy.world)** | lemmy.world | [Kbin](/m/streetphotography@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/streetphotography@lemmy.world) | ![](https://img.shields.io/lemmy/streetphotography@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
@@ -68,7 +68,7 @@
 1. (1.1.) **[Cyberpunk](/c/cyberpunk@lemmy.ml)** | lemmy.ml | [Kbin](/m/cyberpunk@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/cyberpunk@lemmy.ml) | ![](https://img.shields.io/lemmy/cyberpunk@lemmy.ml?style=flat&label=Subs&cacheSeconds=172800&color=pink) (2 communities)
 	- A transhumanistic edge of society in dystopia. Daily life has been impacted by rapid technological takeover.
 	1. (1.2.) **[Cyberpunk](/c/cyberpunk@lemmy.zip)** | lemmy.zip | [Kbin](/m/cyberpunk@lemmy.zip) | [lemmyverse.link](https://lemmyverse.link/c/cyberpunk@lemmy.zip) | ![](https://img.shields.io/lemmy/cyberpunk@lemmy.zip?style=flat&label=Subs&cacheSeconds=172800&color=plum)
-		- Cyberpunk is a science-fiction sub-genre dealing with the integration of society and technology in dystopian settings. Often referred to as “low-life and high tech,”
+		- Cyberpunk is a science-fiction sub-genre dealing with the integration of society and technology in dystopian settings. Often referred to as “low-life and high tech".
 2. **[Goblincore](/c/goblincore@lemmy.blahaj.zone)** | lemmy.blahaj.zone | [Kbin](/m/goblincore@lemmy.blahaj.zone) | [lemmyverse.link](https://lemmyverse.link/c/goblincore@lemmy.blahaj.zone) | ![](https://img.shields.io/lemmy/goblincore@lemmy.blahaj.zone?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- Welcome to the enchanting realm of Goblincore Lemmy! This vibrant community is a whimsical gathering place for those who embrace the joyous and offbeat aesthetics of goblincore, infused with the spirit of Lemmy.
 3. **[Raining](/c/raining@sh.itjust.works)** | sh.itjust.works | [Kbin](/m/raining@sh.itjust.works) | [lemmyverse.link](https://lemmyverse.link/c/raining@sh.itjust.works) | ![](https://img.shields.io/lemmy/raining@sh.itjust.works?style=flat&label=Subs&cacheSeconds=172800&color=pink)
@@ -99,7 +99,7 @@
 7. **[Cyanide and Happiness](/c/cyanideandhappiness@lemm.ee)** | lemm.ee | [Kbin](/m/cyanideandhappiness@lemm.ee) | [lemmyverse.link](https://lemmyverse.link/c/cyanideandhappiness@lemm.ee) | ![](https://img.shields.io/lemmy/cyanideandhappiness@lemm.ee?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- Hello fellow Cyanide and Happiness fans!
 8. **[unix_surrealism](/c/unix_surrealism@lemmy.sdf.org)** | lemmy.sdf.org | [Kbin](/m/unix_surrealism@lemmy.sdf.org) | [lemmyverse.link](https://lemmyverse.link/c/unix_surrealism@lemmy.sdf.org) | ![](https://img.shields.io/lemmy/unix_surrealism@lemmy.sdf.org?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- `one should not chase the electric dream, but strive to became an extension to its dreamer`
+	- one should not chase the electric dream, but strive to became an extension to its dreamer
 9. **[Loading Artist comics](/c/loadingartist@lemmy.world)** | lemmy.world | [Kbin](/m/loadingartist@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/loadingartist@lemmy.world) | ![](https://img.shields.io/lemmy/loadingartist@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- The official Loading Artist Lemmy community.
 10. **[Garfield](/c/garfield@lemmy.world)** | lemmy.world | [Kbin](/m/garfield@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/garfield@lemmy.world) | ![](https://img.shields.io/lemmy/garfield@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
@@ -134,11 +134,11 @@
 3. **[Writing Prompts](/c/writingprompts@lemmy.world)** | lemmy.world | [Kbin](/m/writingprompts@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/writingprompts@lemmy.world) | ![](https://img.shields.io/lemmy/writingprompts@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- A place to make prompts, or to post things written from a prompt.
 4. **[Short Stories](/c/shortstories@literature.cafe)** | literature.cafe | [Kbin](/m/shortstories@literature.cafe) | [lemmyverse.link](https://lemmyverse.link/c/shortstories@literature.cafe) | ![](https://img.shields.io/lemmy/shortstories@literature.cafe?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- Hey storytellers! 📖 Welcome to our cozy corner for short stories – whether you’re spinning your own yarns or diving into favorites. Grab a virtual seat, share your quick tales, and soak up the creativity.
+	- Hey storytellers! Welcome to our cozy corner for short stories – whether you’re spinning your own yarns or diving into favorites. Grab a virtual seat, share your quick tales, and soak up the creativity.
 ## 1.9. AI 🤖 (6 communities) [Day 12]
 1. **[ImageAI](/c/imageai@sh.itjust.works)** | sh.itjust.works | [Kbin](/m/imageai@sh.itjust.works) | [lemmyverse.link](https://lemmyverse.link/c/imageai@sh.itjust.works) | ![](https://img.shields.io/lemmy/imageai@sh.itjust.works?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- Community for AI image generation. Any models are allowed. Creativity is valuable! It is recommended to post the model used for reference, but not a rule.
-2. **[AI Art](/c/ai_art@lemmy.world)** | lemmy.world | [Kbin](/m/ai_art@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/ai_art@lemmy.world) | ![](https://img.shields.io/lemmy/ai_art@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
+2. **[AI Art & Image Generation](/c/ai_art@lemmy.world)** | lemmy.world | [Kbin](/m/ai_art@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/ai_art@lemmy.world) | ![](https://img.shields.io/lemmy/ai_art@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- A place to share images and art generated by artificial intelligence and similar tools.
 3. **[Stable Diffusion Art](/c/stable_diffusion_art@lemmy.dbzer0.com)** | lemmy.dbzer0.com | [Kbin](/m/stable_diffusion_art@lemmy.dbzer0.com) | [lemmyverse.link](https://lemmyverse.link/c/stable_diffusion_art@lemmy.dbzer0.com) | ![](https://img.shields.io/lemmy/stable_diffusion_art@lemmy.dbzer0.com?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- Share art created with Stable Diffusion.
@@ -156,11 +156,11 @@
 3. **[Ultrawide Wallpapers](/c/ultrawide_wallpapers@lemmy.world)** | lemmy.world | [Kbin](/m/ultrawide_wallpapers@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/ultrawide_wallpapers@lemmy.world) | ![](https://img.shields.io/lemmy/ultrawide_wallpapers@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- A community to find and share amazing ultrawide wallpapers.
 4. **[Wallpapers](/c/wallpapers@lemmy.world)** | lemmy.world | [Kbin](/m/wallpapers@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/wallpapers@lemmy.world) | ![](https://img.shields.io/lemmy/wallpapers@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- description
+	- NoDescription
 5. **[Anime Wallpapers](/c/animewallpapers@ani.social)** | ani.social | [Kbin](/m/animewallpapers@ani.social) | [lemmyverse.link](https://lemmyverse.link/c/animewallpapers@ani.social) | ![](https://img.shields.io/lemmy/animewallpapers@ani.social?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- Unleash your otaku spirit and explore a treasure trove of breathtaking anime wallpapers.
 6. **[AMOLED Wallpapers](/c/amoledwallpapers@lemmy.ml)** | lemmy.ml | [Kbin](/m/amoledwallpapers@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/amoledwallpapers@lemmy.ml) | ![](https://img.shields.io/lemmy/amoledwallpapers@lemmy.ml?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- description
+	- NoDescription
 7. **[Nature Wallpapers](/c/naturewallpapers@lemmy.world)** | lemmy.world | [Kbin](/m/naturewallpapers@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/naturewallpapers@lemmy.world) | ![](https://img.shields.io/lemmy/naturewallpapers@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- Lemmy community for nature wallpapers.
 8. **[MinimalWallpaper](/c/minimalwallpaper@lemmy.ml)** | lemmy.ml | [Kbin](/m/minimalwallpaper@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/minimalwallpaper@lemmy.ml) | ![](https://img.shields.io/lemmy/minimalwallpaper@lemmy.ml?style=flat&label=Subs&cacheSeconds=172800&color=pink)
@@ -190,7 +190,7 @@
 9. **[Raccoons](/c/raccoons@lemmy.world)** | lemmy.world | [Kbin](/m/raccoons@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/raccoons@lemmy.world) | ![](https://img.shields.io/lemmy/raccoons@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- A place for raccoons migrating from reddit.
 10. **[ducks](/c/quackers@lemmy.world)** | lemmy.world | [Kbin](/m/quackers@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/quackers@lemmy.world) | ![](https://img.shields.io/lemmy/quackers@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- Place to post cute ducks, gooses allowed too 🦆🦆
+	- Place to post cute ducks, gooses allowed too.
 11. **[Bats](/c/bats@lemmy.world)** | lemmy.world | [Kbin](/m/bats@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/bats@lemmy.world) | ![](https://img.shields.io/lemmy/bats@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- Bats are the only true flying mammals. There are over 1,400 species of bats, and they can be found on nearly every part of the planet. Not only are they cute, they are also important…
 12. **[Fox pics](/c/foxes@lemmy.world)** | lemmy.world | [Kbin](/m/foxes@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/foxes@lemmy.world) | ![](https://img.shields.io/lemmy/foxes@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
@@ -242,11 +242,11 @@
 10. **[Mushrooms](/c/mushrooms@lemmy.world)** | lemmy.world | [Kbin](/m/mushrooms@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/mushrooms@lemmy.world) | ![](https://img.shields.io/lemmy/mushrooms@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- NoDescription
 11. **[Medicine](/c/medicine@mander.xyz)** | mander.xyz | [Kbin](/m/medicine@mander.xyz) | [lemmyverse.link](https://lemmyverse.link/c/medicine@mander.xyz) | ![](https://img.shields.io/lemmy/medicine@mander.xyz?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- This is a community for **medical professionals**.
+	- This is a community for medical professionals.
 12. **[PocketKNIFE](/c/pocketknife@lemmy.world)** | lemmy.world | [Kbin](/m/pocketknife@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/pocketknife@lemmy.world) | ![](https://img.shields.io/lemmy/pocketknife@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- A place to discuss the collection of pocket knives by makers large or small, from the common to the custom. The pocket knife is a useful tool that has been with us for hundreds of years and it can be found in innumerable variations.
+	- This is the place for talking about all things pocket knives, and knife adjacent things. Folders large and small, multi-tools, sharpeners, even fixed blade knives are welcome. Reviews! Advice! Show off your Knives!
 13. **[Amateur Radio](/c/amateur_radio@lemmy.radio)** | lemmy.radio | [Kbin](/m/amateur_radio@lemmy.radio) | [lemmyverse.link](https://lemmyverse.link/c/amateur_radio@lemmy.radio) | ![](https://img.shields.io/lemmy/amateur_radio@lemmy.radio?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- General amateur radio (ham radio) chat, questions, and news
+	- General amateur radio (ham radio) chat, questions, and news.
 14. **[Succulents](/c/succulents@midwest.social)** | midwest.social | [Kbin](/m/succulents@midwest.social) | [lemmyverse.link](https://lemmyverse.link/c/succulents@midwest.social) | ![](https://img.shields.io/lemmy/succulents@midwest.social?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- You can share and converse about anything succulents.
 15. **[Native Plant Gardening](/c/nativeplantgardening@mander.xyz)** | mander.xyz | [Kbin](/m/nativeplantgardening@mander.xyz) | [lemmyverse.link](https://lemmyverse.link/c/nativeplantgardening@mander.xyz) | ![](https://img.shields.io/lemmy/nativeplantgardening@mander.xyz?style=flat&label=Subs&cacheSeconds=172800&color=pink)
@@ -266,6 +266,6 @@
 22. **[Cosplay](/c/cosplay@lemmy.blahaj.zone)** | lemmy.blahaj.zone | [Kbin](/m/cosplay@lemmy.blahaj.zone) | [lemmyverse.link](https://lemmyverse.link/c/cosplay@lemmy.blahaj.zone) | ![](https://img.shields.io/lemmy/cosplay@lemmy.blahaj.zone?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- For people to share cosplays of theirs. Cosplays of all skill levels are welcome and encouraged.
 23. **[Pokemon Cards](/c/pokemoncards@lemmy.world)** | lemmy.world | [Kbin](/m/pokemoncards@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/pokemoncards@lemmy.world) | ![](https://img.shields.io/lemmy/pokemoncards@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- Reddit’s replacement for r/pokemoncards. Happy collecting!
+	- Happy collecting!
 24. **[Voice Acting Pit](/c/voiceacting@lemmy.world)** | lemmy.world | [Kbin](/m/voiceacting@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/voiceacting@lemmy.world) | ![](https://img.shields.io/lemmy/voiceacting@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- A place for people who are messing around in voice acting to chat, ask questions, and get info. This is not a place to get jobs, post jobs, or promote yourself to get jobs, but please feel free to post stuff you want to show off or get critique on.
