@@ -1,15 +1,15 @@
 ### Pages: | [0 ](https://lemmy.dbzer0.com/post/22878561) |[1]| [2 ](https://lemmy.dbzer0.com/post/22390186) | [3 ](https://lemmy.dbzer0.com/post/22581840) | [4 ](https://lemmy.dbzer0.com/post/22661395) | [5 ](https://lemmy.dbzer0.com/post/22662406) | (Direct links.) | [0 ](https://lemmyverse.link/lemmy.dbzer0.com/post/22878561) |[1]| [2 ](https://lemmyverse.link/lemmy.dbzer0.com/post/22390186) | [3 ](https://lemmyverse.link/lemmy.dbzer0.com/post/22581840) | [4 ](https://lemmyverse.link/lemmy.dbzer0.com/post/22661395) | [5 ](https://lemmyverse.link/lemmy.dbzer0.com/post/22662406) | (Lemmyverse.link)
 ```
-1. Art (199 communities)
+1. Art (200 communities)
 1.1. Imaginary Network 💭 (27 communities) [Day 1]
 1.2. General Artworks 🎨 (26 communities) [Day 8]
 1.3. Anime Artworks 💢 (19 communities) [Day 26]
-1.4. Music 🎵 (53 communities)
+1.4. Music 🎵 (54 communities)
 1.4.1. General discussion (15 communities) [Day 4]
 1.4.2. Genres (31 communities) [Day 18]
 1.4.3. Time periods (2 communities)
 1.4.4. Artists/bands (3 communities)
-1.4.5. Instruments/Hardware (2 communities)
+1.4.5. Instruments/Hardware (3 communities)
 ```
 # Directory (499 communities)
 # 1. Art (200 communities)
