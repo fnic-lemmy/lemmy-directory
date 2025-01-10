@@ -15,14 +15,14 @@
 3. **[Unity](/c/unity@programming.dev)** | programming.dev | [Kbin](/m/unity@programming.dev) | [lemmyverse.link](https://lemmyverse.link/c/unity@programming.dev) | ![](https://img.shields.io/lemmy/unity@programming.dev?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- NoDescription
 4. **[Bevy](/c/bevy@programming.dev)** | programming.dev | [Kbin](/m/bevy@programming.dev) | [lemmyverse.link](https://lemmyverse.link/c/bevy@programming.dev) | ![](https://img.shields.io/lemmy/bevy@programming.dev?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- A community for discussion around the bevy game engine! [https://bevyengine.org/](https://bevyengine.org/)
+	- A community for discussion around the bevy game engine!
 ## 5.4. Genres (17 communities) [Day 14]
 1. **[Adventure / Point-and-Click / Narrative Games](/c/adventuregames@lemm.ee)** | lemm.ee | [Kbin](/m/adventuregames@lemm.ee) | [lemmyverse.link](https://lemmyverse.link/c/adventuregames@lemm.ee) | ![](https://img.shields.io/lemmy/adventuregames@lemm.ee?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- A community for fans, devs, and general aficionados of the adventure game genre. This includes IF/parser games, point-and-click games, puzzle games, walking simulators, and whatever else you want to call these. To us, they’re simply adventure games.
 2. (2.1.) **[World of JRPG's](/c/jrpg@lemmy.zip)** | lemmy.zip | [Kbin](/m/jrpg@lemmy.zip) | [lemmyverse.link](https://lemmyverse.link/c/jrpg@lemmy.zip) | ![](https://img.shields.io/lemmy/jrpg@lemmy.zip?style=flat&label=Subs&cacheSeconds=172800&color=pink) (2 communities)
 	- World of JRPG’s is a community for everything arround JRPG’s.
 	1. (2.2.) **[JRPG](/c/jrpg@lemmy.world)** | lemmy.world | [Kbin](/m/jrpg@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/jrpg@lemmy.world) | ![](https://img.shields.io/lemmy/jrpg@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=plum)
-		- description
+		- NoDescription
 3. **[Speedrun video games](/c/speedrun@sh.itjust.works)** | sh.itjust.works | [Kbin](/m/speedrun@sh.itjust.works) | [lemmyverse.link](https://lemmyverse.link/c/speedrun@sh.itjust.works) | ![](https://img.shields.io/lemmy/speedrun@sh.itjust.works?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- Speedrunning video games.
 4. (4.1.) **[Strategy Games♟| RTS, 4X and Grand Strategy](/c/strategy@lemmy.world)** | lemmy.world | [Kbin](/m/strategy@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/strategy@lemmy.world) | ![](https://img.shields.io/lemmy/strategy@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink) (2 communities)
@@ -70,12 +70,12 @@
 3. **[Gift of Gaming](/c/giftofgaming@lemmy.world)** | lemmy.world | [Kbin](/m/giftofgaming@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/giftofgaming@lemmy.world) | ![](https://img.shields.io/lemmy/giftofgaming@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- A Lemmy community dedicated to host video game giveaways.
 4. **[Humble Bundle](/c/humblebundle@lemmy.world)** | lemmy.world | [Kbin](/m/humblebundle@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/humblebundle@lemmy.world) | ![](https://img.shields.io/lemmy/humblebundle@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- Unofficial community for the Humble Bundle website!
+	- Community for the Humble Bundle website!
 ## 5.7. Stores 🛒 (2 communities)
 1. **[Steam](/c/steam@lemmy.ml)** | lemmy.ml | [Kbin](/m/steam@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/steam@lemmy.ml) | ![](https://img.shields.io/lemmy/steam@lemmy.ml?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- NoDescription
+	- Steam is a video game digital distribution service by Valve.
 2. **[GOG](/c/gog@lemmy.world)** | lemmy.world | [Kbin](/m/gog@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/gog@lemmy.world) | ![](https://img.shields.io/lemmy/gog@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- NoDescription
+	- GOG.com is a DRM-free games and movies distribution service that is part of the CD Projekt Group.
 ## 5.8. General (14 communities) [Day 21]
 1. (1.1.) **[Games](/c/games@lemmy.world)** | lemmy.world | [Kbin](/m/games@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/games@lemmy.world) | ![](https://img.shields.io/lemmy/games@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink) (6 communities)
 	- Welcome to the largest gaming community on Lemmy! Discussion for all kinds of games. Video games, tabletop games, card games etc.
@@ -104,4 +104,4 @@
 6. **[Indie Gaming](/c/indiegaming@lemmy.world)** | lemmy.world | [Kbin](/m/indiegaming@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/indiegaming@lemmy.world) | ![](https://img.shields.io/lemmy/indiegaming@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- A place to talk all about indie games, current and upcoming ones. Devs are welcomed to share what they are working on!
 7. **[Gyro Gaming](/c/gyrogaming@lemmy.world)** | lemmy.world | [Kbin](/m/gyrogaming@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/gyrogaming@lemmy.world) | ![](https://img.shields.io/lemmy/gyrogaming@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- Welcome to Gyro Gaming subreddit, where people can share their passion for Gyroscopic Controls in Video Games, such as Camera Aiming, Vehicle Steering, Typing, etc.
+	- Welcome to Gyro Gaming community, where people can share their passion for Gyroscopic Controls in Video Games, such as Camera Aiming, Vehicle Steering, Typing, etc.
