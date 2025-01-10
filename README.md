@@ -12,7 +12,7 @@ Markers we use.
 ⭐ = Official community for a project or person.
 
 🤖 = Community that's mostly maintained by a bot account/s.
-
+```
 # Directory (499 communities)
 
 Part 1/5
@@ -67,10 +67,10 @@ Part 5/5
 ## 5.6. Deals/Giveaways 💸 (5 communities)
 ## 5.7. Stores 🛒 (2 communities)
 ## 5.8. General (14 communities) [Day 21]
-
+```
 Automated accounts ran in this community: +their schedule +their sections
 
-1.) [@best_of_fnic_bot@lemmy.dbzer0.com](https://lemmy.dbzer0.com/u/best_of_fnic_bot) [Day 1]
+1.) [@best_of_fnic_bot@lemmy.dbzer0.com](https://lemmy.dbzer0.com/u/best_of_fnic_bot) [Day 1]v
 
 2.) [@best_of_memes_bot@lemmy.dbzer0.com](https://lemmy.dbzer0.com/u/best_of_memes_bot) [Day 3] [Day 10] [Day 17] [Day 24] [Day 28]
 
