@@ -48,10 +48,6 @@
 	- Are we checking? This is a place to take a p*ss out of motorsports.
 17. **[Shirts That Go Hard](/c/shirtsthatgohard@lemmy.world)** | lemmy.world | [Mbin](/m/shirtsthatgohard@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/shirtsthatgohard@lemmy.world) | ![](https://img.shields.io/lemmy/shirtsthatgohard@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- Share shirts that go hard.
-18. **[Animals With Jobs](/c/animalswithjobs@lemmy.world)** | lemmy.world | [Mbin](/m/animalswithjobs@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/animalswithjobs@lemmy.world) | ![](https://img.shields.io/lemmy/animalswithjobs@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- Is it an animal? Does it have a job? Then it belongs here!
-19. **[MEOW_IRL](/c/meow_irl@sopuli.xyz)** | sopuli.xyz | [Mbin](/m/meow_irl@sopuli.xyz) | [lemmyverse.link](https://lemmyverse.link/c/meow_irl@sopuli.xyz) | ![](https://img.shields.io/lemmy/meow_irl@sopuli.xyz?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- Memes for “cats of the soul”. Post relatable, weird, funny cats.
 20. **[Bikini Bottom Twitter](/c/bikinibottomtwitter@lemmy.world)** | lemmy.world | [Mbin](/m/bikinibottomtwitter@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/bikinibottomtwitter@lemmy.world) | ![](https://img.shields.io/lemmy/bikinibottomtwitter@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- Are ya ready kids?!
 21. **[Trippin' Through Time](/c/trippinthroughtime@lemmy.ca)** | lemmy.ca | [Mbin](/m/trippinthroughtime@lemmy.ca) | [lemmyverse.link](https://lemmyverse.link/c/trippinthroughtime@lemmy.ca) | ![](https://img.shields.io/lemmy/trippinthroughtime@lemmy.ca?style=flat&label=Subs&cacheSeconds=172800&color=pink)
@@ -98,8 +94,6 @@
 	- Yes it exists! This is a community dedicated to programming memes combined with anime memes.
 42. **[The Church of Garfieldism](/c/garfieldism@lemmy.blahaj.zone)** | lemmy.blahaj.zone | [Mbin](/m/garfieldism@lemmy.blahaj.zone) | [lemmyverse.link](https://lemmyverse.link/c/garfieldism@lemmy.blahaj.zone) | ![](https://img.shields.io/lemmy/garfieldism@lemmy.blahaj.zone?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- Garfield is a queer icon and im tired of pretending he’s not, he’s for the queers who are just a little bit eepy, for the queers who just want to eat and laze about, he’s also canonically an enby who goes by he/him pronouns.
-43. **[Aminals](/c/aminals@lemmy.best)** | lemmy.best | [Mbin](/m/aminals@lemmy.best) | [lemmyverse.link](https://lemmyverse.link/c/aminals@lemmy.best) | ![](https://img.shields.io/lemmy/aminals@lemmy.best?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- Look at the Aminals.
 44. **[Stolen from Facebook](/c/fbstolencontent@lemmy.ca)** | lemmy.ca | [Mbin](/m/fbstolencontent@lemmy.ca) | [lemmyverse.link](https://lemmyverse.link/c/fbstolencontent@lemmy.ca) | ![](https://img.shields.io/lemmy/fbstolencontent@lemmy.ca?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- NoDescription
 45. **[Weird Wheels](/c/weirdwheels@lemm.ee)** ❓ | lemm.ee | [Mbin](/m/weirdwheels@lemm.ee) | [lemmyverse.link](https://lemmyverse.link/c/weirdwheels@lemm.ee) | ![](https://img.shields.io/lemmy/weirdwheels@lemm.ee?style=flat&label=Subs&cacheSeconds=172800&color=pink)
