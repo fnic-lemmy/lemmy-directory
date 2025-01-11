@@ -165,60 +165,84 @@
 	- Lemmy community for nature wallpapers.
 8. **[MinimalWallpaper](/c/minimalwallpaper@lemmy.ml)** | lemmy.ml | [Mbin](/m/minimalwallpaper@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/minimalwallpaper@lemmy.ml) | ![](https://img.shields.io/lemmy/minimalwallpaper@lemmy.ml?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- Wallpapers that have a simple and minimalist design.
-# 2. Animals 🐘 (26 communities)
-## 2.1. Misc (26 communities) [Day 20]
-1. **[aww](/c/aww@lemmy.world)** | lemmy.world | [Mbin](/m/aww@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/aww@lemmy.world) | ![](https://img.shields.io/lemmy/aww@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
+# 2. Animals 🐘 (38 communities)
+## 2.1. Misc (38 communities) [Day 20]
+1. (1.1.) **[aww](/c/aww@lemmy.world)** | lemmy.world | [Mbin](/m/aww@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/aww@lemmy.world) | ![](https://img.shields.io/lemmy/aww@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink) (6 communities)
 	- A place with minimal rules for stuff that makes you go awww!
-2. (2.1.) **[cats](/c/cat@lemmy.world)** | lemmy.world | [Mbin](/m/cat@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/cat@lemmy.world) | ![](https://img.shields.io/lemmy/cat@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink) (3 communities)
+	1. (1.2.) **[cute dogs, cats, and other animals](/c/aww@lemmy.ml)** | lemmy.ml | [Mbin](/m/aww@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/aww@lemmy.ml) | ![](https://img.shields.io/lemmy/aww@lemmy.ml?style=flat&label=Subs&cacheSeconds=172800&color=plum)
+		- NoDescription
+	2. (1.3.) **[Animals With Jobs](/c/animalswithjobs@lemmy.world)** | lemmy.world | [Mbin](/m/animalswithjobs@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/animalswithjobs@lemmy.world) | ![](https://img.shields.io/lemmy/animalswithjobs@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=plum)
+		- Is it an animal? Does it have a job? Then it belongs here!
+	3. (1.4.) **[Aminals](/c/aminals@lemmy.best)** | lemmy.best | [Mbin](/m/aminals@lemmy.best) | [lemmyverse.link](https://lemmyverse.link/c/aminals@lemmy.best) | ![](https://img.shields.io/lemmy/aminals@lemmy.best?style=flat&label=Subs&cacheSeconds=172800&color=plum)
+		- Look at the Aminals.
+	4. (1.5.) **[Animals@stad](/c/animals@lemmy.stad.social)** | lemmy.stad.social | [Mbin](/m/animals@lemmy.stad.social) | [lemmyverse.link](https://lemmyverse.link/c/animals@lemmy.stad.social) | ![](https://img.shields.io/lemmy/animals@lemmy.stad.social?style=flat&label=Subs&cacheSeconds=172800&color=plum)
+		- Pictures of animals, art incorporating animals, or anything fun.
+	5. (1.6.) **[Animals](/c/animals@lemmy.world)** | lemmy.world | [Mbin](/m/animals@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/animals@lemmy.world) | ![](https://img.shields.io/lemmy/animals@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=plum)
+		- Anything and everything about non-human animals.
+2. (2.1.) **[cats](/c/cat@lemmy.world)** | lemmy.world | [Mbin](/m/cat@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/cat@lemmy.world) | ![](https://img.shields.io/lemmy/cat@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink) (5 communities)
 	- Typical internet cats. videos, pics, memes welcome!
 	1. (2.2.) **[IllegallySmolCats](/c/illegallysmolcats@lemmy.world)** | lemmy.world | [Mbin](/m/illegallysmolcats@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/illegallysmolcats@lemmy.world) | ![](https://img.shields.io/lemmy/illegallysmolcats@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=plum)
 		- Straight to jail.
-	2. (2.3.) **[Cats](/c/cats@midwest.social)** | midwest.social | [Mbin](/m/cats@midwest.social) | [lemmyverse.link](https://lemmyverse.link/c/cats@midwest.social) | ![](https://img.shields.io/lemmy/cats@midwest.social?style=flat&label=Subs&cacheSeconds=172800&color=plum)
+	2. (2.3.) **[MEOW_IRL](/c/meow_irl@sopuli.xyz)** | sopuli.xyz | [Mbin](/m/meow_irl@sopuli.xyz) | [lemmyverse.link](https://lemmyverse.link/c/meow_irl@sopuli.xyz) | ![](https://img.shields.io/lemmy/meow_irl@sopuli.xyz?style=flat&label=Subs&cacheSeconds=172800&color=plum)
+		- Memes for “cats of the soul”. Post relatable, weird, funny cats.
+	3. (2.4.) **[All Orange Cats Share One Brain Cell](/c/oneorangebraincell@lemmy.world)** | lemmy.world | [Mbin](/m/oneorangebraincell@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/oneorangebraincell@lemmy.world) | ![](https://img.shields.io/lemmy/oneorangebraincell@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=plum)
+		- Pictures of orange boys and girls, with and without the cell.
+	4. (2.5.) **[Cats](/c/cats@midwest.social)** | midwest.social | [Mbin](/m/cats@midwest.social) | [lemmyverse.link](https://lemmyverse.link/c/cats@midwest.social) | ![](https://img.shields.io/lemmy/cats@midwest.social?style=flat&label=Subs&cacheSeconds=172800&color=plum)
 		- Post pictures of cute cats! Also feel free to ask questions about cats.
-3. **[cute dogs, cats, and other animals](/c/aww@lemmy.ml)** | lemmy.ml | [Mbin](/m/aww@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/aww@lemmy.ml) | ![](https://img.shields.io/lemmy/aww@lemmy.ml?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- NoDescription
-4. **[Dogs](/c/dogs@lemmy.world)** | lemmy.world | [Mbin](/m/dogs@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/dogs@lemmy.world) | ![](https://img.shields.io/lemmy/dogs@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
+3. (3.1.) **[Dogs](/c/dogs@lemmy.world)** | lemmy.world | [Mbin](/m/dogs@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/dogs@lemmy.world) | ![](https://img.shields.io/lemmy/dogs@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink) (2 communities)
 	- All about dogs - dog breeds, dog training and behavior, news affecting dog owners or handlers, puppy pics, etc.
-5. **[birding](/c/birding@lemmy.world)** | lemmy.world | [Mbin](/m/birding@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/birding@lemmy.world) | ![](https://img.shields.io/lemmy/birding@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
+	1. (3.2.) **[DogTraining](/c/dogtraining@lemmy.world)** | lemmy.world | [Mbin](/m/dogtraining@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/dogtraining@lemmy.world) | ![](https://img.shields.io/lemmy/dogtraining@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=plum)
+		- Welcome! This forum is about dog training and behavior. Here you’ll find content that will help you train your dogs. This community is geared towards modern, force-free, science based methods and recommendations.
+4. **[birding](/c/birding@lemmy.world)** | lemmy.world | [Mbin](/m/birding@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/birding@lemmy.world) | ![](https://img.shields.io/lemmy/birding@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- A community for people who like birds, birdwatching and birding in general!
-6. **[Superbowl](/c/superbowl@lemmy.world)** | lemmy.world | [Mbin](/m/superbowl@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/superbowl@lemmy.world) | ![](https://img.shields.io/lemmy/superbowl@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
+5. **[Superbowl](/c/superbowl@lemmy.world)** | lemmy.world | [Mbin](/m/superbowl@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/superbowl@lemmy.world) | ![](https://img.shields.io/lemmy/superbowl@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- For owls that are superb.
-7. **[All Orange Cats Share One Brain Cell](/c/oneorangebraincell@lemmy.world)** | lemmy.world | [Mbin](/m/oneorangebraincell@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/oneorangebraincell@lemmy.world) | ![](https://img.shields.io/lemmy/oneorangebraincell@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- Pictures of orange boys and girls, with and without the cell.
-8. **[Opossums](/c/opossums@lemmy.world)** | lemmy.world | [Mbin](/m/opossums@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/opossums@lemmy.world) | ![](https://img.shields.io/lemmy/opossums@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
+6. **[Opossums](/c/opossums@lemmy.world)** | lemmy.world | [Mbin](/m/opossums@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/opossums@lemmy.world) | ![](https://img.shields.io/lemmy/opossums@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- It’s opossum posting time!
-9. **[Raccoons](/c/raccoons@lemmy.world)** | lemmy.world | [Mbin](/m/raccoons@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/raccoons@lemmy.world) | ![](https://img.shields.io/lemmy/raccoons@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
+7. **[Raccoons](/c/raccoons@lemmy.world)** | lemmy.world | [Mbin](/m/raccoons@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/raccoons@lemmy.world) | ![](https://img.shields.io/lemmy/raccoons@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- A place for raccoons migrating from reddit.
-10. **[ducks](/c/quackers@lemmy.world)** | lemmy.world | [Mbin](/m/quackers@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/quackers@lemmy.world) | ![](https://img.shields.io/lemmy/quackers@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
+8. **[ducks](/c/quackers@lemmy.world)** | lemmy.world | [Mbin](/m/quackers@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/quackers@lemmy.world) | ![](https://img.shields.io/lemmy/quackers@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- Place to post cute ducks, gooses allowed too.
-11. **[Bats](/c/bats@lemmy.world)** | lemmy.world | [Mbin](/m/bats@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/bats@lemmy.world) | ![](https://img.shields.io/lemmy/bats@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
+9. **[Bats](/c/bats@lemmy.world)** | lemmy.world | [Mbin](/m/bats@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/bats@lemmy.world) | ![](https://img.shields.io/lemmy/bats@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- Bats are the only true flying mammals. There are over 1,400 species of bats, and they can be found on nearly every part of the planet. Not only are they cute, they are also important…
-12. **[Fox pics](/c/foxes@lemmy.world)** | lemmy.world | [Mbin](/m/foxes@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/foxes@lemmy.world) | ![](https://img.shields.io/lemmy/foxes@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
+10. **[Fox pics](/c/foxes@lemmy.world)** | lemmy.world | [Mbin](/m/foxes@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/foxes@lemmy.world) | ![](https://img.shields.io/lemmy/foxes@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- Post pictures, art and anything about foxes!
-13. **[Crows](/c/crows@lemmy.ml)** | lemmy.ml | [Mbin](/m/crows@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/crows@lemmy.ml) | ![](https://img.shields.io/lemmy/crows@lemmy.ml?style=flat&label=Subs&cacheSeconds=172800&color=pink)
+11. **[Crows](/c/crows@lemmy.ml)** | lemmy.ml | [Mbin](/m/crows@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/crows@lemmy.ml) | ![](https://img.shields.io/lemmy/crows@lemmy.ml?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- Bring stories and images of your encounters with crows, ravens, and other corvids. Link articles and anecdotes. Note here your literary references.
-14. **[BeeButts](/c/beebutts@lemmy.world)** | lemmy.world | [Mbin](/m/beebutts@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/beebutts@lemmy.world) | ![](https://img.shields.io/lemmy/beebutts@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
+12. **[BeeButts](/c/beebutts@lemmy.world)** | lemmy.world | [Mbin](/m/beebutts@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/beebutts@lemmy.world) | ![](https://img.shields.io/lemmy/beebutts@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- For the bees! And their buzzy little bums.
-15. **[Awwnverts](/c/awwnverts@lemmy.world)** | lemmy.world | [Mbin](/m/awwnverts@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/awwnverts@lemmy.world) | ![](https://img.shields.io/lemmy/awwnverts@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
+13. (13.1.) **[Awwnverts](/c/awwnverts@lemmy.world)** | lemmy.world | [Mbin](/m/awwnverts@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/awwnverts@lemmy.world) | ![](https://img.shields.io/lemmy/awwnverts@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink) (5 communities)
 	- Cutie pies, sans vertebrae.
-16. **[Squirrels](/c/squirrels@lemmy.ca)** | lemmy.ca | [Mbin](/m/squirrels@lemmy.ca) | [lemmyverse.link](https://lemmyverse.link/c/squirrels@lemmy.ca) | ![](https://img.shields.io/lemmy/squirrels@lemmy.ca?style=flat&label=Subs&cacheSeconds=172800&color=pink)
+	1. (13.2.) **[The Bug Menagerie](/c/bugmenagerie@possumpat.io)** | possumpat.io | [Mbin](/m/bugmenagerie@possumpat.io) | [lemmyverse.link](https://lemmyverse.link/c/bugmenagerie@possumpat.io) | ![](https://img.shields.io/lemmy/bugmenagerie@possumpat.io?style=flat&label=Subs&cacheSeconds=172800&color=plum)
+		- A community for posting bugs, arachnids, arthropods, invertebrates, and any other kind of cool critter.
+	2. (13.3.) **[Entomology](/c/entomology@mander.xyz)** | mander.xyz | [Mbin](/m/entomology@mander.xyz) | [lemmyverse.link](https://lemmyverse.link/c/entomology@mander.xyz) | ![](https://img.shields.io/lemmy/entomology@mander.xyz?style=flat&label=Subs&cacheSeconds=172800&color=plum)
+		- A general community to post things about insects.
+	3. (13.4.) **[What's this Bug?](/c/whatsthisbug@lemmy.ml)** | lemmy.ml | [Mbin](/m/whatsthisbug@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/whatsthisbug@lemmy.ml) | ![](https://img.shields.io/lemmy/whatsthisbug@lemmy.ml?style=flat&label=Subs&cacheSeconds=172800&color=plum)
+		- A community for insect, arachnid, myriapod and general bug identification!
+	4. (13.5.) **[bugs](/c/bugs@lemmy.world)** | lemmy.world | [Mbin](/m/bugs@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/bugs@lemmy.world) | ![](https://img.shields.io/lemmy/bugs@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=plum)
+		- A casual place for _Arthropoda_.
+14. (14.1.) **[Squirrels](/c/squirrels@lemmy.ca)** | lemmy.ca | [Mbin](/m/squirrels@lemmy.ca) | [lemmyverse.link](https://lemmyverse.link/c/squirrels@lemmy.ca) | ![](https://img.shields.io/lemmy/squirrels@lemmy.ca?style=flat&label=Subs&cacheSeconds=172800&color=pink) (2 communities)
 	- A community devoted to one of the most fascinating, mischievous, adorable critters on our planet.
-17. **[The Bug Menagerie](/c/bugmenagerie@possumpat.io)** | possumpat.io | [Mbin](/m/bugmenagerie@possumpat.io) | [lemmyverse.link](https://lemmyverse.link/c/bugmenagerie@possumpat.io) | ![](https://img.shields.io/lemmy/bugmenagerie@possumpat.io?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- A community for posting bugs, arachnids, arthropods, invertebrates, and any other kind of cool critter.
-18. **[Entomology](/c/entomology@mander.xyz)** | mander.xyz | [Mbin](/m/entomology@mander.xyz) | [lemmyverse.link](https://lemmyverse.link/c/entomology@mander.xyz) | ![](https://img.shields.io/lemmy/entomology@mander.xyz?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- A general community to post things about insects.
-19. **[Spiders](/c/spiders@lemmy.world)** | lemmy.world | [Mbin](/m/spiders@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/spiders@lemmy.world) | ![](https://img.shields.io/lemmy/spiders@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
+	1. (14.2.) **[Squirrel Spotting Society](/c/squirrel_spotting_society@lemmy.sdf.org)** | lemmy.sdf.org | [Mbin](/m/squirrel_spotting_society@lemmy.sdf.org) | [lemmyverse.link](https://lemmyverse.link/c/squirrel_spotting_society@lemmy.sdf.org) | ![](https://img.shields.io/lemmy/squirrel_spotting_society@lemmy.sdf.org?style=flat&label=Subs&cacheSeconds=172800&color=plum)
+		- SQUIRRELS!
+15. (15.1.) **[Bun Alert System](/c/bun_alert_system@lemmy.sdf.org)** | lemmy.sdf.org | [Mbin](/m/bun_alert_system@lemmy.sdf.org) | [lemmyverse.link](https://lemmyverse.link/c/bun_alert_system@lemmy.sdf.org) | ![](https://img.shields.io/lemmy/bun_alert_system@lemmy.sdf.org?style=flat&label=Subs&cacheSeconds=172800&color=pink) (4 communities)
+	- A place to alert others/be alerted of bun sightings.
+	1. (15.2.) **[bunnies](/c/bunnies@lemmy.world)** | lemmy.world | [Mbin](/m/bunnies@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/bunnies@lemmy.world) | ![](https://img.shields.io/lemmy/bunnies@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=plum)
+		- Post bunny pics, post questions about rabbits.
+	2. (15.3.) **[Rabbits](/c/rabbits@lemmy.world)** | lemmy.world | [Mbin](/m/rabbits@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/rabbits@lemmy.world) | ![](https://img.shields.io/lemmy/rabbits@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=plum)
+		- NoDescription
+	3. (15.4.) **[Lagoloaf](/c/lagoloaf@lemmy.ml)** | lemmy.ml | [Mbin](/m/lagoloaf@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/lagoloaf@lemmy.ml) | ![](https://img.shields.io/lemmy/lagoloaf@lemmy.ml?style=flat&label=Subs&cacheSeconds=172800&color=plum)
+		- Got a bunny? Does it loaf? Take a pic, share it here.
+16. **[Pet Rats](/c/petrats@lemmy.world)** | lemmy.world | [Mbin](/m/petrats@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/petrats@lemmy.world) | ![](https://img.shields.io/lemmy/petrats@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
+	- A place for pet rats!
+17. **[Spiders](/c/spiders@lemmy.world)** | lemmy.world | [Mbin](/m/spiders@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/spiders@lemmy.world) | ![](https://img.shields.io/lemmy/spiders@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- Discover, Discuss, and Delve into the World of Spiders!
-20. **[What's this Bug?](/c/whatsthisbug@lemmy.ml)** | lemmy.ml | [Mbin](/m/whatsthisbug@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/whatsthisbug@lemmy.ml) | ![](https://img.shields.io/lemmy/whatsthisbug@lemmy.ml?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- A community for insect, arachnid, myriapod and general bug identification!
-21. **[bugs](/c/bugs@lemmy.world)** | lemmy.world | [Mbin](/m/bugs@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/bugs@lemmy.world) | ![](https://img.shields.io/lemmy/bugs@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- A casual place for _Arthropoda_.
-22. **[guinea pigs](/c/guineapigs@lemmy.world)** | lemmy.world | [Mbin](/m/guineapigs@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/guineapigs@lemmy.world) | ![](https://img.shields.io/lemmy/guineapigs@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
+18. **[guinea pigs](/c/guineapigs@lemmy.world)** | lemmy.world | [Mbin](/m/guineapigs@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/guineapigs@lemmy.world) | ![](https://img.shields.io/lemmy/guineapigs@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- NoDescription
-23. **[DogTraining](/c/dogtraining@lemmy.world)** | lemmy.world | [Mbin](/m/dogtraining@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/dogtraining@lemmy.world) | ![](https://img.shields.io/lemmy/dogtraining@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- Welcome! This forum is about dog training and behavior. Here you’ll find content that will help you train your dogs. This community is geared towards modern, force-free, science based methods and recommendations.
-24. **[Animals](/c/animals@lemmy.world)** | lemmy.world | [Mbin](/m/animals@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/animals@lemmy.world) | ![](https://img.shields.io/lemmy/animals@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- Anything and everything about non-human animals.
+19. **[Tan Eggs](/c/taneggs@lemmy.ca)** | lemmy.ca | [Mbin](/m/taneggs@lemmy.ca) | [lemmyverse.link](https://lemmyverse.link/c/taneggs@lemmy.ca) | ![](https://img.shields.io/lemmy/taneggs@lemmy.ca?style=flat&label=Subs&cacheSeconds=172800&color=pink)
+	- “When I’m a small prey mammal and I’ve evolved to survive the barren rocky landscape by optimizing into a tan egg.”
+20. **[Elephants](/c/elephants@lemmy.world)** | lemmy.world | [Mbin](/m/elephants@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/elephants@lemmy.world) | ![](https://img.shields.io/lemmy/elephants@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
+	- Post your favorite elephant pics and memes here.
 # 3. Professions/Hobbies 😎 / 🤓 (24 communities) ((Will be split later))
 ## 3.1. Misc (24 communities)
 1. **[3DPrinting](/c/3dprinting@lemmy.world)** | lemmy.world | [Mbin](/m/3dprinting@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/3dprinting@lemmy.world) | ![](https://img.shields.io/lemmy/3dprinting@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
