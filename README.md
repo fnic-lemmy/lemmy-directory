@@ -132,9 +132,7 @@ Directory is in early stages of WIP. Expect a lot of changes.
 	- Magic: the Gathering artwork, alters, artist info, and everything else related to the beautiful art of the game.
 26. **[League of Legends Fan Art](/c/LoLFanArt@fedia.io)** | fedia.io | [Kbin](/m/LoLFanArt@fedia.io) | [lemmyverse.link](https://lemmyverse.link/c/LoLFanArt@fedia.io) | ![](https://img.shields.io/mbin/LoLFanArt@fedia.io?style=flat&label=Subs&color=pink)
 	- A place to share League of Legends fan art, cosplay, and other fan creations.
-27. **[Learn Art](/c/learnart@lemmy.dbzer0.com)** | lemmy.dbzer0.com | [Kbin](/m/learnart@lemmy.dbzer0.com) | [lemmyverse.link](https://lemmyverse.link/c/learnart@lemmy.dbzer0.com) | ![](https://img.shields.io/lemmy/learnart@lemmy.dbzer0.com?style=flat&label=Subs&color=pink)
-	- NoDescription
-28. **[Psychedelic Artwork](/c/psychedelic_artwork@psychedelia.ink)** | psychedelia.ink | [Kbin](/m/psychedelic_artwork@psychedelia.ink) | [lemmyverse.link](https://lemmyverse.link/c/psychedelic_artwork@psychedelia.ink) | ![](https://img.shields.io/lemmy/psychedelic_artwork@psychedelia.ink?style=flat&label=Subs&color=pink)
+27. **[Psychedelic Artwork](/c/psychedelic_artwork@psychedelia.ink)** | psychedelia.ink | [Kbin](/m/psychedelic_artwork@psychedelia.ink) | [lemmyverse.link](https://lemmyverse.link/c/psychedelic_artwork@psychedelia.ink) | ![](https://img.shields.io/lemmy/psychedelic_artwork@psychedelia.ink?style=flat&label=Subs&color=pink)
 	- A place to share psychedelic art, art that inspires a sense of spirituality or mysticism, or just trippy stuff; whether you made it, or someone else did.
 ## 1.3. Anime Artworks 💢 (19 communities)
 1. **[Anime and Pics](/c/animepics@reddthat.com)** | reddthat.com | [Kbin](/m/animepics@reddthat.com) | [lemmyverse.link](https://lemmyverse.link/c/animepics@reddthat.com) | ![](https://img.shields.io/lemmy/animepics@reddthat.com?style=flat&label=Subs&color=pink)
