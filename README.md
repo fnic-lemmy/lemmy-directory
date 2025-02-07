@@ -1,6 +1,8 @@
 ### Pages: |[0]| [1 ](https://lemmy.dbzer0.com/post/22014843) | [2 ](https://lemmy.dbzer0.com/post/22390186) | [3 ](https://lemmy.dbzer0.com/post/22581840) | [4 ](https://lemmy.dbzer0.com/post/22661395) | [5 ](https://lemmy.dbzer0.com/post/22662406) | (Direct links.) |[0]| [1 ](https://lemmyverse.link/lemmy.dbzer0.com/post/22014843) | [2 ](https://lemmyverse.link/lemmy.dbzer0.com/post/22390186) | [3 ](https://lemmyverse.link/lemmy.dbzer0.com/post/22581840) | [4 ](https://lemmyverse.link/lemmy.dbzer0.com/post/22661395) | [5 ](https://lemmyverse.link/lemmy.dbzer0.com/post/22662406) | (Lemmyverse.link)
 What is this community.
 
+THIS IS WIP AND IN BIG PART JUST A MOCKUP. 
+
 Overview of the directory.
 
 Markers we use.
