@@ -73,7 +73,7 @@ Part 5/5
 ```
 Automated accounts ran in this community: +their schedule +their sections
 
-1.) [@best_of_fnic_bot@lemmy.dbzer0.com](https://lemmy.dbzer0.com/u/best_of_fnic_bot) [Day 1]v
+1.) [@best_of_fnic_bot@lemmy.dbzer0.com](https://lemmy.dbzer0.com/u/best_of_fnic_bot) [Day 1]
 
 2.) [@best_of_memes_bot@lemmy.dbzer0.com](https://lemmy.dbzer0.com/u/best_of_memes_bot) [Day 3] [Day 10] [Day 17] [Day 24] [Day 28]
 
