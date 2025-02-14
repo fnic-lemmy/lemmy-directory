@@ -41,22 +41,22 @@ Part 2/5
 # 2. Animals 🐘 (26 communities)
 ## 2.1. Misc (26 communities) [Day 20]
 
-# 3. Professions/Hobbies 😎 / 🤓 (24 communities) ((Will be split later))
-## 3.1. Misc (24 communities)
-
 Part 3/5
-# 4. Memes/Humoristic 🎭 (106 communities)
-## 4.1. Misc (54 communities)
-## 4.2. General (13 communities) [Day 17]
-## 4.3. Text format (2 communities)
-## 4.4. News format (8 communities) [Day 3]
-## 4.5. Show (6 communities) [Day 10]
-## 4.6. Game (7 communities) [Day 28]
-## 4.7. Social media (9 communities) [Day 24]
-## 4.8. Wholesome (2 communities)
-## 4.9. Roleplay (5 communities)
+# 3. Memes/Humoristic 🎭 (106 communities)
+## 3.1. Misc (54 communities)
+## 3.2. General (13 communities) [Day 17]
+## 3.3. Text format (2 communities)
+## 3.4. News format (8 communities) [Day 3]
+## 3.5. Show (6 communities) [Day 10]
+## 3.6. Game (7 communities) [Day 28]
+## 3.7. Social media (9 communities) [Day 24]
+## 3.8. Wholesome (2 communities)
+## 3.9. Roleplay (5 communities)
 
 Part 4/5
+# 4. Professions/Hobbies 😎 / 🤓 (24 communities) ((Will be split later))
+## 4.1. Misc (24 communities)
+
 # 5. Gaming (143 communities)
 ## 5.1. Platforms 🕹️ (18 communities) [Day 7]
 ## 5.2. Games 🎮 (79 communities)
