@@ -1,19 +1,18 @@
 ### Pages: | [0 ](https://lemmy.dbzer0.com/post/22878561) | [1 ](https://lemmy.dbzer0.com/post/22014843) | [2 ](https://lemmy.dbzer0.com/post/22390186) |[3]| [4 ](https://lemmy.dbzer0.com/post/22661395) | [5 ](https://lemmy.dbzer0.com/post/22662406) | (Direct links.) | [0 ](https://lemmyverse.link/lemmy.dbzer0.com/post/22878561) | [1 ](https://lemmyverse.link/lemmy.dbzer0.com/post/22014843) | [2 ](https://lemmyverse.link/lemmy.dbzer0.com/post/22390186) |[3]| [4 ](https://lemmyverse.link/lemmy.dbzer0.com/post/22661395) | [5 ](https://lemmyverse.link/lemmy.dbzer0.com/post/22662406) | (Lemmyverse.link)
 ```
-4. Memes/Humoristic 🎭 (106 communities)
-4.1. Misc (54 communities)
-4.2. General (13 communities) [Day 17]
-4.3. Text format (2 communities)
-4.4. News format (8 communities) [Day 3]
-4.5. Show (6 communities) [Day 10]
-4.6. Game (7 communities) [Day 28]
-4.7. Social media (9 communities) [Day 24]
-4.8. Wholesome (2 communities)
-4.9. Roleplay (2 communities)
-4.10. Interactive?? (Dunno how to title that. ;-;) (3 communities)
+3. Memes/Humoristic 🎭 (106 communities)
+3.1. Misc (54 communities)
+3.2. General (13 communities) [Day 17]
+3.3. Text format (2 communities)
+3.4. News format (8 communities) [Day 3]
+3.5. Show (6 communities) [Day 10]
+3.6. Game (7 communities) [Day 28]
+3.7. Social media (9 communities) [Day 24]
+3.8. Wholesome (2 communities)
+3.9. Roleplay (5 communities)
 ```
-# 4. Memes/Humoristic 🎭 (106 communities)
-## 4.1. Misc (54 communities)
+# 3. Memes/Humoristic 🎭 (106 communities)
+## 3.1. Misc (54 communities)
 1. **[Linux Memes](/c/linuxmemes@lemmy.world)** | lemmy.world | [Mbin](/m/linuxmemes@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/linuxmemes@lemmy.world) | ![](https://img.shields.io/lemmy/linuxmemes@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- Hint: `:q!`
 2. **[Programmer Humor](/c/programmer_humor@programming.dev)** | programming.dev | [Mbin](/m/programmer_humor@programming.dev) | [lemmyverse.link](https://lemmyverse.link/c/programmer_humor@programming.dev) | ![](https://img.shields.io/lemmy/programmer_humor@programming.dev?style=flat&label=Subs&cacheSeconds=172800&color=pink)
@@ -116,7 +115,7 @@
 	- Not for serious conspiracies that anyone actually takes seriously. Ex it should be basically jokes, like birds aren’t real.
 54. **[Church of Ned](/c/churchofned@lemmy.world)** | lemmy.world | [Mbin](/m/churchofned@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/churchofned@lemmy.world) | ![](https://img.shields.io/lemmy/churchofned@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- Before you post here, ask yourself, "What Would Ned Do?". Please follow all of Lemmy’s and Ned’s rules.
-## 4.2. General (13 communities) [Day 17]
+## 3.2. General (13 communities) [Day 17]
 1. **[Memes](/c/memes@lemmy.ml)** | lemmy.ml | [Mbin](/m/memes@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/memes@lemmy.ml) | ![](https://img.shields.io/lemmy/memes@lemmy.ml?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- NoDescription
 2. **[Lemmy Shitpost](/c/lemmyshitpost@lemmy.world)** | lemmy.world | [Mbin](/m/lemmyshitpost@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/lemmyshitpost@lemmy.world) | ![](https://img.shields.io/lemmy/lemmyshitpost@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
@@ -143,12 +142,12 @@
 	- NoDescription
 13. **[Memes @ Lemy](/c/memes@lemy.lol)** | lemy.lol | [Mbin](/m/memes@lemy.lol) | [lemmyverse.link](https://lemmyverse.link/c/memes@lemy.lol) | ![](https://img.shields.io/lemmy/memes@lemy.lol?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- Memes fun.
-## 4.3. Text format (2 communities)
+## 3.3. Text format (2 communities)
 1. **[Dad Jokes](/c/dadjokes@lemmy.world)** | lemmy.world | [Mbin](/m/dadjokes@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/dadjokes@lemmy.world) | ![](https://img.shields.io/lemmy/dadjokes@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- This is a community for sharing those cheesy “dad” jokes that invoke an eye roll or chuckle.
 2. **[Fake Band Names](/c/fakebandnames@lemmy.world)** | lemmy.world | [Mbin](/m/fakebandnames@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/fakebandnames@lemmy.world) | ![](https://img.shields.io/lemmy/fakebandnames@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- This is a community for posting fake band names. Find a string of words that sounds like the name of a garage band or just goes hard? Post it here.
-## 4.4. News format (8 communities) [Day 3]
+## 3.4. News format (8 communities) [Day 3]
 1. **[Not The Onion](/c/nottheonion@lemmy.world)** | lemmy.world | [Mbin](/m/nottheonion@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/nottheonion@lemmy.world) | ![](https://img.shields.io/lemmy/nottheonion@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- We’re not _The Onion_! Not affiliated with them in any way! Not operated by them in any way! All the news here is real!
 2. **[The Onion](/c/theonion@midwest.social)** | midwest.social | [Mbin](/m/theonion@midwest.social) | [lemmyverse.link](https://lemmyverse.link/c/theonion@midwest.social) | ![](https://img.shields.io/lemmy/theonion@midwest.social?style=flat&label=Subs&cacheSeconds=172800&color=pink)
@@ -165,7 +164,7 @@
 	- News about weird nature, unusual happenings, and fringe claims. Anomalies, animals, nature, Fortean, paranormal, cryptids, weather.
 8. **[SERIOUS NEWS ONLY](/c/seriousnews@lemmy.world)** | lemmy.world | [Mbin](/m/seriousnews@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/seriousnews@lemmy.world) | ![](https://img.shields.io/lemmy/seriousnews@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- Dont actually post anything serious or youll be banned.
-## 4.5. Show (6 communities) [Day 10]
+## 3.5. Show (6 communities) [Day 10]
 1. **[Star Wars Memes](/c/starwarsmemes@lemmy.world)** | lemmy.world | [Mbin](/m/starwarsmemes@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/starwarsmemes@lemmy.world) | ![](https://img.shields.io/lemmy/starwarsmemes@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- Hello there. Somehow, Star Wars memes have returned. It’s not a trap, this is where the fun begins.
 2. **[Lord of the memes](/c/lotrmemes@midwest.social)** | midwest.social | [Mbin](/m/lotrmemes@midwest.social) | [lemmyverse.link](https://lemmyverse.link/c/lotrmemes@midwest.social) | ![](https://img.shields.io/lemmy/lotrmemes@midwest.social?style=flat&label=Subs&cacheSeconds=172800&color=pink)
@@ -178,7 +177,7 @@
 	- A community for sharing humor about Stargate in all its iterations.
 6. **[Dune Memes](/c/dunememes@lemmy.blahaj.zone)** | lemmy.blahaj.zone | [Mbin](/m/dunememes@lemmy.blahaj.zone) | [lemmyverse.link](https://lemmyverse.link/c/dunememes@lemmy.blahaj.zone) | ![](https://img.shields.io/lemmy/dunememes@lemmy.blahaj.zone?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- For making memes about Dune.
-## 4.6. Game (7 communities) [Day 28]
+## 3.6. Game (7 communities) [Day 28]
 1. **[RPGMemes](/c/rpgmemes@ttrpg.network)** | ttrpg.network | [Mbin](/m/rpgmemes@ttrpg.network) | [lemmyverse.link](https://lemmyverse.link/c/rpgmemes@ttrpg.network) | ![](https://img.shields.io/lemmy/rpgmemes@ttrpg.network?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- Humor, jokes, memes about TTRPGs.
 2. **[AnarchyChess](/c/anarchychess@sopuli.xyz)** | sopuli.xyz | [Mbin](/m/anarchychess@sopuli.xyz) | [lemmyverse.link](https://lemmyverse.link/c/anarchychess@sopuli.xyz) | ![](https://img.shields.io/lemmy/anarchychess@sopuli.xyz?style=flat&label=Subs&cacheSeconds=172800&color=pink)
@@ -193,7 +192,7 @@
 	- For trashposting and memes about Souls games developed by FromSoft.
 7. **[Source Memes](/c/sourcememes@lemmy.world)** | lemmy.world | [Mbin](/m/sourcememes@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/sourcememes@lemmy.world) | ![](https://img.shields.io/lemmy/sourcememes@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- Community for memes about the goldsrc/source engine and Valve games.
-## 4.7. Social media (9 communities) [Day 24]
+## 3.7. Social media (9 communities) [Day 24]
 1. (1.1.) **[> Greentext](/c/greentext@lemmy.ml)** | lemmy.ml | [Mbin](/m/greentext@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/greentext@lemmy.ml) | ![](https://img.shields.io/lemmy/greentext@lemmy.ml?style=flat&label=Subs&cacheSeconds=172800&color=pink) (2 communities)
 	- NoDescription
 	1. (1.2.) **[Greentext](/c/greentext@sh.itjust.works)** | sh.itjust.works | [Mbin](/m/greentext@sh.itjust.works) | [lemmyverse.link](https://lemmyverse.link/c/greentext@sh.itjust.works) | ![](https://img.shields.io/lemmy/greentext@sh.itjust.works?style=flat&label=Subs&cacheSeconds=172800&color=plum)
@@ -212,12 +211,12 @@
 	- Share the best posts you find on mastodon. Add a link to the original toot.
 6. **[InsanePeopleFacebook](/c/insanepeoplefacebook@lemmy.world)** | lemmy.world | [Mbin](/m/insanepeoplefacebook@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/insanepeoplefacebook@lemmy.world) | ![](https://img.shields.io/lemmy/insanepeoplefacebook@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- Screenshots of people being insane on Facebook.
-## 4.8. Wholesome (2 communities)
+## 3.8. Wholesome (2 communities)
 1. **[Lemmy Be Wholesome](/c/lemmybewholesome@lemmy.world)** | lemmy.world | [Mbin](/m/lemmybewholesome@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/lemmybewholesome@lemmy.world) | ![](https://img.shields.io/lemmy/lemmybewholesome@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- Welcome to Lemmy Be Wholesome. This is the polar opposite of LemmeShitpost. Here you can post wholesome memes, palate cleanser and good vibes.
 2. **[Wholesome](/c/wholesome@reddthat.com)** | reddthat.com | [Mbin](/m/wholesome@reddthat.com) | [lemmyverse.link](https://lemmyverse.link/c/wholesome@reddthat.com) | ![](https://img.shields.io/lemmy/wholesome@reddthat.com?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- We’re here to help you have a better day! For all wholesome and heartwarming content including memes, news stories, etc.
-## 4.9. Roleplay (5 communities)
+## 3.9. Roleplay (5 communities)
 1. **[Ask Lemmy, Ouija Style](/c/askouija@lemmy.world)** | lemmy.world | [Mbin](/m/askouija@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/askouija@lemmy.world) | ![](https://img.shields.io/lemmy/askouija@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- Ask Lemmy, Ouija Style.
 2. **[Outside](/c/outside@lemmy.world)** | lemmy.world | [Mbin](/m/outside@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/outside@lemmy.world) | ![](https://img.shields.io/lemmy/outside@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
