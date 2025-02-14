@@ -1,11 +1,63 @@
 ### Pages: | [0 ](https://lemmy.dbzer0.com/post/22878561) | [1 ](https://lemmy.dbzer0.com/post/22014843) | [2 ](https://lemmy.dbzer0.com/post/22390186) | [3 ](https://lemmy.dbzer0.com/post/22581840) |[4]| [5 ](https://lemmy.dbzer0.com/post/22662406) | (Direct links.) | [0 ](https://lemmyverse.link/lemmy.dbzer0.com/post/22878561) | [1 ](https://lemmyverse.link/lemmy.dbzer0.com/post/22014843) | [2 ](https://lemmyverse.link/lemmy.dbzer0.com/post/22390186) | [3 ](https://lemmyverse.link/lemmy.dbzer0.com/post/22581840) |[4]| [5 ](https://lemmyverse.link/lemmy.dbzer0.com/post/22662406) | (Lemmyverse.link)
 ```
+4. Professions/Hobbies 😎 / 🤓 (24 communities) ((Will be split later))
+4.1. Misc (24 communities)
 5. Gaming (143 communities)
 5.1. Platforms 🕹️ (18 communities) [Day 7]
 5.2. Games 🎮 (79 communities)
 5.2.1. Misc (73 communities)
 5.2.2. Casual Games (6 communities)
 ```
+# 4. Professions/Hobbies 😎 / 🤓 (24 communities) ((Will be split later))
+## 4.1. Misc (24 communities)
+1. **[3DPrinting](/c/3dprinting@lemmy.world)** | lemmy.world | [Mbin](/m/3dprinting@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/3dprinting@lemmy.world) | ![](https://img.shields.io/lemmy/3dprinting@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
+	- 3DPrinting is a place where makers of all skill levels and walks of life can learn about and discuss 3D printing and development of 3D printed parts and devices.
+2. **[Nature and Gardening](/c/greenspace@beehaw.org)** | beehaw.org | [Mbin](/m/greenspace@beehaw.org) | [lemmyverse.link](https://lemmyverse.link/c/greenspace@beehaw.org) | ![](https://img.shields.io/lemmy/greenspace@beehaw.org?style=flat&label=Subs&cacheSeconds=172800&color=pink)
+	- All things green, outdoors, and nature-y. Whether it’s animals in their natural habitat, hiking trails and mountains, or planting a little garden for yourself (and everything in between), you can talk about it here.
+3. **[Woodworking](/c/woodworking@lemmy.ca)** | lemmy.ca | [Mbin](/m/woodworking@lemmy.ca) | [lemmyverse.link](https://lemmyverse.link/c/woodworking@lemmy.ca) | ![](https://img.shields.io/lemmy/woodworking@lemmy.ca?style=flat&label=Subs&cacheSeconds=172800&color=pink)
+	- A handmade home for woodworkers and admirers of woodworkers.
+4. **[Houseplants](/c/houseplants@mander.xyz)** | mander.xyz | [Mbin](/m/houseplants@mander.xyz) | [lemmyverse.link](https://lemmyverse.link/c/houseplants@mander.xyz) | ![](https://img.shields.io/lemmy/houseplants@mander.xyz?style=flat&label=Subs&cacheSeconds=172800&color=pink)
+	- We’re a warm and informative space for plant enthusiasts to connect, learn, and flourish together.
+5. **[LEGO](/c/lego@lemmy.world)** | lemmy.world | [Mbin](/m/lego@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/lego@lemmy.world) | ![](https://img.shields.io/lemmy/lego@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
+	- Show off your Lego, discuss your MOC’s and builds, and talk news and upcoming sets here!
+6. **[Gardening](/c/gardening@lemmy.world)** | lemmy.world | [Mbin](/m/gardening@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/gardening@lemmy.world) | ![](https://img.shields.io/lemmy/gardening@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
+	- Your Ultimate Gardening Guide.
+7. **[Mycology](/c/mycology@mander.xyz)** | mander.xyz | [Mbin](/m/mycology@mander.xyz) | [lemmyverse.link](https://lemmyverse.link/c/mycology@mander.xyz) | ![](https://img.shields.io/lemmy/mycology@mander.xyz?style=flat&label=Subs&cacheSeconds=172800&color=pink)
+	- NoDescription
+8. **[flashlight](/c/flashlight@lemmy.world)** | lemmy.world | [Mbin](/m/flashlight@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/flashlight@lemmy.world) | ![](https://img.shields.io/lemmy/flashlight@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
+	- Portable illumination.
+9. **[I Made This](/c/imadethis@lemm.ee)** | lemm.ee | [Mbin](/m/imadethis@lemm.ee) | [lemmyverse.link](https://lemmyverse.link/c/imadethis@lemm.ee) | ![](https://img.shields.io/lemmy/imadethis@lemm.ee?style=flat&label=Subs&cacheSeconds=172800&color=pink)
+	- Did you make something? Do you want the fleeting rush of endorphins that come with affirmation from strangers? Do you think what you made is neat? Share it here! Paintings, movies, music, drawings, models, gardens, houses, snowmen, sandcastles - if you made it, you can post it.
+10. **[Mushrooms](/c/mushrooms@lemmy.world)** | lemmy.world | [Mbin](/m/mushrooms@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/mushrooms@lemmy.world) | ![](https://img.shields.io/lemmy/mushrooms@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
+	- NoDescription
+11. **[Medicine](/c/medicine@mander.xyz)** | mander.xyz | [Mbin](/m/medicine@mander.xyz) | [lemmyverse.link](https://lemmyverse.link/c/medicine@mander.xyz) | ![](https://img.shields.io/lemmy/medicine@mander.xyz?style=flat&label=Subs&cacheSeconds=172800&color=pink)
+	- This is a community for medical professionals.
+12. **[PocketKNIFE](/c/pocketknife@lemmy.world)** | lemmy.world | [Mbin](/m/pocketknife@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/pocketknife@lemmy.world) | ![](https://img.shields.io/lemmy/pocketknife@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
+	- This is the place for talking about all things pocket knives, and knife adjacent things. Folders large and small, multi-tools, sharpeners, even fixed blade knives are welcome. Reviews! Advice! Show off your Knives!
+13. **[Amateur Radio](/c/amateur_radio@lemmy.radio)** | lemmy.radio | [Mbin](/m/amateur_radio@lemmy.radio) | [lemmyverse.link](https://lemmyverse.link/c/amateur_radio@lemmy.radio) | ![](https://img.shields.io/lemmy/amateur_radio@lemmy.radio?style=flat&label=Subs&cacheSeconds=172800&color=pink)
+	- General amateur radio (ham radio) chat, questions, and news.
+14. **[Succulents](/c/succulents@midwest.social)** | midwest.social | [Mbin](/m/succulents@midwest.social) | [lemmyverse.link](https://lemmyverse.link/c/succulents@midwest.social) | ![](https://img.shields.io/lemmy/succulents@midwest.social?style=flat&label=Subs&cacheSeconds=172800&color=pink)
+	- You can share and converse about anything succulents.
+15. **[Native Plant Gardening](/c/nativeplantgardening@mander.xyz)** | mander.xyz | [Mbin](/m/nativeplantgardening@mander.xyz) | [lemmyverse.link](https://lemmyverse.link/c/nativeplantgardening@mander.xyz) | ![](https://img.shields.io/lemmy/nativeplantgardening@mander.xyz?style=flat&label=Subs&cacheSeconds=172800&color=pink)
+	- Restoring native plant habitat is vital to preserving biodiversity. By creating a native plant garden, each patch of habitat becomes part of a collective effort to nurture and sustain the living landscape for birds and other animals.
+16. **[Machinist](/c/machinist@sh.itjust.works)** | sh.itjust.works | [Mbin](/m/machinist@sh.itjust.works) | [lemmyverse.link](https://lemmyverse.link/c/machinist@sh.itjust.works) | ![](https://img.shields.io/lemmy/machinist@sh.itjust.works?style=flat&label=Subs&cacheSeconds=172800&color=pink)
+	- From Newcomers to Old Timers, a community united by the Industry of Machining.
+17. **[Bonsai](/c/bonsai@discuss.tchncs.de)** | discuss.tchncs.de | [Mbin](/m/bonsai@discuss.tchncs.de) | [lemmyverse.link](https://lemmyverse.link/c/bonsai@discuss.tchncs.de) | ![](https://img.shields.io/lemmy/bonsai@discuss.tchncs.de?style=flat&label=Subs&cacheSeconds=172800&color=pink)
+	- A place to talk about bonsai plants. Share your bonsais!
+18. **[Balcony Gardening](/c/balconygardening@slrpnk.net)** | slrpnk.net | [Mbin](/m/balconygardening@slrpnk.net) | [lemmyverse.link](https://lemmyverse.link/c/balconygardening@slrpnk.net) | ![](https://img.shields.io/lemmy/balconygardening@slrpnk.net?style=flat&label=Subs&cacheSeconds=172800&color=pink)
+	- Show off that vertical veggie garden 35 stories high. Or that bucket of potatoes you’re proud of. Perhaps some fall mums that have been catching your eye through the sliding door into your living room. Any and all balcony gardens are welcome!
+19. **[Gunpla Building Community](/c/gunpla@lemmy.world)** | lemmy.world | [Mbin](/m/gunpla@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/gunpla@lemmy.world) | ![](https://img.shields.io/lemmy/gunpla@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
+	- Post any Gunpla related projects you have going on!
+20. **[Architecture](/c/architecture@lemmy.world)** | lemmy.world | [Mbin](/m/architecture@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/architecture@lemmy.world) | ![](https://img.shields.io/lemmy/architecture@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
+	- A place for professionals, students, and enthusiasts to share and discuss.
+21. **[Faceting](/c/faceting@lemmy.world)** | lemmy.world | [Mbin](/m/faceting@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/faceting@lemmy.world) | ![](https://img.shields.io/lemmy/faceting@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
+	- Community for discussing faceting and gemstones. If you are a cutter, show off your work, provide tips and tricks or ask for advice. If you don’t cut stones, feel free to ask questions!
+22. **[Cosplay](/c/cosplay@lemmy.blahaj.zone)** | lemmy.blahaj.zone | [Mbin](/m/cosplay@lemmy.blahaj.zone) | [lemmyverse.link](https://lemmyverse.link/c/cosplay@lemmy.blahaj.zone) | ![](https://img.shields.io/lemmy/cosplay@lemmy.blahaj.zone?style=flat&label=Subs&cacheSeconds=172800&color=pink)
+	- For people to share cosplays of theirs. Cosplays of all skill levels are welcome and encouraged.
+23. **[Pokemon Cards](/c/pokemoncards@lemmy.world)** | lemmy.world | [Mbin](/m/pokemoncards@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/pokemoncards@lemmy.world) | ![](https://img.shields.io/lemmy/pokemoncards@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
+	- Happy collecting!
+24. **[Voice Acting Pit](/c/voiceacting@lemmy.world)** | lemmy.world | [Mbin](/m/voiceacting@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/voiceacting@lemmy.world) | ![](https://img.shields.io/lemmy/voiceacting@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
+	- A place for people who are messing around in voice acting to chat, ask questions, and get info. This is not a place to get jobs, post jobs, or promote yourself to get jobs, but please feel free to post stuff you want to show off or get critique on.
 # 5. Gaming (143 communities)
 ## 5.1. Platforms 🕹️ (18 communities) [Day 7]
 1. (1.1.) **[Steam Deck](/c/steamdeck@sopuli.xyz)** | sopuli.xyz | [Mbin](/m/steamdeck@sopuli.xyz) | [lemmyverse.link](https://lemmyverse.link/c/steamdeck@sopuli.xyz) | ![](https://img.shields.io/lemmy/steamdeck@sopuli.xyz?style=flat&label=Subs&cacheSeconds=172800&color=pink) (2 communities)
