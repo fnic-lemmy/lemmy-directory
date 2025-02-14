@@ -4,7 +4,7 @@ import os
 import re
 import json
 
-files = ["README.md", "Directory2.md", "Directory3.md", "Directory4.md", "Directory5.md"]
+files = ["Directory1.md", "Directory2.md", "Directory3.md", "Directory4.md", "Directory5.md", "Directory6.md"]
 communities = {}
 
 path = './lists/'
@@ -42,10 +42,10 @@ for file in files:
         current_subsubsection = match.group(2)
         communities[current_section][current_subsection][current_subsubsection] = []
 
-      match = re.search("^[0-9]+\. \*\*\[.*\]\(/c/(.*)\)\*\*", line)
+      match = re.search("[0-9]+\.( \([0-9]+.[0-9+].\)|) \*\*\[.*\]\(/c/(.*)\)\*\*", line)
       if match is not None:
-        communities[current_section][current_subsection][current_subsubsection].append(match.group(1))
-        print(f'      {match.group(1)}')
+        communities[current_section][current_subsection][current_subsubsection].append(match.group(2))
+        print(f'      {match.group(2)}')
 
 
 # Export FNIC to file
@@ -104,7 +104,7 @@ with open(f'{path}memes-general.json', 'w') as json_file:
 with open(f'{path}memes-news.json', 'w') as json_file:
   json.dump(communities['Memes/Humoristic 🎭']['News format']['None'], json_file, indent=2)
 with open(f'{path}memes-shows.json', 'w') as json_file:
-  json.dump(communities['Memes/Humoristic 🎭']['Show ']['None'], json_file, indent=2)
+  json.dump(communities['Memes/Humoristic 🎭']['Show']['None'], json_file, indent=2)
 with open(f'{path}memes-games.json', 'w') as json_file:
   json.dump(communities['Memes/Humoristic 🎭']['Game']['None'], json_file, indent=2)
 with open(f'{path}memes-social.json', 'w') as json_file:
