@@ -75,4 +75,7 @@ for group in comms:
           except Exception as e:
             desc = f'{group}-{subgroup}-{subsubgroup} [{cm}]\nURL lookup for {url} returned:\n```\n{e}\n```\n'
             print(f'        * {e}')
-            raise_issue(ghtoken, ghrepo, f'Remove {cm}', desc)
+            try:
+              raise_issue(ghtoken, ghrepo, f'Remove {cm}', desc)
+            except Exception as e:
+              print(f'unable to raise github issue: {e}')
