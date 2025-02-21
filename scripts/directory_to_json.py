@@ -4,7 +4,7 @@ import os
 import re
 import json
 
-files = ["Directory1.md", "Directory2.md", "Directory3.md", "Directory4.md", "Directory5.md", "Directory6.md"]
+files = ["Directory1.md", "Directory2.md", "Directory3.md", "Directory4.md", "Directory5.md"]
 communities = {}
 
 path = './lists/'
