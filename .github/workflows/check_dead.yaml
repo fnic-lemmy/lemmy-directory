@@ -1,0 +1,25 @@
+name: check communities
+
+on:
+  schedule:
+    - cron: '44 2 1 * *' # At 02:44 on the 1st
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout repo content
+        uses: actions/checkout@v2 # checkout the repository content
+
+      - name: setup python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11' # install the python version needed
+
+      - name: install python packages
+        run: |
+          python -m pip install --upgrade pip
+          pip install PyGithub pythorhead
+
+      - name: execute py script # run main.py
+        run: python ./scripts/raise_github_issues.py --pass "${{ secrets.LEMMY_PASSWORD }}" --token "${{ secrets.GITHUB_ISSUE_TOKEN }}"
