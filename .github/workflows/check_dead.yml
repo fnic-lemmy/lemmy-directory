@@ -26,4 +26,4 @@ jobs:
         run: python ./scripts/directory_to_json.py
 
       - name: check communities
-        run: python ./scripts/raise_github_issues.py --pass "${{ secrets.LEMMY_PASSWORD }}" --token "${{ secrets.GITHUB_ISSUE_TOKEN }}"
+        run: python ./scripts/raise_github_issues.py --pass "${{ secrets.LEMMY_PASSWORD }}" --token "${{ secrets.ISSUE_TOKEN }}"

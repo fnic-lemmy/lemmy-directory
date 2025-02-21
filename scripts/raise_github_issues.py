@@ -78,4 +78,4 @@ for group in comms:
             try:
               raise_issue(ghtoken, ghrepo, f'Remove {cm}', desc)
             except Exception as e:
-              print(f'unable to raise github issue: {e}')
+              print(f'        * unable to raise github issue. {e}')
