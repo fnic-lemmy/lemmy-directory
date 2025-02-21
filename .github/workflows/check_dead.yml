@@ -1,6 +1,7 @@
 name: check communities
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: '44 2 1 * *' # At 02:44 on the 1st
 
