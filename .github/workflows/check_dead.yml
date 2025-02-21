@@ -22,5 +22,8 @@ jobs:
           python -m pip install --upgrade pip
           pip install PyGithub pythorhead
 
-      - name: execute py script # run main.py
+      - name: export directory
+        run: python ./scripts/directory_to_json.py
+
+      - name: check communities
         run: python ./scripts/raise_github_issues.py --pass "${{ secrets.LEMMY_PASSWORD }}" --token "${{ secrets.GITHUB_ISSUE_TOKEN }}"
