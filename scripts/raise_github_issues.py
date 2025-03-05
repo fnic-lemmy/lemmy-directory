@@ -21,11 +21,8 @@ def get_args():
 
   return(a)
 
-def raise_issue(ghtoken, ghrepo, title, desc):
+def raise_issue(repo, title, desc):
 
-  auth = Auth.Token(ghtoken)
-  g = Github(auth=auth)
-  repo = g.get_repo(ghrepo)
   my_issues = repo.get_issues(state = "open", creator = "fnic-bot")
   for issue in my_issues:
     if issue.title == title:
@@ -35,6 +32,16 @@ def raise_issue(ghtoken, ghrepo, title, desc):
 
   i = repo.create_issue(title = title, body = desc, labels = [repo.get_label(name = "Community Removal")])
 
+def close_existing_issue(repo, title):
+
+  my_issues = repo.get_issues(state = "open", creator = "fnic-bot")
+  for issue in my_issues:
+    if issue.title == title:
+      print('already raised')
+      issue.create_comment(f'Successfully crawled on last check.')
+      issue.edit(state='closed')
+      return
+
 
 a = get_args()
 dfile=a['directory']
@@ -43,6 +50,10 @@ ghrepo=a['repo']
 instance=a['inst']
 user=a['user']
 pw=a['pass']
+
+auth = Auth.Token(ghtoken)
+g = Github(auth=ghtoken)
+repo = g.get_repo(ghrepo)
 
 lemmy = Lemmy(f'https://{instance}', raise_exceptions=True, request_timeout=30)
 try:
@@ -72,10 +83,11 @@ for group in comms:
           url = f'https://{cms[1]}/{c}/{cms[0]}'
           try:
             s = lemmy.resolve_object(url)
+            close_existing_issue(repo, f'Remove {cm}')
           except Exception as e:
             desc = f'{group}-{subgroup}-{subsubgroup} [{cm}]\nURL lookup for {url} returned:\n```\n{e}\n```\n'
             print(f'        * {e}')
             try:
-              raise_issue(ghtoken, ghrepo, f'Remove {cm}', desc)
+              raise_issue(repo, f'Remove {cm}', desc)
             except Exception as e:
               print(f'        * unable to raise github issue. {e}')
