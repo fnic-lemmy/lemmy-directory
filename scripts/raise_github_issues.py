@@ -52,7 +52,7 @@ user=a['user']
 pw=a['pass']
 
 auth = Auth.Token(ghtoken)
-g = Github(auth=ghtoken)
+g = Github(auth=auth)
 repo = g.get_repo(ghrepo)
 
 lemmy = Lemmy(f'https://{instance}', raise_exceptions=True, request_timeout=30)
