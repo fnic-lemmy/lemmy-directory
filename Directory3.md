@@ -154,11 +154,9 @@
 	- Post your funny, weird, strange, or quirky news stories here!
 5. **[And Finally...](/c/andfinally@feddit.uk)** | feddit.uk | [Mbin](/m/andfinally@feddit.uk) | [lemmyverse.link](https://lemmyverse.link/c/andfinally@feddit.uk) | ![](https://img.shields.io/lemmy/andfinally@feddit.uk?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- A place for odd or quirky world news stories.
-6. **[Weird News](/c/weirdnews@real.lemmy.fan)** | real.lemmy.fan | [Mbin](/m/weirdnews@real.lemmy.fan) | [lemmyverse.link](https://lemmyverse.link/c/weirdnews@real.lemmy.fan) | ![](https://img.shields.io/lemmy/weirdnews@real.lemmy.fan?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- NoDescription
-7. **[Strange Times](/c/strangetimes@lemmy.world)** | lemmy.world | [Mbin](/m/strangetimes@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/strangetimes@lemmy.world) | ![](https://img.shields.io/lemmy/strangetimes@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
+6. **[Strange Times](/c/strangetimes@lemmy.world)** | lemmy.world | [Mbin](/m/strangetimes@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/strangetimes@lemmy.world) | ![](https://img.shields.io/lemmy/strangetimes@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- News about weird nature, unusual happenings, and fringe claims. Anomalies, animals, nature, Fortean, paranormal, cryptids, weather.
-8. **[SERIOUS NEWS ONLY](/c/seriousnews@lemmy.world)** | lemmy.world | [Mbin](/m/seriousnews@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/seriousnews@lemmy.world) | ![](https://img.shields.io/lemmy/seriousnews@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
+7. **[SERIOUS NEWS ONLY](/c/seriousnews@lemmy.world)** | lemmy.world | [Mbin](/m/seriousnews@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/seriousnews@lemmy.world) | ![](https://img.shields.io/lemmy/seriousnews@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- Dont actually post anything serious or youll be banned.
 ## 3.5. Show (6 communities) [Day 10]
 1. **[Star Wars Memes](/c/starwarsmemes@lemmy.world)** | lemmy.world | [Mbin](/m/starwarsmemes@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/starwarsmemes@lemmy.world) | ![](https://img.shields.io/lemmy/starwarsmemes@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
