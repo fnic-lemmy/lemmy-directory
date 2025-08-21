@@ -165,11 +165,9 @@
 		- NoDescription
 	2. (1.3.) **[Animals With Jobs](/c/animalswithjobs@lemmy.world)** | lemmy.world | [Mbin](/m/animalswithjobs@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/animalswithjobs@lemmy.world) | ![](https://img.shields.io/lemmy/animalswithjobs@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=plum)
 		- Is it an animal? Does it have a job? Then it belongs here!
-	3. (1.4.) **[Aminals](/c/aminals@lemmy.best)** | lemmy.best | [Mbin](/m/aminals@lemmy.best) | [lemmyverse.link](https://lemmyverse.link/c/aminals@lemmy.best) | ![](https://img.shields.io/lemmy/aminals@lemmy.best?style=flat&label=Subs&cacheSeconds=172800&color=plum)
-		- Look at the Aminals.
-	4. (1.5.) **[Animals@stad](/c/animals@lemmy.stad.social)** | lemmy.stad.social | [Mbin](/m/animals@lemmy.stad.social) | [lemmyverse.link](https://lemmyverse.link/c/animals@lemmy.stad.social) | ![](https://img.shields.io/lemmy/animals@lemmy.stad.social?style=flat&label=Subs&cacheSeconds=172800&color=plum)
+	3. (1.5.) **[Animals@stad](/c/animals@lemmy.stad.social)** | lemmy.stad.social | [Mbin](/m/animals@lemmy.stad.social) | [lemmyverse.link](https://lemmyverse.link/c/animals@lemmy.stad.social) | ![](https://img.shields.io/lemmy/animals@lemmy.stad.social?style=flat&label=Subs&cacheSeconds=172800&color=plum)
 		- Pictures of animals, art incorporating animals, or anything fun.
-	5. (1.6.) **[Animals](/c/animals@lemmy.world)** | lemmy.world | [Mbin](/m/animals@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/animals@lemmy.world) | ![](https://img.shields.io/lemmy/animals@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=plum)
+	4. (1.6.) **[Animals](/c/animals@lemmy.world)** | lemmy.world | [Mbin](/m/animals@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/animals@lemmy.world) | ![](https://img.shields.io/lemmy/animals@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=plum)
 		- Anything and everything about non-human animals.
 2. (2.1.) **[cats](/c/cat@lemmy.world)** | lemmy.world | [Mbin](/m/cat@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/cat@lemmy.world) | ![](https://img.shields.io/lemmy/cat@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink) (5 communities)
 	- Typical internet cats. videos, pics, memes welcome!
