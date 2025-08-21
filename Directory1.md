@@ -28,27 +28,9 @@
 	- A community to share images of mermaids, mermen and other humanoid merfolk.
 7. **[Imaginary Maps - Your source for fictional maps.](/c/imaginarymaps@lemmy.ml)** | lemmy.ml | [Mbin](/m/imaginarymaps@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/imaginarymaps@lemmy.ml) | ![](https://img.shields.io/lemmy/imaginarymaps@lemmy.ml?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- Maps have been around for centuries- they help us know what cultures were aware of in terms of their neighbors, other lands, and so on. Map making continues today, as we map other planets, the bottom of the seas, and continually produce high quality maps here that measure various aspects of culture, demographics, and geography.
-8. **[Imaginary Cybernetics](/c/imaginarycybernetics@lemmy.dbzer0.com)** | lemmy.dbzer0.com | [Mbin](/m/imaginarycybernetics@lemmy.dbzer0.com) | [lemmyverse.link](https://lemmyverse.link/c/imaginarycybernetics@lemmy.dbzer0.com) | ![](https://img.shields.io/lemmy/imaginarycybernetics@lemmy.dbzer0.com?style=flat&label=Subs&cacheSeconds=172800&color=pink)
+8. **[Imaginary Slice of Life](/c/imaginarysliceoflife@lemmy.dbzer0.com)** | lemmy.dbzer0.com | [Mbin](/m/imaginarysliceoflife@lemmy.dbzer0.com) | [lemmyverse.link](https://lemmyverse.link/c/imaginarysliceoflife@lemmy.dbzer0.com) | ![](https://img.shields.io/lemmy/imaginarysliceoflife@lemmy.dbzer0.com?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- NoDescription
-9. **[Imaginary Mechs](/c/imaginarymechs@lemmy.dbzer0.com)** | lemmy.dbzer0.com | [Mbin](/m/imaginarymechs@lemmy.dbzer0.com) | [lemmyverse.link](https://lemmyverse.link/c/imaginarymechs@lemmy.dbzer0.com) | ![](https://img.shields.io/lemmy/imaginarymechs@lemmy.dbzer0.com?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- NoDescription
-10. **[Imaginary Slice of Life](/c/imaginarysliceoflife@lemmy.dbzer0.com)** | lemmy.dbzer0.com | [Mbin](/m/imaginarysliceoflife@lemmy.dbzer0.com) | [lemmyverse.link](https://lemmyverse.link/c/imaginarysliceoflife@lemmy.dbzer0.com) | ![](https://img.shields.io/lemmy/imaginarysliceoflife@lemmy.dbzer0.com?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- NoDescription
-11. **[Imaginary Aviation](/c/imaginaryaviation@lemmy.dbzer0.com)** | lemmy.dbzer0.com | [Mbin](/m/imaginaryaviation@lemmy.dbzer0.com) | [lemmyverse.link](https://lemmyverse.link/c/imaginaryaviation@lemmy.dbzer0.com) | ![](https://img.shields.io/lemmy/imaginaryaviation@lemmy.dbzer0.com?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- NoDescription
-12. **[Imaginary Characters](/c/imaginarycharacters@lemmy.dbzer0.com)** | lemmy.dbzer0.com | [Mbin](/m/imaginarycharacters@lemmy.dbzer0.com) | [lemmyverse.link](https://lemmyverse.link/c/imaginarycharacters@lemmy.dbzer0.com) | ![](https://img.shields.io/lemmy/imaginarycharacters@lemmy.dbzer0.com?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- NoDescription
-13. **[Imaginary Monsters](/c/imaginarymonsters@lemmy.dbzer0.com)** | lemmy.dbzer0.com | [Mbin](/m/imaginarymonsters@lemmy.dbzer0.com) | [lemmyverse.link](https://lemmyverse.link/c/imaginarymonsters@lemmy.dbzer0.com) | ![](https://img.shields.io/lemmy/imaginarymonsters@lemmy.dbzer0.com?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- NoDescription
-14. **[Imaginary Weapons](/c/imaginaryweapons@lemmy.dbzer0.com)** | lemmy.dbzer0.com | [Mbin](/m/imaginaryweapons@lemmy.dbzer0.com) | [lemmyverse.link](https://lemmyverse.link/c/imaginaryweapons@lemmy.dbzer0.com) | ![](https://img.shields.io/lemmy/imaginaryweapons@lemmy.dbzer0.com?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- NoDescription
-15. **[Imaginary Vistas](/c/imaginaryvistas@lemmy.dbzer0.com)** | lemmy.dbzer0.com | [Mbin](/m/imaginaryvistas@lemmy.dbzer0.com) | [lemmyverse.link](https://lemmyverse.link/c/imaginaryvistas@lemmy.dbzer0.com) | ![](https://img.shields.io/lemmy/imaginaryvistas@lemmy.dbzer0.com?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- NoDescription
-16. **[Imaginary Ground Vehicles](/c/imaginarygroundvehicles@lemmy.dbzer0.com)** | lemmy.dbzer0.com | [Mbin](/m/imaginarygroundvehicles@lemmy.dbzer0.com) | [lemmyverse.link](https://lemmyverse.link/c/imaginarygroundvehicles@lemmy.dbzer0.com) | ![](https://img.shields.io/lemmy/imaginarygroundvehicles@lemmy.dbzer0.com?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- NoDescription
-17. **[Imaginary Vessels](/c/imaginaryvessels@lemmy.dbzer0.com)** | lemmy.dbzer0.com | [Mbin](/m/imaginaryvessels@lemmy.dbzer0.com) | [lemmyverse.link](https://lemmyverse.link/c/imaginaryvessels@lemmy.dbzer0.com) | ![](https://img.shields.io/lemmy/imaginaryvessels@lemmy.dbzer0.com?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- NoDescription
-18. **[Imaginary Dolor](/c/imaginarydolor@lemmy.dbzer0.com)** 🔒 | lemmy.dbzer0.com | [Mbin](/m/imaginarydolor@lemmy.dbzer0.com) | [lemmyverse.link](https://lemmyverse.link/c/imaginarydolor@lemmy.dbzer0.com) | ![](https://img.shields.io/lemmy/imaginarydolor@lemmy.dbzer0.com?style=flat&label=Subs&cacheSeconds=172800&color=pink)
+9. **[Imaginary Characters](/c/imaginarycharacters@lemmy.dbzer0.com)** | lemmy.dbzer0.com | [Mbin](/m/imaginarycharacters@lemmy.dbzer0.com) | [lemmyverse.link](https://lemmyverse.link/c/imaginarycharacters@lemmy.dbzer0.com) | ![](https://img.shields.io/lemmy/imaginarycharacters@lemmy.dbzer0.com?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- NoDescription
 ## 1.2. General Artworks 🎨 (26 communities) [Day 8]
 1. **[Digital Art](/c/digitalart@lemmy.world)** | lemmy.world | [Mbin](/m/digitalart@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/digitalart@lemmy.world) | ![](https://img.shields.io/lemmy/digitalart@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
