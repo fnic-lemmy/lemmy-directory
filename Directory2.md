@@ -203,13 +203,11 @@
 	- For the bees! And their buzzy little bums.
 13. (13.1.) **[Awwnverts](/c/awwnverts@lemmy.world)** | lemmy.world | [Mbin](/m/awwnverts@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/awwnverts@lemmy.world) | ![](https://img.shields.io/lemmy/awwnverts@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink) (5 communities)
 	- Cutie pies, sans vertebrae.
-	1. (13.2.) **[The Bug Menagerie](/c/bugmenagerie@possumpat.io)** | possumpat.io | [Mbin](/m/bugmenagerie@possumpat.io) | [lemmyverse.link](https://lemmyverse.link/c/bugmenagerie@possumpat.io) | ![](https://img.shields.io/lemmy/bugmenagerie@possumpat.io?style=flat&label=Subs&cacheSeconds=172800&color=plum)
-		- A community for posting bugs, arachnids, arthropods, invertebrates, and any other kind of cool critter.
-	2. (13.3.) **[Entomology](/c/entomology@mander.xyz)** | mander.xyz | [Mbin](/m/entomology@mander.xyz) | [lemmyverse.link](https://lemmyverse.link/c/entomology@mander.xyz) | ![](https://img.shields.io/lemmy/entomology@mander.xyz?style=flat&label=Subs&cacheSeconds=172800&color=plum)
+	1. (13.3.) **[Entomology](/c/entomology@mander.xyz)** | mander.xyz | [Mbin](/m/entomology@mander.xyz) | [lemmyverse.link](https://lemmyverse.link/c/entomology@mander.xyz) | ![](https://img.shields.io/lemmy/entomology@mander.xyz?style=flat&label=Subs&cacheSeconds=172800&color=plum)
 		- A general community to post things about insects.
-	3. (13.4.) **[What's this Bug?](/c/whatsthisbug@lemmy.ml)** | lemmy.ml | [Mbin](/m/whatsthisbug@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/whatsthisbug@lemmy.ml) | ![](https://img.shields.io/lemmy/whatsthisbug@lemmy.ml?style=flat&label=Subs&cacheSeconds=172800&color=plum)
+	2. (13.4.) **[What's this Bug?](/c/whatsthisbug@lemmy.ml)** | lemmy.ml | [Mbin](/m/whatsthisbug@lemmy.ml) | [lemmyverse.link](https://lemmyverse.link/c/whatsthisbug@lemmy.ml) | ![](https://img.shields.io/lemmy/whatsthisbug@lemmy.ml?style=flat&label=Subs&cacheSeconds=172800&color=plum)
 		- A community for insect, arachnid, myriapod and general bug identification!
-	4. (13.5.) **[bugs](/c/bugs@lemmy.world)** | lemmy.world | [Mbin](/m/bugs@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/bugs@lemmy.world) | ![](https://img.shields.io/lemmy/bugs@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=plum)
+	3. (13.5.) **[bugs](/c/bugs@lemmy.world)** | lemmy.world | [Mbin](/m/bugs@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/bugs@lemmy.world) | ![](https://img.shields.io/lemmy/bugs@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=plum)
 		- A casual place for _Arthropoda_.
 14. (14.1.) **[Squirrels](/c/squirrels@lemmy.ca)** | lemmy.ca | [Mbin](/m/squirrels@lemmy.ca) | [lemmyverse.link](https://lemmyverse.link/c/squirrels@lemmy.ca) | ![](https://img.shields.io/lemmy/squirrels@lemmy.ca?style=flat&label=Subs&cacheSeconds=172800&color=pink) (2 communities)
 	- A community devoted to one of the most fascinating, mischievous, adorable critters on our planet.
