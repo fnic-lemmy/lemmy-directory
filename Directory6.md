@@ -82,29 +82,25 @@
 	- description
 17. **[Sublinks](/c/sublinks@discuss.online)** | discuss.online | [Mbin](/m/sublinks@discuss.online) | [lemmyverse.link](https://lemmyverse.link/c/sublinks@discuss.online) | ![](https://img.shields.io/lemmy/sublinks@discuss.online?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- description
-18. **[Lemmy Moderation Tools](/c/lemmy_mod_tools@discuss.online)** | discuss.online | [Mbin](/m/lemmy_mod_tools@discuss.online) | [lemmyverse.link](https://lemmyverse.link/c/lemmy_mod_tools@discuss.online) | ![](https://img.shields.io/lemmy/lemmy_mod_tools@discuss.online?style=flat&label=Subs&cacheSeconds=172800&color=pink)
+18. **[Announcements](/c/announcements@discuss.online)** | discuss.online | [Mbin](/m/announcements@discuss.online) | [lemmyverse.link](https://lemmyverse.link/c/announcements@discuss.online) | ![](https://img.shields.io/lemmy/announcements@discuss.online?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- description
-19. **[Announcements](/c/announcements@discuss.online)** | discuss.online | [Mbin](/m/announcements@discuss.online) | [lemmyverse.link](https://lemmyverse.link/c/announcements@discuss.online) | ![](https://img.shields.io/lemmy/announcements@discuss.online?style=flat&label=Subs&cacheSeconds=172800&color=pink)
+19. **[Lost Lemmings](/c/lostlemmys@lemmy.world)** | lemmy.world | [Mbin](/m/lostlemmys@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/lostlemmys@lemmy.world) | ![](https://img.shields.io/lemmy/lostlemmys@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- description
-20. **[Lost Lemmings](/c/lostlemmys@lemmy.world)** | lemmy.world | [Mbin](/m/lostlemmys@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/lostlemmys@lemmy.world) | ![](https://img.shields.io/lemmy/lostlemmys@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
+20. **[Discover new communities](/c/newcommunities@discuss.online)** | discuss.online | [Mbin](/m/newcommunities@discuss.online) | [lemmyverse.link](https://lemmyverse.link/c/newcommunities@discuss.online) | ![](https://img.shields.io/lemmy/newcommunities@discuss.online?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- description
-21. **[To The Fediverse](/c/fediverse@discuss.online)** | discuss.online | [Mbin](/m/fediverse@discuss.online) | [lemmyverse.link](https://lemmyverse.link/c/fediverse@discuss.online) | ![](https://img.shields.io/lemmy/fediverse@discuss.online?style=flat&label=Subs&cacheSeconds=172800&color=pink)
+21. **[Lemmy Directory](/c/lemmydirectory@lemmy.dbzer0.com)** | lemmy.dbzer0.com | [Mbin](/m/lemmydirectory@lemmy.dbzer0.com) | [lemmyverse.link](https://lemmyverse.link/c/lemmydirectory@lemmy.dbzer0.com) | ![](https://img.shields.io/lemmy/lemmydirectory@lemmy.dbzer0.com?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- description
-22. **[Discover new communities](/c/newcommunities@discuss.online)** | discuss.online | [Mbin](/m/newcommunities@discuss.online) | [lemmyverse.link](https://lemmyverse.link/c/newcommunities@discuss.online) | ![](https://img.shields.io/lemmy/newcommunities@discuss.online?style=flat&label=Subs&cacheSeconds=172800&color=pink)
+22. **[New Here](/c/new_here@discuss.online)** | discuss.online | [Mbin](/m/new_here@discuss.online) | [lemmyverse.link](https://lemmyverse.link/c/new_here@discuss.online) | ![](https://img.shields.io/lemmy/new_here@discuss.online?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- description
-23. **[Lemmy Directory](/c/lemmydirectory@lemmy.dbzer0.com)** | lemmy.dbzer0.com | [Mbin](/m/lemmydirectory@lemmy.dbzer0.com) | [lemmyverse.link](https://lemmyverse.link/c/lemmydirectory@lemmy.dbzer0.com) | ![](https://img.shields.io/lemmy/lemmydirectory@lemmy.dbzer0.com?style=flat&label=Subs&cacheSeconds=172800&color=pink)
+23. **[Leminal Space](/c/leminalspace@leminal.space)** | leminal.space | [Mbin](/m/leminalspace@leminal.space) | [lemmyverse.link](https://lemmyverse.link/c/leminalspace@leminal.space) | ![](https://img.shields.io/lemmy/leminalspace@leminal.space?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- description
-24. **[New Here](/c/new_here@discuss.online)** | discuss.online | [Mbin](/m/new_here@discuss.online) | [lemmyverse.link](https://lemmyverse.link/c/new_here@discuss.online) | ![](https://img.shields.io/lemmy/new_here@discuss.online?style=flat&label=Subs&cacheSeconds=172800&color=pink)
+24. **[Test](/c/test@discuss.tchncs.de)** | discuss.tchncs.de | [Mbin](/m/test@discuss.tchncs.de) | [lemmyverse.link](https://lemmyverse.link/c/test@discuss.tchncs.de) | ![](https://img.shields.io/lemmy/test@discuss.tchncs.de?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- description
-25. **[Leminal Space](/c/leminalspace@leminal.space)** | leminal.space | [Mbin](/m/leminalspace@leminal.space) | [lemmyverse.link](https://lemmyverse.link/c/leminalspace@leminal.space) | ![](https://img.shields.io/lemmy/leminalspace@leminal.space?style=flat&label=Subs&cacheSeconds=172800&color=pink)
+25. **[Sublinks Support](/c/sublinks_support@discuss.online)** | discuss.online | [Mbin](/m/sublinks_support@discuss.online) | [lemmyverse.link](https://lemmyverse.link/c/sublinks_support@discuss.online) | ![](https://img.shields.io/lemmy/sublinks_support@discuss.online?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- description
-26. **[Test](/c/test@discuss.tchncs.de)** | discuss.tchncs.de | [Mbin](/m/test@discuss.tchncs.de) | [lemmyverse.link](https://lemmyverse.link/c/test@discuss.tchncs.de) | ![](https://img.shields.io/lemmy/test@discuss.tchncs.de?style=flat&label=Subs&cacheSeconds=172800&color=pink)
+26. **[Tesseract for Sublinks/Lemmy](/c/tesseract@dubvee.org)** | dubvee.org | [Mbin](/m/tesseract@dubvee.org) | [lemmyverse.link](https://lemmyverse.link/c/tesseract@dubvee.org) | ![](https://img.shields.io/lemmy/tesseract@dubvee.org?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- description
-27. **[Sublinks Support](/c/sublinks_support@discuss.online)** | discuss.online | [Mbin](/m/sublinks_support@discuss.online) | [lemmyverse.link](https://lemmyverse.link/c/sublinks_support@discuss.online) | ![](https://img.shields.io/lemmy/sublinks_support@discuss.online?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- description
-28. **[Tesseract for Sublinks/Lemmy](/c/tesseract@dubvee.org)** | dubvee.org | [Mbin](/m/tesseract@dubvee.org) | [lemmyverse.link](https://lemmyverse.link/c/tesseract@dubvee.org) | ![](https://img.shields.io/lemmy/tesseract@dubvee.org?style=flat&label=Subs&cacheSeconds=172800&color=pink)
-	- description
-29. **[Save The Echo Bunker!](/c/savetheechobunker@lemmy.world)** | lemmy.world | [Mbin](/m/savetheechobunker@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/savetheechobunker@lemmy.world) | ![](https://img.shields.io/lemmy/savetheechobunker@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
+27. **[Save The Echo Bunker!](/c/savetheechobunker@lemmy.world)** | lemmy.world | [Mbin](/m/savetheechobunker@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/savetheechobunker@lemmy.world) | ![](https://img.shields.io/lemmy/savetheechobunker@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 	- description
 ### 4.2. Donations (Warning! Do your own research before donating.)
 1. Shields.io https://opencollective.com/shields
