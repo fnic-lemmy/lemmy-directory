@@ -1,4 +1,4 @@
-### Sport 🏟️ (19 communities)
+### Sport 🏟️ (18 communities)
 1. **[Formula 1](/c/formula1@lemmy.world)** | lemmy.world | [Mbin](/m/formula1@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/formula1@lemmy.world) | ![](https://img.shields.io/lemmy/formula1@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 2. **[Football (Soccer fútbol fußball 足球 )](/c/football@lemmy.world)** | lemmy.world | [Mbin](/m/football@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/football@lemmy.world) | ![](https://img.shields.io/lemmy/football@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
 3. **[NBA](/c/nba@lemmy.world)** | lemmy.world | [Mbin](/m/nba@lemmy.world) | [lemmyverse.link](https://lemmyverse.link/c/nba@lemmy.world) | ![](https://img.shields.io/lemmy/nba@lemmy.world?style=flat&label=Subs&cacheSeconds=172800&color=pink)
