@@ -16,60 +16,60 @@ Markers we use.
 
 🤖 = Community that's mostly maintained by a bot account/s.
 ```
-# Directory (499 communities)
+# Directory (420 top, 53 nested, 473 total communities)
 
 Part 1/5
-# 1. Art (200 communities)
-## 1.1. Imaginary Network 💭 (27 communities) [Day 1]
-## 1.2. General Artworks 🎨 (26 communities) [Day 8]
-## 1.3. Anime Artworks 💢 (19 communities) [Day 26]
-## 1.4. Music 🎵 (53 communities)
-### 1.4.1. General discussion (15 communities) [Day 4]
-### 1.4.2. Genres (31 communities) [Day 18]
+# 1. Art (156 top, 18 nested, 174 total communities)
+## 1.1. Imaginary Network 💭 (9 communities) [Day 1]
+## 1.2. General Artworks 🎨 (22 top, 2 nested, 24 total communities) [Day 8]
+## 1.3. Anime Artworks 💢 (18 communities) [Day 26]
+## 1.4. Music 🎵 (39 top, 13 nested, 52 total communities)
+### 1.4.1. General discussion (9 top, 6 nested, 15 total communities) [Day 4]
+### 1.4.2. Genres (22 top, 7 nested, 29 total communities) [Day 18]
 ### 1.4.3. Time periods (2 communities)
 ### 1.4.4. Artists/bands (3 communities)
 ### 1.4.5. Instruments/Hardware (3 communities)
 
 Part 2/5
-## 1.5. Photography 📷 (26 communities) [Day 22]
-## 1.6. Themes 🖼️ (9 communities) [Day 5]
-## 1.7. Comics 🗯️ (21 communities) [Day 15]
+## 1.5. Photography 📷 (24 top, 2 nested, 26 total communities) [Day 22]
+## 1.6. Themes 🖼️ (8 top, 1 nested, 9 total communities) [Day 5]
+## 1.7. Comics 🗯️ (19 communities) [Day 15]
 ## 1.8. Writing/Reading 📖 (4 communities)
-## 1.9. AI 🤖 (6 communities) [Day 12]
+## 1.9. AI 🤖 (5 communities) [Day 12]
 ## 1.10. Wallpapers 🌇 (8 communities) [Day 19]
 
-# 2. Animals 🐘 (26 communities)
-## 2.1. Misc (26 communities) [Day 20]
+# 2. Animals 🐘 (20 top, 16 nested, 36 total communities)
+## 2.1. Misc (20 top, 16 nested, 36 total communities) [Day 20]
 
 Part 3/5
 # 3. Memes/Humoristic 🎭 (106 communities)
-## 3.1. Misc (54 communities)
+## 3.1. Misc (49 communities)
 ## 3.2. General (13 communities) [Day 17]
 ## 3.3. Text format (2 communities)
-## 3.4. News format (8 communities) [Day 3]
+## 3.4. News format (7 communities) [Day 3]
 ## 3.5. Show (6 communities) [Day 10]
 ## 3.6. Game (7 communities) [Day 28]
-## 3.7. Social media (9 communities) [Day 24]
+## 3.7. Social media (6 top, 3 nested, 9 total communities) [Day 24]
 ## 3.8. Wholesome (2 communities)
 ## 3.9. Roleplay (5 communities)
 
 Part 4/5
-# 4. Professions/Hobbies 😎 / 🤓 (24 communities) ((Will be split later))
-## 4.1. Misc (24 communities)
+# 4. Professions/Hobbies 😎 / 🤓 (23 communities) ((Will be split later))
+## 4.1. Misc (23 communities)
 
-# 5. Gaming (143 communities)
-## 5.1. Platforms 🕹️ (18 communities) [Day 7]
-## 5.2. Games 🎮 (79 communities)
-### 5.2.1. Misc (73 communities)
+# 5. Gaming (124 top, 16 nested, 140 total communities)
+## 5.1. Platforms 🕹️ (14 top, 4 nested, 18 total communities) [Day 7]
+## 5.2. Games 🎮 (77 communities)
+### 5.2.1. Misc (71 communities)
 ### 5.2.2. Casual Games (6 communities)
 
 Part 5/5
 ## 5.3. Engines (4 communities)
-## 5.4. Genres (17 communities) [Day 14]
-## 5.5. Dev (4 communities)
-## 5.6. Deals/Giveaways 💸 (5 communities)
+## 5.4. Genres (13 top, 3 nested, 16 total communities) [Day 14]
+## 5.5. Dev (3 top, 1 nested, 4 total communities)
+## 5.6. Deals/Giveaways 💸 (4 top, 1 nested, 5 total communities)
 ## 5.7. Stores 🛒 (2 communities)
-## 5.8. General (14 communities) [Day 21]
+## 5.8. General (7 top, 7 nested, 14 total communities) [Day 21]
 ```
 Automated accounts ran in this community: +their schedule +their sections
 
